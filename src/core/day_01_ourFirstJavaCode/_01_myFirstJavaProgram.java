@@ -7,7 +7,6 @@ public class _01_myFirstJavaProgram {
 	/**
 	 * @param args
 	 */
-
 	// Every Java application must contain a main method whose signature looks like
 	// this:
 	//
