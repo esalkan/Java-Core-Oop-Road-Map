@@ -4,7 +4,6 @@ package core.day_02_printingComments;
  *
  */
 public class _03_task_01_triangle {
-
 	/**
 	 * @param args
 	 */
