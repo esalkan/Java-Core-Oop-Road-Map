@@ -1,5 +1,4 @@
 package core.day_02_printingComments;
-
 /**
  * @author esalkan
  *
