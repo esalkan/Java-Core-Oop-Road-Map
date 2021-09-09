@@ -1,5 +1,4 @@
 package core.day_03_variables_dataTypes;
-
 /**
  * @author esalkan
  *
