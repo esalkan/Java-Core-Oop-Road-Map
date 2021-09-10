@@ -14,7 +14,6 @@ public class _06_task_13_findSum {
 		num1 = 200;
 		num2 = 100;
 		sum = num1 + num2;
-
 		System.out.println(num1 + " + " + num2 + " = " + sum);
 	}
 

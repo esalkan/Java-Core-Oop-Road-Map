@@ -1,5 +1,4 @@
 package core.day_04_arithmethicOperators;
-
 /**
  * @author esalkan
  *
@@ -16,5 +15,4 @@ public class _07_task_14_convertFahrenheitToCelcius {
 
 		System.out.println(celcius + " Celcius is equal to = " + fahrenheit + " Fahrenheit");
 	}
-
 }

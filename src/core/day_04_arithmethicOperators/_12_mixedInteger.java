@@ -1,5 +1,4 @@
 package core.day_04_arithmethicOperators;
-
 /**
  * @author esalkan
  *
@@ -10,19 +9,19 @@ public class _12_mixedInteger {
 	 * @param args
 	 */
 
-	/*
-	 * Mixed Integer Operations -> When values of the byte or short data types are
-	 * used in arithmetic expressions, they are temporarily converted to int values.
-	 * 
-	 * -> The result of an arithmetic operation using only a mixture of byte, short,
-	 * or int values will always be an int
-	 * 
-	 * short firstNumner = 10; short secondNumber = 20; short thirdNumber;
-	 * 
-	 * // Error thirdNumber = firstNumber + secondNumber;
-	 */
-	public static void main(String[] args) {
 
+	public static void main(String[] args) {
+		/**
+		 * Mixed Integer Operations -> When values of the byte or short data types are
+		 * used in arithmetic expressions, they are temporarily converted to int values.
+		 * 
+		 * -> The result of an arithmetic operation using only a mixture of byte, short,
+		 * or int values will always be an int
+		 * 
+		 * short firstNumner = 10; short secondNumber = 20; short thirdNumber;
+		 * 
+		 *  Error thirdNumber = firstNumber + secondNumber;
+		 */
 		// short firstNumner = 10;
 		// short secondNumber = 20;
 		// short thirdNumber;

@@ -5,7 +5,6 @@ package core.day_04_arithmethicOperators;
  *
  */
 public class _02_additionConcat {
-
 	/**
 	 * @param args
 	 */

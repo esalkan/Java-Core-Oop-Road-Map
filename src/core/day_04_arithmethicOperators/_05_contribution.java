@@ -18,7 +18,6 @@ public class _05_contribution {
 		 * Variables to hold the monthly pay and the amount of the contribution
 		 * 
 		 */
-
 		int paymentAmount;
 		double percentage5, percentage8, percentage10;
 

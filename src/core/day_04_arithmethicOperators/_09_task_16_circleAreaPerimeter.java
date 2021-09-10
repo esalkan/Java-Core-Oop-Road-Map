@@ -1,5 +1,4 @@
 package core.day_04_arithmethicOperators;
-
 /**
  * @author esalkan
  *

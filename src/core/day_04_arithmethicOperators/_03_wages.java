@@ -10,7 +10,6 @@ public class _03_wages {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		double regularWage; // The calculate regular wage 0,00
 		double basePay = 25; // The base Pay
 		double regularHours = 40; // The hours worked less overtime
