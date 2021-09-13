@@ -10,7 +10,6 @@ public class _03_task_19_unaryOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int a = 50;
 		// st1 = step1
 		// st2 = step2 etc...

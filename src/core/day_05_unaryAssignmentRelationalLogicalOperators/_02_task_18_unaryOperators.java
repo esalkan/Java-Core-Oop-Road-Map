@@ -5,7 +5,6 @@ package core.day_05_unaryAssignmentRelationalLogicalOperators;
  *
  */
 public class _02_task_18_unaryOperators {
-
 	/**
 	 * @param args
 	 */
