@@ -10,8 +10,6 @@ public class _05_task_unNumbered_4_logicalOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		// Declare the variables
 		boolean x = true, z = true;
 		// Assign the value

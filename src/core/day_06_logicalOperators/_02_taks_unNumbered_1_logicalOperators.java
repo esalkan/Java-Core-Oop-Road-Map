@@ -10,7 +10,6 @@ public class _02_taks_unNumbered_1_logicalOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int ApplesCount = 20;
 		int OrangesCount = 30;
 		int PearsCount = 30;

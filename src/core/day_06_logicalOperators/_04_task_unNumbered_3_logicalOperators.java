@@ -10,7 +10,6 @@ public class _04_task_unNumbered_3_logicalOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int b = 2;
 
 		// False || True && False

@@ -10,7 +10,6 @@ public class _03_task_unNumbered_2_logicalOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		String outsideWeather;
 		int Degree;
 		outsideWeather = "Shinny";
