@@ -13,7 +13,6 @@ public class _02_smallTasks_task_1_ifStatement2 {
 	// Write an if statement that assigns 5 to x when y is equal to 20
 
 	public static void main(String[] args) {
-
 		int x, y;
 		x = 10;
 		y = 10;

@@ -10,8 +10,6 @@ public class _09_task_26_ifStatement2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		// Write a Java program that will accept two numbers and check if two
 		// numbers are equal or not.
 

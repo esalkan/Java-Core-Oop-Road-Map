@@ -10,7 +10,6 @@ public class _08_task_25_ifStatement2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// Write Java program that will accept three numbers and return the
 		// greatest number

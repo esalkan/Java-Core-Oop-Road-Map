@@ -14,7 +14,6 @@ public class _03_smallTasks_task_2_ifStatement2 {
 	// than 40
 
 	public static void main(String[] args) {
-
 		double payRate = 1250;
 		int hours = 45;
 

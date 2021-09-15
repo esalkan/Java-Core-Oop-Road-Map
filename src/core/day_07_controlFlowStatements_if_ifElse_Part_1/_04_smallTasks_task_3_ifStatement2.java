@@ -9,12 +9,9 @@ public class _04_smallTasks_task_3_ifStatement2 {
 	/**
 	 * @param args
 	 */
-
+	public static void main(String[] args) {
 	// Write an if statement that sets the variable fees to 50 if the Boolean
 	// variable max is true
-
-	public static void main(String[] args) {
-
 		boolean max = false;
 		int fee = 20;
 

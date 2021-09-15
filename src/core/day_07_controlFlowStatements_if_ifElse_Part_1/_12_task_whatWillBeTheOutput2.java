@@ -10,8 +10,6 @@ public class _12_task_whatWillBeTheOutput2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		int numberOfWaterMelon;
 		boolean lotsOfWaterMelon;
 		lotsOfWaterMelon = false;

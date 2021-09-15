@@ -10,7 +10,6 @@ public class _13_ifElseStatement2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int score = 60;
 
 		if (score >= 70) {

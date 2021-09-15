@@ -10,7 +10,6 @@ public class _07_task_24_ifStatements2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// Write a Java program
 		// 1- Declare a variable and initialize user age
 		// 2- Then the program will show if the user is eligible to vote.

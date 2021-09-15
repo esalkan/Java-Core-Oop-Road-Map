@@ -10,7 +10,6 @@ public class _01_ifStatement {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int score = 80;
 
 		if (score != 70) {

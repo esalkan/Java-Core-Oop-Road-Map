@@ -10,7 +10,6 @@ public class _11_task_28_ifStatement2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// Revenue can be calculated as the selling price of the product
 		// times the quantity sold, i.e. revenue = price x quantity.
 		// Write a program that asks the user to enter product price and
