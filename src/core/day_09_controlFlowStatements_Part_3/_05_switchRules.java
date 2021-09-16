@@ -32,7 +32,6 @@ public class _05_switchRules {
 	// '' is using just for char values
 
 	public static void main(String[] args) {
-
 		final String lastName = "Smith";
 		String firstName = "Mike";
 		int id = 0;

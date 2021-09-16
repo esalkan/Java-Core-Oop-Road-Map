@@ -10,8 +10,6 @@ public class _01_loopModels {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		String computer = "Apple";
 
 		switch (computer) {

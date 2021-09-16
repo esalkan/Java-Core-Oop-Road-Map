@@ -10,7 +10,6 @@ public class assestment_2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		boolean x = true;
 		boolean y = !x == false;
 

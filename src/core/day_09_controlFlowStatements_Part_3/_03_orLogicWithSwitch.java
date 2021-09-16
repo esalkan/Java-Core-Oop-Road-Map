@@ -10,7 +10,6 @@ public class _03_orLogicWithSwitch {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		char grade = 'B';
 
 		// A or B or C -> pass D or E -> fail

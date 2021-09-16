@@ -10,7 +10,6 @@ public class _02_daySelector {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int day = 1;
 
 		switch (day) {

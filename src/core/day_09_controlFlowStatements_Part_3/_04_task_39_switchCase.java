@@ -10,7 +10,6 @@ public class _04_task_39_switchCase {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		String color = "o";
 
 		switch (color) {
