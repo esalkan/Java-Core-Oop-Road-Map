@@ -10,7 +10,6 @@ public class _09_task_35_findGreatestNested {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int n1 = 1000;
 		int n2 = 10000;
 		int n3 = 100111;

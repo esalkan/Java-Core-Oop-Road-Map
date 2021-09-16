@@ -10,7 +10,6 @@ public class _07_task_34_averageGrading {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// The marks obtained by a student in 3 different subjects are input
 		// by the user. Your program should calculate the average of subjects.
 		// The student gets a grade as per the following rules:

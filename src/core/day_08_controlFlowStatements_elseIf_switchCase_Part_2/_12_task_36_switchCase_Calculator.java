@@ -10,7 +10,6 @@ public class _12_task_36_switchCase_Calculator {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int num1 = 10;
 		int num2 = 5;
 		String operator = "/";

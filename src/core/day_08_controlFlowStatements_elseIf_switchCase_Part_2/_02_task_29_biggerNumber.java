@@ -15,7 +15,6 @@ public class _02_task_29_biggerNumber {
 		// ex: "Number1 number is greater than Number2 number"
 		int num1 = 3;
 		int num2 = 4;
-
 		if (num1 > num2) {
 			System.out.println("Number1 " + num1 + " is bigger than " + " Number 2 " + num2);
 		} else {

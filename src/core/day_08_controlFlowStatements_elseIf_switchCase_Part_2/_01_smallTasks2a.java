@@ -10,7 +10,6 @@ public class _01_smallTasks2a {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// 1-Write an if-else statement that assigns 20 to variable y if the variables
 		// x is greater than 100. Otherwise, it should assign 0 to the variable y
 

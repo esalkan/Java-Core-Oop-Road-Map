@@ -13,7 +13,6 @@ public class _03_task_30_evenOddNumber {
 		// Write a Java Program:
 		// 1 Declare and initialize a number
 		// 2 Display whether the number is an odd number or even number.
-
 		int number = 8;
 
 		if (number % 2 == 0) {

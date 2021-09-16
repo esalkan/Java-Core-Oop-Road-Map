@@ -10,7 +10,6 @@ public class _08_nestedIfStatement {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		boolean isRushHour = true;
 
 		int carType = 2;

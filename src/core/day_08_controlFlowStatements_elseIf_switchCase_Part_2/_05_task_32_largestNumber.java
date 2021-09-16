@@ -10,7 +10,6 @@ public class _05_task_32_largestNumber {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// Declare 3 Numbers
 		// Program should display which one is largest
 

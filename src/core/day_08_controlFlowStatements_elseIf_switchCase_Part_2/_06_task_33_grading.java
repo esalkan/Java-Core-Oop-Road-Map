@@ -10,7 +10,6 @@ public class _06_task_33_grading {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// Write a Java Program for the following logic:
 		// § If marks < 60, then print “Fail”
 		// § If marks >= 60, but less than 90, then print “Pass”

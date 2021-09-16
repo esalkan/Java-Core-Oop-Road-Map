@@ -10,7 +10,6 @@ public class _10_IfElseIfElse {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// Program to display days
 		// 1-Monday
 		// 2-Tuesday

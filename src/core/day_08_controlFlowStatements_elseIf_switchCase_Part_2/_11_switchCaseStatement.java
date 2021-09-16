@@ -10,7 +10,6 @@ public class _11_switchCaseStatement {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		String weather = "snow";
 
 		switch (weather) {
