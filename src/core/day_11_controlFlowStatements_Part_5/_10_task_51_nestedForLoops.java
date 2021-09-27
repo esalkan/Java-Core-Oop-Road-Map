@@ -10,7 +10,6 @@ public class _10_task_51_nestedForLoops {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		for (int hours = 1; hours <= 12; hours++) {
 			for (int minutes = 0; minutes <= 59; minutes++) {
 				for (int seconds = 0; seconds <= 59; seconds++) {

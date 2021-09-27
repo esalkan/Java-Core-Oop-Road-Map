@@ -19,5 +19,4 @@ public class _05_task_48_nestedForLoops {
 			System.out.println();
 		}
 	}
-
 }

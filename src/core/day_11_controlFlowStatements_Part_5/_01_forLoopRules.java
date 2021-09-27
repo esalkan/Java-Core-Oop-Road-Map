@@ -10,7 +10,6 @@ public class _01_forLoopRules {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// 1-Creating an infinite loop
 		// components of the for loop are each optional
 

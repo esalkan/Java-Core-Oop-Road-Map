@@ -10,7 +10,6 @@ public class _03_nestedForLoopsTwo {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		for (int i = 0; i < 3; i++) {
 
 			System.out.println("Outter Loop at state : " + i);

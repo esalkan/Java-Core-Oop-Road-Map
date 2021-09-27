@@ -24,7 +24,6 @@ public class _08_whileLoop {
 	 * 
 	 * 
 	 */
-
 	public static void main(String[] args) {
 		// print 0-10
 

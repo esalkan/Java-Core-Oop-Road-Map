@@ -10,7 +10,6 @@ public class _07_task_50_nestedForLoops {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int rows = 5;
 
 		for (int i = 1; i <= rows; i++) {
