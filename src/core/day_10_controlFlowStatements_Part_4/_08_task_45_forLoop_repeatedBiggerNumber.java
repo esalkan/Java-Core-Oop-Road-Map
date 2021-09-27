@@ -17,7 +17,6 @@ public class _08_task_45_forLoop_repeatedBiggerNumber {
 	// user.
 
 	public static void main(String[] args) {
-
 		int num1 = 54;
 		int num2 = 61;
 		int repeat = 4;

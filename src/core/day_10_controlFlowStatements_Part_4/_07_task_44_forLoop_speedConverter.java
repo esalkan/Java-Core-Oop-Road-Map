@@ -9,7 +9,6 @@ public class _07_task_44_forLoop_speedConverter {
 	/**
 	 * @param args
 	 */
-
 	// Your friend Mike Smith just inherited a European sports car from his uncle.
 	// Mike lives in the USA, and he is afraid he will get a speeding ticket because
 	// the car’s

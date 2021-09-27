@@ -16,7 +16,6 @@ public class _09_task_46_forLoop_multiplicationTable {
 	// it should then print the multiplication table of declared number.
 
 	public static void main(String[] args) {
-
 		int num = 10;
 
 		for (int i = 1; i <= num; i++) {

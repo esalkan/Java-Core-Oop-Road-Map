@@ -12,7 +12,6 @@ public class _05_task_42_forLoop_sumOfEvenOddNumbers {
 
 	// Write a program that displays sum of even and odd numbers between 1 and 100
 	// exluding 100
-
 	public static void main(String[] args) {
 
 		int sumEven = 0;

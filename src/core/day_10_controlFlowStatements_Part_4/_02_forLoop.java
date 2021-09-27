@@ -9,7 +9,6 @@ public class _02_forLoop {
 	/**
 	 * @param args
 	 */
-
 	// Loops check a condition. If it returns true, a code block will run. Then the
 	// condition will
 	// be checked again and if it is still returns true, the code block will run

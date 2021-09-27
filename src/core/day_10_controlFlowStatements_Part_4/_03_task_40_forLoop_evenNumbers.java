@@ -13,7 +13,6 @@ public class _03_task_40_forLoop_evenNumbers {
 	// Write a program that displays all even numbers between 1-100 in same line
 
 	public static void main(String[] args) {
-
 		for (int i = 1; i <= 100; i++) {
 			if (i % 2 == 0) {
 				System.out.print(i + ", ");

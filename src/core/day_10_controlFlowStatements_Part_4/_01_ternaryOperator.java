@@ -10,7 +10,6 @@ public class _01_ternaryOperator {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		String result;
 
 		int score = 88;

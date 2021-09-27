@@ -13,7 +13,6 @@ public class _06_task_43_forLoop_printTable {
 	// Write a program to print the number of table
 
 	public static void main(String[] args) {
-
 		System.out.println("Number\t\tNumber Squared");
 		System.out.println("------------------------------");
 
