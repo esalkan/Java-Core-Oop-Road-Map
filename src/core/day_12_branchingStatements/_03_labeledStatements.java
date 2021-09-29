@@ -10,7 +10,6 @@ public class _03_labeledStatements {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int i = 0;
 
 		outer: do {
