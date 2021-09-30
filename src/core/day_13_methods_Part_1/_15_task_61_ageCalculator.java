@@ -4,7 +4,6 @@ package core.day_13_methods_Part_1;
  * @author esalkan
  */
 public class _15_task_61_ageCalculator {
-
 	/**
 	 * @param args
 	 */

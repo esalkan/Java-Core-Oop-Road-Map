@@ -11,7 +11,6 @@ public class _04_creditCardMethod {
 	public static void main(String[] args) {
 
 		double salary = 50000;
-
 		int creditRating = 5;
 		// true && false = false
 		if (salary >= 20000 && creditRating >= 7) {

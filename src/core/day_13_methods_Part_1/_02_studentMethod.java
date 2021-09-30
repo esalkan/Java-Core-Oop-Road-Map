@@ -1,5 +1,4 @@
 package core.day_13_methods_Part_1;
-
 /**
  * @author esalkan
  */

@@ -12,6 +12,7 @@ public class _09_task_57_sumOfNumbers {
 		sumNumbers();
 	}
 
+	
 	public static void sumNumbers() {
 		int num1 = 10;
 		int num2 = 50;

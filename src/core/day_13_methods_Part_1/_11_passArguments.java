@@ -9,7 +9,6 @@ public class _11_passArguments {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// double x = 10.45;
 
 		int a = 10;

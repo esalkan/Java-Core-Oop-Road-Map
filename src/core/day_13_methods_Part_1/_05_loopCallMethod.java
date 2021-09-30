@@ -9,7 +9,6 @@ public class _05_loopCallMethod {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		System.out.println("hello from the main method");
 
 		for (int i = 0; i < 5; i++) {

@@ -9,7 +9,6 @@ public class _06_googleSearch {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		navigateGoogle();
 
 		searchForShoes();
