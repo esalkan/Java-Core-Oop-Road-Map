@@ -21,11 +21,9 @@ public class _05_lab_05_caughtSpeeding {
 	 */
 
 	public static void main(String[] args) {
-
 		caughtSpeeding(60, false);
 		caughtSpeeding(65, false);
 		caughtSpeeding(65, true);
-
 	}
 
 	public static void caughtSpeeding(int speed, boolean isBirthday) {

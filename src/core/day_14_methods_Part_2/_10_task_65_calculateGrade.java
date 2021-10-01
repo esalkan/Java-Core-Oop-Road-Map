@@ -26,6 +26,7 @@ public class _10_task_65_calculateGrade {
 	 */
 	public static void main(String[] args) {
 
+		
 	}
 
 }

@@ -14,6 +14,7 @@ public class _07_task_62_calculateGreatest {
 	 */
 	public static void main(String[] args) {
 
+		
 	}
 
 }

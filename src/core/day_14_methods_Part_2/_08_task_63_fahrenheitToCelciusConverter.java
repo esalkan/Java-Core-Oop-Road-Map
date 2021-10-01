@@ -14,6 +14,7 @@ public class _08_task_63_fahrenheitToCelciusConverter {
 	 */
 	public static void main(String[] args) {
 
+		
 	}
 
 }

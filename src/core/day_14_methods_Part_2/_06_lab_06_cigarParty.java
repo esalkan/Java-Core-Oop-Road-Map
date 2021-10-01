@@ -20,15 +20,12 @@ public class _06_lab_06_cigarParty {
 	 */
 
 	public static void main(String[] args) {
-
 		cigarParty(30, false);
 		cigarParty(50, false);
 		cigarParty(70, true);
-
 	}
 
 	public static void cigarParty(int numberCigar, boolean isWekeend) {
-
 		if (isWekeend) {
 			if (numberCigar >= 40) {
 				System.out.println(true);
@@ -41,9 +38,6 @@ public class _06_lab_06_cigarParty {
 			} else {
 				System.out.println(false);
 			}
-
 		}
-
 	}
-
 }

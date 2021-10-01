@@ -19,6 +19,7 @@ public class _09_task_64_starPatterns {
 	 */
 	public static void main(String[] args) {
 
+		
 	}
 
 }

@@ -10,6 +10,7 @@ public class _11_valueReturn {
 	 */
 	public static void main(String[] args) {
 
+		
 	}
 
 }
