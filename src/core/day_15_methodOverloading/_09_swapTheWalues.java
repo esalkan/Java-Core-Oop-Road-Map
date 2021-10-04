@@ -9,7 +9,6 @@ public class _09_swapTheWalues {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int n1 = 10, n2 = 20;
 
 		// Swap the n1 to n2 and n2 to n1

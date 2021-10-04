@@ -9,7 +9,6 @@ public class _01_day_14_summary_methods {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		// No-Parameter Method
 		System.out.println("// No-Parameter Method\nnonParameterMethod();\n");
 		nonParameterMethod();

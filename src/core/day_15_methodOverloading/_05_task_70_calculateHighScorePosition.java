@@ -28,7 +28,6 @@ public class _05_task_70_calculateHighScorePosition {
 		// a score of 1500, 900, 400 and 50
 
 		int x = calculateHighScorePosition(250);
-
 		displayHighScorePosition("Mike", x);
 	}
 

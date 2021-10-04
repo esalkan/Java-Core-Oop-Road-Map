@@ -11,7 +11,6 @@ public class _02_task_67_lastDigit {
 	public static void main(String[] args) {
 		// Write a method that accepts 2 numbers and return if they have the same last
 		// digit.
-
 		// Sample output
 		// lastDigit(7,17) -> True
 		// lastDigit(6,17) -> False

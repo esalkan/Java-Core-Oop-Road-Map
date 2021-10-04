@@ -13,7 +13,6 @@ public class _03_task_68_yearsUntilRetirement {
 		// 1- calculateAge(yearBirth); and returns the age
 		// 2- yearsUntilRetirement(name,year); and displays in the console following :
 		// "ALKAN retires in 36 years"
-
 		// Example : yearsUntilRetirement("ALKAN", 1990);
 
 		yearsUntilRetirement("ALKAN", 1981);

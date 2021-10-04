@@ -9,7 +9,6 @@ public class _10_fibonacciNumbers {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		int count = 8;
 		int pre1 = 0, pre2 = 1;
 		System.out.println("Fibonacci series of " + count + " numbers");

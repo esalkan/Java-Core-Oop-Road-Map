@@ -27,13 +27,9 @@ public class _06_methodOverloading {
 	 * 
 	 */
 	public static void main(String[] args) {
-
 		System.out.println(sum(5, 4));
-
 		System.out.println(sum(5, 4, 9));
-
 		System.out.println(sum(5, 4.4, 3.3, 2.2));
-
 	}
 
 	public static int sum(int a, int b) {

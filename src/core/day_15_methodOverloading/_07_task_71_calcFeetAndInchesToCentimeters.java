@@ -42,9 +42,7 @@ public class _07_task_71_calcFeetAndInchesToCentimeters {
 			System.out.println("Invalid feet or inches");
 			return -1;
 		}
-
 		double centimeters = (feet * 12) * 2.54 + (inches * 2.54);
-
 		System.out.println(feet + " feet," + inches + " inches=" + centimeters + " centimeters");
 
 		return centimeters;

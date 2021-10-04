@@ -13,10 +13,8 @@ public class _04_task_69_isPrime {
 		// For example, the number 5 is prime number because it can be evenly divided
 		// only by 1 and 5. The number 6, however, is not prime number because it can be
 		// divided evenly by 1,2,3,and 6.
-
 		// Write a method named isPrime which takes an integer as an argument and
 		// returns true if the argument is a prime number, or false otherwise.
-
 		// • Note: 0 and 1 are not prime numbers. The 2 is the only even prime number
 		// because all the other even numbers can be divided by 2.
 
