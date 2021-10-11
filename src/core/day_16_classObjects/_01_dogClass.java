@@ -4,7 +4,6 @@ package core.day_16_classObjects;
  * @author esalkan
  */
 public class _01_dogClass {
-
 	String breed;
 	int age;
 	String color;

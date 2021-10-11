@@ -9,7 +9,6 @@ public class _06_dogObjects {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		_01_dogClass dog1 = new _01_dogClass();
 
 		_01_dogClass dog2 = new _01_dogClass();

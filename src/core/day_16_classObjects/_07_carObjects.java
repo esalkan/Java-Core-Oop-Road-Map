@@ -9,7 +9,6 @@ public class _07_carObjects {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		_02_carClass car1 = new _02_carClass();
 
 		car1.printCarInfo();

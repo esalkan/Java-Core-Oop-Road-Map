@@ -4,6 +4,7 @@ package core.day_16_classObjects;
  * @author esalkan
  */
 public class _04_task_contactClass {
+	
 	String name;
 	String phoneNumber;
 	String email;

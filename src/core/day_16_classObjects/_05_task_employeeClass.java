@@ -4,6 +4,7 @@ package core.day_16_classObjects;
  * @author esalkan
  */
 public class _05_task_employeeClass {
+	
 	String name;
 	String jobTitle;
 	double salary;

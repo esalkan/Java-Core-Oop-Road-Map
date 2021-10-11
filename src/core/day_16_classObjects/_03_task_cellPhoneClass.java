@@ -4,7 +4,6 @@ package core.day_16_classObjects;
  * @author esalkan
  */
 public class _03_task_cellPhoneClass {
-
 	String brand;
 	double screenSize;
 	String color;
