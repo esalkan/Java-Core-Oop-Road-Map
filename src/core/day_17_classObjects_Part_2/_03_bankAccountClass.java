@@ -26,7 +26,6 @@ public class _03_bankAccountClass {
 		if (balance < 0) {
 			balance -= 35; // If balance is becoming - owerdraft charge from bank
 		}
-
 	}
 
 	// Show the balance status

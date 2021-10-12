@@ -10,7 +10,6 @@ public class _01_bmw {
 	double price; // Default Value is = 0.0
 
 	public void showPrice() {
-
 		switch (model) {
 		case "330i":
 			price = 40250;

@@ -9,7 +9,6 @@ public class _04_capitalOne {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		_03_bankAccountClass acc1 = new _03_bankAccountClass();
 
 		// Assign Account Holder

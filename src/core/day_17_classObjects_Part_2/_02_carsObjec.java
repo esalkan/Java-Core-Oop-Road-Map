@@ -9,7 +9,6 @@ public class _02_carsObjec {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		_01_bmw b1 = new _01_bmw();
 		_01_bmw b2 = new _01_bmw();
 
