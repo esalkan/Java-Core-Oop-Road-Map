@@ -17,7 +17,6 @@ public class _06_task_73_guessingGame {
 		Scanner sc = new Scanner(System.in);
 
 		System.out.print("Enter number:");
-
 		do {
 
 			userInput = sc.nextInt();

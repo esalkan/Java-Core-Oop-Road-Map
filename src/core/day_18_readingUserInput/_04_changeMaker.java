@@ -19,7 +19,6 @@ public class _04_changeMaker {
 		int attempt = 0;
 
 		do {
-
 			int user_amount = keyboard.nextInt();
 
 			if (user_amount > 1 && user_amount < 100) {

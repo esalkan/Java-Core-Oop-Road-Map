@@ -26,5 +26,4 @@ public class _03_userInput_3 {
 
 		System.out.println("Output:" + num1 + ":" + num2 + ":" + str);
 	}
-
 }

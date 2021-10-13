@@ -37,5 +37,4 @@ public class _01_userInput {
 		boolean bool = sc.nextBoolean();
 		System.out.println("Boolean value is " + bool);
 	}
-
 }

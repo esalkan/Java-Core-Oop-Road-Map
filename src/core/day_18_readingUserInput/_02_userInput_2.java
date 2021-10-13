@@ -15,7 +15,6 @@ public class _02_userInput_2 {
 		Scanner sc = new Scanner(System.in);
 
 		System.out.println("Provide a sentence and I will repeat it:");
-
 		// String str = sc.next();
 
 		String str2 = sc.nextLine();
