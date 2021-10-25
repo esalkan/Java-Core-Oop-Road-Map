@@ -21,7 +21,6 @@ public class _05_task_77_EmojiProgram {
 		 */
 
 		String emoji = "=C";
-
 		// Check if it has 2 characters.
 		if (emoji.length() == 2) {
 			if (emoji.charAt(0) == ':') {

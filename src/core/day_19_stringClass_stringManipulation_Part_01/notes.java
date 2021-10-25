@@ -13,8 +13,7 @@ public class notes {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 		/**
 		 * What is String? -> String is basically an object that represents sequence of
 		 * char values. -> We can create strings in java by using three classes which

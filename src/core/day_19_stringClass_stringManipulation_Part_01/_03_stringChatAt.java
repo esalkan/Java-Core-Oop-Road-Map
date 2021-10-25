@@ -13,7 +13,6 @@ public class _03_stringChatAt {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		/**
 		 * charAt() --> charAt() method returns a char value at the given index number.

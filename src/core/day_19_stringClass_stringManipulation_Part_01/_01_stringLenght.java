@@ -13,7 +13,6 @@ public class _01_stringLenght {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		/**
 		 * length() --> length() method returns count of total number of characters in

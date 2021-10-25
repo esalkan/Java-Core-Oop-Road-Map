@@ -15,7 +15,7 @@ public class _02_task_75_totalCharacters {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Write a program that ask user to enter his/her firstname and lastname.
+		// Write a program that ask user to enter his/her firstname and lastname.
 		// Display in the console total number of characters.
 
 		Scanner sc = new Scanner(System.in);

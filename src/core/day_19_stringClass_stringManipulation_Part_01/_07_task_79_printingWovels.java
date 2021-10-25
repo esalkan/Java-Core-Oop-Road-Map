@@ -13,6 +13,7 @@ public class _07_task_79_printingWovels {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * Write a program to print only vowel (a,e,o,i,u) in given string String word =
 		 * "doldur sufi kadehleri aşk ile"; Output: o,u,u,i,a,e,e,i,a,i,e

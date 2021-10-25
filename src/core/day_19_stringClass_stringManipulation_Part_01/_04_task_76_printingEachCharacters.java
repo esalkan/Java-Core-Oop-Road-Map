@@ -13,6 +13,7 @@ public class _04_task_76_printingEachCharacters {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		// Display each character in the console.
 		// Last character index always length()-1
 
