@@ -14,7 +14,6 @@ public class _02_indexOf_2 {
 	 */
 	public static void main(String[] args) {
 		/**
-		 * 
 		 * indexOf() Method
 		 * 
 		 * --> indexOf() method returns the index within the calling String of the first

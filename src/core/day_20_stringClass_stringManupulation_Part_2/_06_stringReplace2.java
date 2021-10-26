@@ -13,6 +13,7 @@ public class _06_stringReplace2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		String sentence = "Coding is fun, it is my hobby!!";
 
 		String withNoSpace = sentence.replace(" ", "");

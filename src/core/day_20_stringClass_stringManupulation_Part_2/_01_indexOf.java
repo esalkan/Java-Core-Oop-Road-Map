@@ -13,7 +13,6 @@ public class _01_indexOf {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		/**
 		 * 
 		 * indexOf() Method

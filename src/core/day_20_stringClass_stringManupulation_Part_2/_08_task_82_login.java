@@ -15,7 +15,6 @@ public class _08_task_82_login {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		/**
 		 * Login Functionality Logic
 		 * 

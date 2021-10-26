@@ -13,6 +13,7 @@ public class _07_stringEquals {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * equals()
 		 * 

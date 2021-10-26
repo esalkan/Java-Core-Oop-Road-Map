@@ -13,6 +13,7 @@ public class _05_task_81_TimeStamp {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * Write a method that accept the date with time and creates a timeStamp for
 		 * your automation report.

@@ -13,6 +13,7 @@ public class _03_task_80_checkString {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * Write a method that accepts 2 strings(str1,str2) and prints the position
 		 * index of the str2
