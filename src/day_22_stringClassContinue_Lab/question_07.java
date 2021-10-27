@@ -24,16 +24,15 @@ public class question_07 {
 		 * 
 		 */
 
-		comboString("Hello", "hi");
-		comboString("hi", "Hello");
-		comboString("aaa", "b");
-		comboString("Just", "Test");
-		
+		System.out.println(comboString("Hello", "hi"));
+		System.out.println(comboString("hi", "Hello"));
+		System.out.println(comboString("aaa", "b"));
+		System.out.println(comboString("Just", "Test"));
 	}
 	
-	public static void comboString(String str1, String str2) {
-		String result = str2.concat(str1) + str2;
-		System.out.println(result);
+	public static String comboString(String str1, String str2) {
+		String result;
+		return result = str2.concat(str1) + str2;
 	}
 
 }
