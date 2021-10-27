@@ -31,8 +31,8 @@ public class question_08 {
 	}
 
 	public static String left2(String string) {
-		String result;
-		return result = string.substring(2).concat(string.substring(0,2));
+		String result = string.substring(2).concat(string.substring(0,2));
+		return result;
 		
 	}
 }

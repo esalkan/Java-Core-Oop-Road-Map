@@ -31,8 +31,8 @@ public class question_07 {
 	}
 	
 	public static String comboString(String str1, String str2) {
-		String result;
-		return result = str2.concat(str1) + str2;
+		String result = str2.concat(str1) + str2;
+		return result;
 	}
 
 }
