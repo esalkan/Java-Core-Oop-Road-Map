@@ -4,7 +4,7 @@
 package day_22_stringClassContinue_Lab;
 
 /**
- * @author codesofmine
+ * @author esalkan
  *
  */
 public class question_05 {
