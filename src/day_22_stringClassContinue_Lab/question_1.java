@@ -24,6 +24,14 @@ public class question_1 {
 		 * helloName("X") → "Hello X!"
 		 */
 
+		helloName("Bob");
+		helloName("Alice");
+		helloName("X");
+	}
+	
+	public static void helloName(String name) {
+		String greeting = "Hello ";
+		System.out.println(greeting.concat(name).concat("!")); 
 	}
 
 }
