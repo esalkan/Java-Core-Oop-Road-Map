@@ -9,8 +9,6 @@ package day_22_stringClassContinue_Lab;
  */
 public class question_04 {
 
-	private static final char NULL = 0;
-
 	/**
 	 * @param args
 	 */

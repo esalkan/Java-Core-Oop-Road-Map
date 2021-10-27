@@ -7,7 +7,7 @@ package day_22_stringClassContinue_Lab;
  * @author codesofmine
  *
  */
-public class question_1 {
+public class question_01 {
 
 	/**
 	 * @param args
