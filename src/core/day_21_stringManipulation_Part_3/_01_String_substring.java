@@ -13,6 +13,7 @@ public class _01_String_substring {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * substring(beginIndex) Method
 		 * 

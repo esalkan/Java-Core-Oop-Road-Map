@@ -13,7 +13,6 @@ public class _04_String_trim {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
 		/**
 		 * trim() Method
 		 * 
