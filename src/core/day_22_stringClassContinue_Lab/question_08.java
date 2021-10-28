@@ -13,6 +13,7 @@ public class question_08 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * 
 		 * Given a string, return a "rotated left 2" version where the first 2 chars are

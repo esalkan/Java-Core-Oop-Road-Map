@@ -19,7 +19,6 @@ public class String_startsWith_endsWith {
 		System.out.println(word1.startsWith("e"));
 		System.out.println(word1.startsWith("ec"));
 		System.out.println(word1.startsWith("ex"));
-
 		System.out.println(word1.endsWith("e"));
 		System.out.println(word1.endsWith("ipse"));
 		System.out.println(word1.endsWith("xe"));

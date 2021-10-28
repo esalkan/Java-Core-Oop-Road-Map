@@ -13,6 +13,7 @@ public class question_02 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * Create a method that accepts two strings, a and b, return the result of
 		 * putting them together in the order abba, e.g. "Hi" and "Bye" returns

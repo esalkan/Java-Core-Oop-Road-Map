@@ -13,6 +13,7 @@ public class question_10 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * Given a string, return true if the first 2 chars in the string also appear at
 		 * the end of the string, such as with "edited".

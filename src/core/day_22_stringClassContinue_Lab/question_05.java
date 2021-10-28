@@ -13,6 +13,7 @@ public class question_05 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * Given a string of even length, return the first half. So the string "WooHoo"
 		 * yields "Woo".

@@ -13,6 +13,7 @@ public class question_03 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * Create a method return a new string made of 3 copies of the last 2 chars of
 		 * the original string. The string length will be at least 2.

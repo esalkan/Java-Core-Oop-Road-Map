@@ -13,6 +13,7 @@ public class question_07 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * 
 		 * Given 2 strings, a and b, return a string of the form short+long+short, with

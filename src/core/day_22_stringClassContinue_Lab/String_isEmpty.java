@@ -13,6 +13,7 @@ public class String_isEmpty {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		String userName = "";
 		String password = "";
 
