@@ -13,7 +13,6 @@ public class question_11 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
 		/**
 		 * 
 		 * Return the number of times that the string "hi" appears anywhere in the given

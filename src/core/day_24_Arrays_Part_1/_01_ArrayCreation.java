@@ -75,6 +75,7 @@ public class _01_ArrayCreation {
 		 */
 
 		/**
+		 * 
 		 * Keep in Mind It is illegal to include the size of the array in the
 		 * declarations, Following statement will give compilation error.
 		 * 
@@ -104,6 +105,7 @@ public class _01_ArrayCreation {
 		scores[2] = 90;
 		scores[3] = 100;
 		scores[4] = 50;
+
 
 		System.out.println("Index 0 : " + scores[0]);
 		System.out.println("Index 1 : " + scores[1]);
