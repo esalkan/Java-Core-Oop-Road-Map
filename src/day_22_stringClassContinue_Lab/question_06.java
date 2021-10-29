@@ -21,17 +21,15 @@ public class question_06 {
 		 * withoutEnd("java") → "av" 
 		 * withoutEnd("coding") → "odin"
 		 */
-
-		withoutEnd("Hello");
-		withoutEnd("java");
-		withoutEnd("coding");
-		withoutEnd("python");
-		withoutEnd("justTest");
+		System.out.println(withoutEnd("Hello"));
+		System.out.println(withoutEnd("java"));
+		System.out.println(withoutEnd("coding"));
+		System.out.println(withoutEnd("python"));
+		System.out.println(withoutEnd("justTest"));
 	}
 
-	private static void withoutEnd(String string) {
+	public static String withoutEnd(String string) {
 		String result = string.substring(1, string.length()-1);
-		System.out.println(result);
+		return result;
 	}
-
 }
