@@ -30,7 +30,7 @@ public class question_04 {
 		System.out.println();
 		firstTwo("ab");
 		System.out.println();
-		firstTwo("a");
+		firstTwo("");
 		System.out.println();
 		firstTwo("Hop");
 		System.out.println();
@@ -38,12 +38,10 @@ public class question_04 {
 		System.out.println();
 		firstTwo("What");
 		System.out.println();
-		firstTwo("0");
-		
+		firstTwo("0");		
 	}
 
 	private static void firstTwo(String string) {
-		
 		for(int i = 0; i < 2; i++) {
 			if(string.length() < 2) {
 				System.out.print(string);
@@ -51,8 +49,14 @@ public class question_04 {
 			} else {
 				System.out.print(string.charAt(i));
 			}
-		}
+		}	
 		
+//		if (string.length()<2) {
+//			return string;
+//		} else if (string.isEmpty()) {
+//			return "";
+//		} else {
+//			return string.substring(0,2);
+//		}
 	}
-
 }
