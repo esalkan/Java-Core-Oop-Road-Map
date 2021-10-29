@@ -34,6 +34,14 @@ public class question_03 {
 			System.out.print(string.substring(string.length()-2));
 		}
 		
+//		if (string.length()<2) {
+//			return "invalid String";
+//		}
+//		
+//		String dummy = "";
+//		dummy = string.substring(string.length()-2);
+//		
+//		return dummy + dummy + dummy;		
 	}
 
 }
