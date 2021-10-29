@@ -23,15 +23,17 @@ public class question_02 {
 		 * makeAbba("What", "Up") → "WhatUpUpWhat"
 		 */
 
-		makeAbba("Hi", "Bye");
-		makeAbba("Yo", "Alice");
-		makeAbba("What", "Up");
+		System.out.println(makeAbba("Hi", "Bye"));
+		System.out.println(makeAbba("Yo", "Alice"));
+		System.out.println(makeAbba("What", "Up"));
 	}
 
-	private static void makeAbba(String string, String string2) {
+	private static String makeAbba(String string, String string2) {
 		String combine = string.concat(string2);
 		String replacing = combine.replace(combine,string2.concat(string));
-		System.out.println(combine+replacing);
+		String result = combine+replacing;
+		// String result = string + string2 + string2 + string
+		return result;
 	}
 
 }
