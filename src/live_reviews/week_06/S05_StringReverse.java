@@ -44,6 +44,14 @@ public class S05_StringReverse {
 		
 		System.out.println("\n--- reverse() method created ---");
 		System.out.println(reverse(str));
+		
+		
+		System.out.println("\n--- stringCustomMethod() method created ---");
+		
+		// String reversedFromClassMethod = S06_StringCustomMethod.reverse(str);
+		// System.out.println(reversedFromClassMethod);
+		
+		
 	}
 
 	public static String reverse(String str) {
