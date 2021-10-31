@@ -1,0 +1,8 @@
+
+1. Strings
+
+
+
+
+	2.	Immutable :  cannot be changed/modified.
+			
