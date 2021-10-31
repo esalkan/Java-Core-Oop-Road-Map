@@ -13,7 +13,7 @@ public class S02_StringPractice {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-
+		System.out.println("\n----- concat() -----\n");
 		String str = "Cydeo";
 		str.concat(" School");
 
@@ -28,7 +28,7 @@ public class S02_StringPractice {
 		
 		System.out.println("str : " + str);
 		
-		System.out.println("-------------------");
+		System.out.println("\n----- toUpperCase() -----\n");
 		
 		String str2 = "EU7 Batch Java Course";
 		str2.toUpperCase();

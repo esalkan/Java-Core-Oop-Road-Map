@@ -6,3 +6,10 @@
 
 	2.	Immutable :  cannot be changed/modified.
 			
+
+			
+	
+	4 index and length are two seperate things
+		index starts from Zero (0)
+		String str = JAVA
+					 0123
