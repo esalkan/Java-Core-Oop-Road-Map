@@ -13,7 +13,7 @@ public class S03_StringMethodsPractice {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("----- length() -----");
+		System.out.println("\n----- length() -----\n");
 		String message = "Java is Awesome!";
 		// 0123456789
 
@@ -26,7 +26,7 @@ public class S03_StringMethodsPractice {
 
 		// for iterating through our string object
 
-		System.out.println("----- charAt() -----");
+		System.out.println("\n----- charAt() -----\n");
 		// charAt(): takes an index as parameter and returns char
 
 		System.out.println(message.charAt(0)); // J --> first index
@@ -34,7 +34,7 @@ public class S03_StringMethodsPractice {
 		// what is the last index : length()-1
 		System.out.println(message.charAt(message.length() - 1));
 
-		System.out.println("----- contains() -----");
+		System.out.println("\n----- contains() -----\n");
 		// contains() : takes a string, if you want to use one char, you need to turn it
 		// into a
 		// string (""+char)
@@ -62,7 +62,7 @@ public class S03_StringMethodsPractice {
 			System.out.println("The message does NOT have the J");
 		}
 		
-		System.out.println("----- substring() -----");
+		System.out.println("\n----- substring() -----\n");
 		// substring() method : this one takes index (begin, end)
 		// overloaded substring method which just takes begining index
 		
