@@ -21,14 +21,22 @@ public class question_14 {
 		 * 
 		 * endsLy("y") -> false
 		 * 
-		 */
+		 */		
 		
-		// endsLy("oddly");
+		System.out.println("Me : " + endsLy("olleyyaaly"));
 		
+		String str = "oddly";
 		
+		if (str.length() < 2) {
+			System.out.println(false);
+			return;
+		}
 		
-		System.out.println(endsLy("olleyyaaly"));
-		
+		if (str.substring(str.length()-2).equals("ly")) {
+			System.out.println("Ozzy : " + true);
+		} else {
+			System.out.println(false);
+		}
 
 	}
 
