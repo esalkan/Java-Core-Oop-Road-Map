@@ -23,6 +23,14 @@ public class question_13 {
 		 * doubleChar("Hi-There") → "HHii--TThheerree"
 		 */
 		
-
+		String str = "Hi-there";
+		
+		String newString = "";
+		
+		for (int i = 0; i < str.length(); i++) {
+			newString = newString + str.substring(i, i+1).concat(str.substring(i, i+1));
+		}
+		
+		System.out.println(newString);
 	}
 }
