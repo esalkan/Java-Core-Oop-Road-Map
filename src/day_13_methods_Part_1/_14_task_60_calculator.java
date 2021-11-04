@@ -19,16 +19,16 @@ public class _14_task_60_calculator {
 	public static void calculator(int num1,int num2,String operator) {	
 		switch(operator) {
 		case "+":
-			System.out.println(num1+num2);
+			System.out.println("Addition of num1 and num2 result : " + num1+num2);
 			break;
 		case "-":
-			System.out.println(num1-num2);
+			System.out.println("Extraction of num1 and num2 result : " + (num1-num2));
 			break;
 		case "*":
-			System.out.println(num1*num2);
+			System.out.println("Multiplication of num1 and num2 result : " + (num1*num2));
 			break;
 		case "/":
-			System.out.println(num1/num2);
+			System.out.println("Division of num1 and num2 result : " + (num1/num2));
 			break;
 		}
 	}

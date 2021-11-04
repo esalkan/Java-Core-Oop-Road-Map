@@ -11,7 +11,6 @@ public class _03_simpleMethod {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		System.out.println("Hello from main method...");
 		displayMessage();
@@ -19,7 +18,6 @@ public class _03_simpleMethod {
 	}
 
 	private static void displayMessage() {
-		// TODO Auto-generated method stub
 		System.out.println("Hello from the displayMessage() method...");
 	}
 

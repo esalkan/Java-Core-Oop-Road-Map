@@ -9,11 +9,9 @@ public class _02_studentMethod {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
-		study();
 		sayHello();
+		study();
 		code();
-		
 	}
 
 	public static void sayHello() {

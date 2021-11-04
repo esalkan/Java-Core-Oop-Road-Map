@@ -14,7 +14,7 @@ public class _01_methodsNotes {
 	 */
 	public static void main(String[] args) {
 		/**
-		 * Void method doesnt return anything.
+		 * Void method doesn't return anything.
 		 * 
 		 * Methods only can created out of the main method just in class can be created.
 		 */

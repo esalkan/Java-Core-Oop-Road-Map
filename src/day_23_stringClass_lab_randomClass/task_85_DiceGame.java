@@ -34,16 +34,6 @@ public class task_85_DiceGame {
 		 */
 
 
-		
-		String n ="012345678";
-		System.out.println(n.substring(7));
-		
-		
-		String s ="purr";
-		s.substring(1,3);
-		s += " two";
-		System.out.println(s.length());
-
 	}
 
 }

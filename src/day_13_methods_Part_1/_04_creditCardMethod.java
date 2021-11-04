@@ -3,7 +3,7 @@ package day_13_methods_Part_1;
 /**
  * @author esalkan
  */
-public class _04_credirCardMethod {
+public class _04_creditCardMethod {
 
 	/**
 	 * @param args

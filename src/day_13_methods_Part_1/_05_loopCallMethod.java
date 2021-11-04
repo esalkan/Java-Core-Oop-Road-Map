@@ -19,6 +19,6 @@ public class _05_loopCallMethod {
 	
 
 	public static void displayMessage() {
-		   System.out.println("Hello from displayMessage method");
+		   System.out.println("Hello from displayMessage() method");
 	}
 }
