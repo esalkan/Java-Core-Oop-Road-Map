@@ -15,11 +15,11 @@ public class _12_task_66_distanceTraveled {
 		if (d>500) {
 			System.out.println("You spent too much gas");
 		} else {
-			System.out.println("You pent enough gas");
+			System.out.println("You spent enough gas");
 		}
 	}
 
-	private static double distance(int speed, int time) {
+	public static double distance(int speed, int time) {
 		double distanceTraveled = speed * time;
 		return distanceTraveled;
 	}

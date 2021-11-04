@@ -19,7 +19,7 @@ public class _01_lab_01_stringTimes {
 	 */
 	public static void main(String[] args) {
 		
-		stringTimes("Hi", 400);
+		stringTimes("Hi", 10);
 		
 	}
 	

@@ -58,9 +58,8 @@ public class _01_day_14_summary_methods {
 	
 	// Parameter Method
 	public static void parameterMethod(int n1, String str) {
-		System.out.println(str);
 		int sum = 4 + n1; // local to method
-		System.out.println(sum);
+		System.out.println(sum + ", " + str);
 	}
 	
 	// Value-Return Method
