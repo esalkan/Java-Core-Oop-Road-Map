@@ -14,7 +14,7 @@ public class isPalindrome {
 	 */
 	public static void main(String[] args) {
 		
-		String str = "radar";
+		String str = "radr";
 		
 		String revRes = "";
 
