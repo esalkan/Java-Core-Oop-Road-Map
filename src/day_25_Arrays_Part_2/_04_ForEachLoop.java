@@ -76,8 +76,18 @@ public class _04_ForEachLoop {
 		}
 		
 		System.out.println("\n----- print prices with for loop -----\n");
+		for (int i = 0; i < prices.length; i++) {
+			System.out.println(prices[i]);
+		}
+		
+		System.out.println("\n----- print prices with for-each loop -----\n");
 		for (double price : prices) {
 			System.out.println(price);
+		}
+		
+		System.out.println("\n----- print products item in reverse order -----\n");
+		for (int i = products.length-1; i >= 0; i--) {
+			System.out.println(products[i]);
 		}
 		
 		
