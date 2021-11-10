@@ -16,6 +16,25 @@ public class _05_task_88_CarPrice {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+
+		/**
+		 * Createanarraythatholdscars(Honda,Toyota,Nissan,BMW,Mercedes,Porsche, Ferrari)
+		 * 
+		 * • Ask user to enter an index number to choose his dream car.
+		 * 
+		 * • Print the price for selected car.
+		 * 
+		 * Car prices :
+		 * 
+		 * Honda – Toyota – Nissan (Random price between 20000 and 40000)
+		 * 
+		 * BMW-Mercedes(Random price between 50000 and 80000)
+		 * 
+		 * Porsche - Ferrari(Random price between 100000 and 150000)
+		 * 
+		 * • Hint : finding a random number between 2 numbers = > ((max - min) + 1) +
+		 * min
+		 */
 		Scanner sc = new Scanner(System.in);
 		Random rn = new Random();
 
