@@ -3,6 +3,8 @@
  */
 package day_25_Arrays_Part_2;
 
+import java.util.Arrays;
+
 /**
  * @author esalkan
  *
@@ -29,6 +31,8 @@ public class _02_task_92_TableArray {
 		for (int i = 0; i < numbers.length; i++) {
 			System.out.println(numbers[i]*19);
 		}
+		
+		System.out.println(Arrays.toString(numbers));
 	
 	}
 
