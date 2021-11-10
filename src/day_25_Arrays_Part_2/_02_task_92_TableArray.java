@@ -7,7 +7,7 @@ package day_25_Arrays_Part_2;
  * @author esalkan
  *
  */
-public class _01_task_92_RandomArrayNumbers {
+public class _02_task_92_TableArray {
 
 	/**
 	 * @param args
