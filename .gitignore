@@ -3,3 +3,4 @@
 *bin/
 *.settings/
 .DS_Store
+src/liveMeetings/deneme.java
