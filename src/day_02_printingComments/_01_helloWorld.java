@@ -13,7 +13,7 @@ public class _01_helloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Print first message with JAVA
 		System.out.println("Maraba Zalım Dunya!");
 	}
 
