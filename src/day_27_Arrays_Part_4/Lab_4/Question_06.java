@@ -31,10 +31,12 @@ public class Question_06 {
 		 * 
 		 */
 
-		int[] x = { 3, 2, 1, 9, 17, 81, 1, 17, 99 };
+		int[] a = { 1, 2, 3 };
+		int[] x = { 3, 2, 1, 9, 17, 81, 17, 99 };
 		int[] y = { 11, 5, 9 };
 		int[] z = { 110, 5, 98, 0, 1200, 11, -4 };
 
+		System.out.println(Arrays.toString(greatest(a)));
 		System.out.println(Arrays.toString(greatest(x)));
 		System.out.println(Arrays.toString(greatest(y)));
 		System.out.println(Arrays.toString(greatest(z)));
@@ -50,4 +52,6 @@ public class Question_06 {
 		}
 		return arr;
 	}
+	
+
 }
