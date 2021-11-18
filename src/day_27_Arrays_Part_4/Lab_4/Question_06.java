@@ -50,6 +50,15 @@ public class Question_06 {
 		for (int i = 0; i < arr.length; i++) {
 			arr[i] = last;
 		}
+		
+		// int max = arr[0];
+		// for (int i = 0; i < arr.length; i++) {
+		//   if (arr[i+1] > max) {
+		//  		max = arr[i+1];
+		//  	}
+		//  }
+		
+		
 		return arr;
 	}
 	
