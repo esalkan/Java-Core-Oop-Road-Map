@@ -59,3 +59,5 @@
 
 ## Java Core Exercises
 It will be listed below in a regular and sequential manner in the coming days.
+## Java 2021 RoadMap
+![Java 2021 Road Map](https://github.com/esalkan/java-notes/blob/master/2021%20Java%20Developer%20RoadMap.png)
