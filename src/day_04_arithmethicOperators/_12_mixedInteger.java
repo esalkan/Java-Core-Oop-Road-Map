@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_04_arithmethicOperators;
 
 /**
@@ -29,7 +26,6 @@ public class _12_mixedInteger {
 			thirdNumber = firstNumber + secondNumber; 
 	 */	 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// short firstNumner = 10;
 		// short secondNumber = 20;
