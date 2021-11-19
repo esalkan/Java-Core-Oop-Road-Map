@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_03_variables_dataTypes;
 
 /**
@@ -21,7 +18,6 @@ public class _09_task_09_variablesDataTypes {
 	
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int noc = 3;
 		String name1 = "Kel Oğlan";
 		String name2 = "Ay Kız";
