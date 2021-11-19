@@ -1,10 +1,7 @@
-/**
- * 
- */
 package day_02_printingComments;
 
 /**
- * @author codesofmine
+ * @author esalkan
  *
  */
 public class _07_task_04_escapeSequences {
@@ -13,7 +10,7 @@ public class _07_task_04_escapeSequences {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		System.out.println("\"\\__/\"\n\nHe said \"Hello\".\n\nWould you like \'coffee\' or \'tea\'?");
 
 		System.out.println("\n+-----------------------+\n");
