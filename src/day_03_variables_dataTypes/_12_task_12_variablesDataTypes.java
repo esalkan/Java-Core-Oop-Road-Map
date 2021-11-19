@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_03_variables_dataTypes;
 
 /**
@@ -27,7 +24,6 @@ public class _12_task_12_variablesDataTypes {
 	
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		String firstLastName;
 		firstLastName  = "Eyüp Sabri ALKAN";
