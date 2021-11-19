@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_04_arithmethicOperators;
 
 /**
@@ -13,7 +10,6 @@ public class _04_discount {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		// This program calculates the sale price of an
 		// item that is regularly priced at $59, with a 20% discount on it
