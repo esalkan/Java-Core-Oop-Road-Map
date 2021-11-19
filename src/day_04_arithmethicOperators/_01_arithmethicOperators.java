@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_04_arithmethicOperators;
 
 /**
@@ -13,7 +10,6 @@ public class _01_arithmethicOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		// Addition Operator +
 		System.out.println("Addition = " + (55+5));
 		int chairs = 140;
