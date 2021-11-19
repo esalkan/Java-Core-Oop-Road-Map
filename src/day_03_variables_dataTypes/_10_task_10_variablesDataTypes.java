@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_03_variables_dataTypes;
 
 /**
@@ -17,7 +14,6 @@ public class _10_task_10_variablesDataTypes {
 
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		// boolean b1, b2;
 		// String s1= "1", s2;
