@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_08_controlFlowStatements_elseIf_switchCase_Part_2;
 
 /**
@@ -13,8 +10,6 @@ public class _02_task_29_biggerNumber {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		// Declare and initialize 2 variable numbers
 		// Program should tell which number is bigger
 		// ex: "Number1 number is greater than Number2 number"
