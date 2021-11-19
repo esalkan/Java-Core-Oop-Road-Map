@@ -13,7 +13,6 @@ public class _08_nestedIfStatement {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		boolean isRushHour=false;
 		int carType=2;
