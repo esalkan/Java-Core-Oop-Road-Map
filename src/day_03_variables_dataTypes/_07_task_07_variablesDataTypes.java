@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_03_variables_dataTypes;
 
 /**
@@ -13,7 +10,6 @@ public class _07_task_07_variablesDataTypes {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int i1,i2;
 		float f1;
 		String s1;
