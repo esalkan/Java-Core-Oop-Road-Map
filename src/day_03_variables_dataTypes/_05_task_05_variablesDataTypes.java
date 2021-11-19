@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_03_variables_dataTypes;
 
 /**
@@ -13,7 +10,6 @@ public class _05_task_05_variablesDataTypes {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String name = "Eyüp Sabri ALKAN";
 		int age = 40;
 		boolean isStudent = true;
