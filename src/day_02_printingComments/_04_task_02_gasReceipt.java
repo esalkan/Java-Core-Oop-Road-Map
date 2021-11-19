@@ -1,10 +1,7 @@
-/**
- * 
- */
 package day_02_printingComments;
 
 /**
- * @author codesofmine
+ * @author esalkan
  *
  */
 public class _04_task_02_gasReceipt {
@@ -13,7 +10,6 @@ public class _04_task_02_gasReceipt {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("+---------------------------+");
 		System.out.println("|                           |");
 		System.out.println("|       MCLEAN STORE        |");
