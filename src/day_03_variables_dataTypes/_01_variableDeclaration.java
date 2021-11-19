@@ -4,7 +4,7 @@
 package day_03_variables_dataTypes;
 
 /**
- * @author codesofmine
+ * @author esalkan
  *
  */
 public class _01_variableDeclaration {
