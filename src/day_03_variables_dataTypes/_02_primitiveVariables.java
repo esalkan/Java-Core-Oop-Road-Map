@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_03_variables_dataTypes;
 
 /**
@@ -13,7 +10,6 @@ public class _02_primitiveVariables {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		byte b1 = 25;
 		byte b2 = -25;
 		// byte b3 = 128;
