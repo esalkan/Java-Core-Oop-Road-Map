@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_04_arithmethicOperators;
 
 /**
@@ -13,7 +10,6 @@ public class _11_typeCasting {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		byte b;
 		int i = 81;
 		double d = 323.142;
