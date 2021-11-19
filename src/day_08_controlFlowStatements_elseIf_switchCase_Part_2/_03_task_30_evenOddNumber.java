@@ -13,9 +13,6 @@ public class _03_task_30_evenOddNumber {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-
 		// Write a Java Program:
 		// 1 Declare and initialize a number
 		// 2 Display whether the number is an odd number or even number.
