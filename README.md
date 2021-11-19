@@ -1,7 +1,13 @@
 # Java Core - Road Map - Notes
 [Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/day_03_variables_dataTypes)
+- [Variable Declaration](https://github.com/esalkan/java-notes/blob/master/src/day_03_variables_dataTypes/_01_variableDeclaration.java)
+- [Primitive Variables](https://github.com/esalkan/java-notes/blob/master/src/day_03_variables_dataTypes/_02_primitiveVariables.java)
+- [Creating Variables](https://github.com/esalkan/java-notes/blob/master/src/day_03_variables_dataTypes/_03_creatingVariables.java)
+- [Constant Variables](https://github.com/esalkan/java-notes/blob/master/src/day_03_variables_dataTypes/_04_constantVariables.java)
 <br>
 [Arithmetic Operators](https://github.com/esalkan/java-notes/tree/master/src/day_04_arithmethicOperators)
+- [Addition Operator](https://github.com/esalkan/java-notes/blob/master/src/day_04_arithmethicOperators/_01_arithmethicOperators.java)
+- [Addition Concat(Concatenation)](https://github.com/esalkan/java-notes/blob/master/src/day_04_arithmethicOperators/_02_additionConcat.java)
 <br>
 [Unary Assignment Relational Logical Operators](https://github.com/esalkan/java-notes/tree/master/src/day_05_unaryAssignmentRelationalLogicalOperators)
 <br>
