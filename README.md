@@ -1,4 +1,4 @@
-# Java Core & OOP Road Map <br>## Java Core
+# Java Core & OOP Road Map <br><br> Java Core
 [Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/day_03_variables_dataTypes)
 <br>
 [Arithmetic Operators](https://github.com/esalkan/java-notes/tree/master/src/day_04_arithmethicOperators)
