@@ -13,7 +13,6 @@ public class _09_task_35_findGreatestNested {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		int n1 = 1000;
 		int n2 = 10000;
