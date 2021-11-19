@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_04_arithmethicOperators;
 
 /**
@@ -13,7 +10,6 @@ public class _08_task_15_convertMileToKilometer {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		double mile, km, convertingToKm;
 		mile = 85.0;
 		convertingToKm = mile * 1.609344;
