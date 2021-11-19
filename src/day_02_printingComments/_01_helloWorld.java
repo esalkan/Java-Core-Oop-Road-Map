@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_02_printingComments;
 
 /**
@@ -14,7 +11,8 @@ public class _01_helloWorld {
 	 */
 	public static void main(String[] args) {
 		// Print first message with JAVA
-		System.out.println("Maraba Zalım Dunya!");
+		System.out.println("Maraba Zalım Dunya! :)");
+		System.out.println("Hello Cruel World! :)");
 	}
 
 }
