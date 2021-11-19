@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_02_printingComments;
 
 /**
