@@ -13,7 +13,6 @@ public class _06_task_33_grading {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// Write a Java Program for the following logic:
 		//	§ If marks < 60, then print “Fail”
