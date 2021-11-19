@@ -13,7 +13,6 @@ public class _04_task_31_triangleAngles {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// A triangle is valid if the sum of all the three angles is equal to
 		// 180 degrees. Write a program that declares three integers as 
