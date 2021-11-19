@@ -56,3 +56,6 @@
 [Wrapper Class, Wrapper Class Methods, Auto-Boxing, Un-Boxing, Var Args, Math](https://github.com/esalkan/java-notes/tree/master/src/day_30_wrapperClass)
 <br>
 [Array List](https://github.com/esalkan/java-notes/tree/master/src/day_31_ArrayList)
+
+## Java Core Exercises
+It will be listed below in a regular and sequential manner in the coming days.
