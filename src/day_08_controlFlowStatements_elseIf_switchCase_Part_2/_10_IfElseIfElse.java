@@ -13,7 +13,6 @@ public class _10_IfElseIfElse {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		//Program to display days
 		//1-Monday
