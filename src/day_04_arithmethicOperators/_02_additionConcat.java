@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_04_arithmethicOperators;
 
 /**
@@ -13,7 +10,6 @@ public class _02_additionConcat {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		// Number + Number : Addition
 		System.out.println("Number + Number : Addition");
 		System.out.println("2 + 2 = " + (2+2));
