@@ -3,7 +3,7 @@ This repo contains a regular list of notes I have kept about my Java Core and Ja
 
 ## Java Core - Notes
 - [Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/day_03_variables_dataTypes)
-<br>
+
 [Arithmetic Operators](https://github.com/esalkan/java-notes/tree/master/src/day_04_arithmethicOperators)
 <br>
 [Unary Assignment Relational Logical Operators](https://github.com/esalkan/java-notes/tree/master/src/day_05_unaryAssignmentRelationalLogicalOperators)
