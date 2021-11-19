@@ -1,5 +1,5 @@
 # Java Core & Oop Road Map
-This repo contains a regular list of notes I have kept about my Java Core and Java Oop works.
+This repo contains a regular list of notes I have kept about my Java Core and Java Oop works, studies and exercises.
 
 ## Java Core - Notes
 [Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/day_03_variables_dataTypes)
