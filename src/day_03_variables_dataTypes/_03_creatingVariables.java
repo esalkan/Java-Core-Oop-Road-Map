@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_03_variables_dataTypes;
 
 /**
@@ -13,7 +10,6 @@ public class _03_creatingVariables {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int price = 5;
 		int quantity = 4;
 		
