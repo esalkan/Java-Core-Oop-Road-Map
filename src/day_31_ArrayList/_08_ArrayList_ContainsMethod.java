@@ -1,5 +1,7 @@
 package day_31_ArrayList;
 
+import java.util.ArrayList;
+
 /**
  * @author esalkan
  *
@@ -11,8 +13,10 @@ public class _08_ArrayList_ContainsMethod {
 	 */
 	public static void main(String[] args) {
 
+		// Creating an ArrayList
 		ArrayList<String> list1 = new ArrayList<>();
-
+		
+		// Add Values to list1 ArrayList
 		list1.add("Jan");
 		list1.add("Feb");
 		list1.add("Mar");
@@ -21,15 +25,17 @@ public class _08_ArrayList_ContainsMethod {
 
 		System.out.println(list1.toString());
 
+		// Creating another Arraylist named list2
 		ArrayList<String> list2 = list1;
 
-		// copy all values from list1
+		// Copy all values from list1 to months list
 		ArrayList<String> months = new ArrayList<String>(list1);
 		months.add("Jun");
 		months.add("July");
 		months.add("Aug");
 		System.out.println(months);
 
+		// Checking is given Value String contains in months list
 		System.out.println(months.contains("Jan"));
 		System.out.println(months.contains("Dec"));
 
