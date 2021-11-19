@@ -1,6 +1,3 @@
-/**
- * 
- */
 package day_03_variables_dataTypes;
 
 /**
@@ -13,7 +10,6 @@ public class _06_task_06_variablesDataTypes {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int flightNum=89, travelTime, departure=10, distance;
 		
 		System.out.println(flightNum);
