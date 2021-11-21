@@ -84,7 +84,7 @@ This repo contains a regular list of notes I have kept about my Java Core and Ja
   - [Example 09](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_09.java)
   - [Example 10](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_10.java)
   
-- ### Arithmetic Operators
+- ### Arithmetic Operators
   - [Example 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_3_arithmeticOperators/Question_01.java)
   - [Example 02](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_3_arithmeticOperators/Question_02.java)
   - [Example 03](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_3_arithmeticOperators/Question_03.java)
