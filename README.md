@@ -62,7 +62,7 @@ This repo contains a regular list of notes I have kept about my Java Core and Ja
 
 ## Java Core Exercises
 It will be listed below in a regular and sequential manner in the coming days.
-- Variables
+#- Variables
   - [Question 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_01.java)
   - [Question 02](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_02.java)
   - [Question 03](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_03.java)
