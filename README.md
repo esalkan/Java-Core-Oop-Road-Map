@@ -63,6 +63,15 @@ This repo contains a regular list of notes I have kept about my Java Core and Ja
 ## Java Core Exercises
 It will be listed below in a regular and sequential manner in the coming days.
 - Variables
-- - [Question 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_01.java)
+  - [Question 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_01.java)
+  - [Question 02](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_02.java)
+  - [Question 03](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_03.java)
+  - [Question 04](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_04.java)
+  - [Question 05](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_05.java)
+  - [Question 06](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_06.java)
+  - [Question 07](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_07.java)
+  - [Question 08](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_08.java)
+  - [Question 09](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_09.java)
+  - [Question 10](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_10.java)
 ## Java 2021 RoadMap
 ![Java 2021 Road Map](https://github.com/esalkan/java-notes/blob/master/2021%20Java%20Developer%20RoadMap.png)
