@@ -61,8 +61,8 @@ This repo contains a regular list of notes I have kept about my Java Core and Ja
 [Array List](https://github.com/esalkan/java-notes/tree/master/src/day_31_ArrayList)
 
 ## Java Core Exercises
-It will be listed below in a regular and sequential manner in the coming days.
-- # print / println
+
+- ### print / println
   - [Example 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_1_print_println/Question_01.java)
   - [Example 02](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_1_print_println/Question_02.java)
   - [Example 03](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_1_print_println/Question_03.java)
@@ -71,16 +71,40 @@ It will be listed below in a regular and sequential manner in the coming days.
   - [Example 06](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_1_print_println/Question_06.java)
   - [Example 07](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_1_print_println/Question_07.java)
   - [Example 08](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_1_print_println/Question_08.java)
-- # Variables
-  - [Question 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_01.java)
-  - [Question 02](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_02.java)
-  - [Question 03](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_03.java)
-  - [Question 04](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_04.java)
-  - [Question 05](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_05.java)
-  - [Question 06](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_06.java)
-  - [Question 07](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_07.java)
-  - [Question 08](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_08.java)
-  - [Question 09](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_09.java)
-  - [Question 10](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_10.java)
+
+- ### Variables
+  - [Example 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_01.java)
+  - [Example 02](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_02.java)
+  - [Example 03](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_03.java)
+  - [Example 04](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_04.java)
+  - [Example 05](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_05.java)
+  - [Example 06](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_06.java)
+  - [Example 07](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_07.java)
+  - [Example 08](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_08.java)
+  - [Example 09](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_09.java)
+  - [Example 10](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_10.java)
+  
+- ### Arithmetic Operators
+  - [Example 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_3_arithmeticOperators/Question_01.java)
+  - [Example 02](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_3_arithmeticOperators/Question_02.java)
+  - [Example 03](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_3_arithmeticOperators/Question_03.java)
+  - [Example 04](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_3_arithmeticOperators/Question_04.java)
+
+- ### For Loop
+  - [Example 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_01.java)
+  - [Example 02](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_02.java)
+  - [Example 03](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_03.java)
+  - [Example 04](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_04.java)
+  - [Example 05](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_05.java)
+  - [Example 06](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_06.java)
+  - [Example 07](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_07.java)
+  - [Example 08](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_08.java)
+  - [Example 09](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_09.java)
+  - [Example 10](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_10.java)
+  - [Example 11](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_11.java)
+  - [Example 12](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_12.java)
+  - [Example 13](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_13.java)
+  - [Example 14](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_5_forLoop/Question_14.java)
+
 ## Java 2021 RoadMap
 ![Java 2021 Road Map](https://github.com/esalkan/java-notes/blob/master/2021%20Java%20Developer%20RoadMap.png)
