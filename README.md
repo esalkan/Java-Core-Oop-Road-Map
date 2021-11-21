@@ -62,5 +62,7 @@ This repo contains a regular list of notes I have kept about my Java Core and Ja
 
 ## Java Core Exercises
 It will be listed below in a regular and sequential manner in the coming days.
+- Variables
+- - [Question 01](https://github.com/esalkan/java-notes/blob/master/src/assignments/assignment_2_variables/Question_01.java)
 ## Java 2021 RoadMap
 ![Java 2021 Road Map](https://github.com/esalkan/java-notes/blob/master/2021%20Java%20Developer%20RoadMap.png)
