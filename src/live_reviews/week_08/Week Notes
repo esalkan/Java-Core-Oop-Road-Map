@@ -1,0 +1,88 @@
+Data very important part of Tester's work life
+Data---> BackEnd (Database+API) + FrontEnd (WebBrowsers)
+
+3 Data Structures that comes with JAVA:
+	Arrays (primitive data type+non-primitive(objects))
+	Collections---ArrayList, List, Set, Vector....
+	Maps (non-primitive , key-value)
+	
+Array: 	part of the Data Structure
+		fixed size
+		support primitive(int,double,char...) + non-primitive(Integer, Double, Character,String)
+		ordered (it has index)
+		can be multi-dimensional
+
+single dimensional arrays : to store elements
+
+multi-dimesional arrays : to store arrays
+	
+		N dimensional array contains (N-1) dimensional array
+			
+				2D array : contains 1D arrays
+				arr2D = {{1,2,3},{4,5,6},{7,8,9}}
+				reach an element  [index of 1D array][index of element]--> 8: [2][1]
+				
+				3D array: contains 2D arrays
+				arr3D = {
+						{{1,2,3},{4,5,6},{7,8,9}} , 
+						{{3,4,7},{4,3},{9,4}}  
+						}
+				[index of 2D array][index of 1D array][index element]........->8:[0][2][1]
+
+
+ArrayList: 	part of Collection, internally uses Array(keeps creating new Arrays--Slow)
+			size is not fixed
+			supports only non-primitive  (can hold objects) Can we put our own custom made objects?
+			ordered (it has index)
+	****   can NOT be multi-dimensional******
+			it keeps duplicate values (Set: this one allow duplicate)
+	
+	ArrayList Methods:
+		 * add(value) -> Appends value at end of list
+         * 
+         * add(index, value) -> Inserts given value just before the given index,
+         * shifting subsequent values to the right
+         * 
+         * clear() -> Removes all elements of the list
+         * 
+         * indexOf(value) -> Returns first index where given value is found in list
+         * 
+         * get(index) -> Returns the value at given index
+         * 
+         * remove(index) -> Removes/Returns value at given index
+         * 
+         * size() -> Returns the number of elements in list
+         * 
+         * set(index, value) -> Replaces value at given index with given value
+	
+	Declare ArrayList
+	ArrayList<Integer> nums = new ArrayList<>();
+	
+	Raw Style : ArrayList list = new ArrayList<>();  you can put any object type Integer, Double, String (NOT RECOMMENDED)
+	
+	
+			
+
+Wrapper Class: the need for this Wrapper class is: Collections and Maps only hold non-primitive
+			second: this class come with useful methods.
+			turns our primitive data types into objects 
+	int ---> Integer
+	double -----> Double		
+			
+			
+			
+
+isAnagram Method Algorithm:
+1. I have two words, see if they anagram
+2. takes each char, and uses it's Decimal value, so I can create an array of integers
+3. I have only one int array, for the first word, I want to  add value of '1' to my array
+4. For the second word, I want to delete value of '1' from the same array 
+5. At the end if my int array stays empty, this means that my words are anagram				
+			
+Arrays Utility Class
+Arrays.toString method : for printing 1D arrays
+Arrays.deepToString : for printing 2D arrays
+Arrays.equal : for check equality of arrays
+Arrays.sort : sorting the Arrays
+Arrays.binarySearch
+Arrays.copyOf 
