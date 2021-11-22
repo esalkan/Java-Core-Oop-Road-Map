@@ -167,6 +167,7 @@ public class _02_ArrayList {
 		System.out.println("After remove \"b\" list is : " + list);
 
 		System.out.println("\n+-----o----- set(index, value) -----o-----+");
+		
 		// set(index, value) Method : Replaces value at given index with given value
 		String setValue = "Alkan";
 		list.set(0, setValue);
