@@ -28,7 +28,6 @@ public class _08_task_25_ifStatement2 {
 		
 		if (num2 > num3 && num2 > num1) {
 			System.out.println("The Greatest number is : " + num2);
-
 		}
 		
 		if (num3 > num2 && num3 > num1) {
