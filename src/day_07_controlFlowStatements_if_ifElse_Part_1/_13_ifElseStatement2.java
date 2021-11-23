@@ -13,7 +13,6 @@ public class _13_ifElseStatement2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		int score = 60;
 		
