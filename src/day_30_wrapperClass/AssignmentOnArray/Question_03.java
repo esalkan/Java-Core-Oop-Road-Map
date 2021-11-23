@@ -21,18 +21,18 @@ public class Question_03 {
 		 */
 
 		char arr[] = new char[] { 'A', 'Z', 'B', 'N', 'P', 'T', 'X', 'C' };
-		Character search = 'Y';
+		Character search = 'C';
 
-		for(Character value : arr) {
+		for (Character value : arr) {
 			if (value.equals(search)) {
 				System.out.println(value + " Found!");
-				break;
-			} else {
-				System.out.println(search + " Not Found!.");
-				break;
+				return;
 			}
 		}
+
+		System.out.println(search + " Not Found!.");
 
 	}
 
 }
+
