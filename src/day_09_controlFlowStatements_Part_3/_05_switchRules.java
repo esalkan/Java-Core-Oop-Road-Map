@@ -35,7 +35,6 @@ public class _05_switchRules {
 	//'' is using just for char values
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		final String  lastName = "Smith";
 		String firstName = "Mike";
