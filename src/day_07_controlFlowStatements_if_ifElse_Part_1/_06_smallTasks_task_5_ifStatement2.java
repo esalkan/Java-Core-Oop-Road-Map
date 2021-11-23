@@ -13,8 +13,6 @@ public class _06_smallTasks_task_5_ifStatement2 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		// 5- Write an if statement that prints Ideal Temp if the temp is 
 		// between 70 and 80
 		
