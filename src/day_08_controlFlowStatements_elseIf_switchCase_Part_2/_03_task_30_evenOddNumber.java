@@ -16,15 +16,15 @@ public class _03_task_30_evenOddNumber {
 		// Write a Java Program:
 		// 1 Declare and initialize a number
 		// 2 Display whether the number is an odd number or even number.
-		
-		int number=7;
-		
-		if(number%2==0) {
+
+		int number = 8;
+
+		if (number % 2 == 0) {
 			System.out.println("Number:" + number + " is even number");
-		}else {
+		} else {
 			System.out.println("Number:" + number + " is odd number");
 		}
-		
+
 	}
 
 }
