@@ -41,15 +41,22 @@ public class Question_04 {
 		int doubleCentury = 0;
 
 		for (int i = 0; i < scores.length; i++) {
+
 			if (scores[i] >= 50 && scores[i] < 100) {
+
 				halfCentury += scores[i];
+
 			} else if (scores[i] >= 100 && scores[i] < 200) {
+
 				century += scores[i];
-			} else if(scores[i] >= 200) {
+
+			} else if (scores[i] >= 200) {
+
 				doubleCentury += scores[i];
+
 			}
 		}
-		
+
 		System.out.println("Half-Century : " + halfCentury);
 		System.out.println("Century : " + century);
 		System.out.println("Double-Century : " + doubleCentury);
