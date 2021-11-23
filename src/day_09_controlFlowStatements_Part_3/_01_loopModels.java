@@ -16,7 +16,7 @@ public class _01_loopModels {
 		// TODO Auto-generated method stub
 
 		String computer = "Apple";
-		
+
 		switch (computer) {
 		case "Apple":
 			System.out.println("No Virus");
