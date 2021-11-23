@@ -3,6 +3,8 @@
  */
 package day_10_controlFlowStatements_Part_4;
 
+import javax.swing.JOptionPane;
+
 /**
  * @author esalkan
  *
@@ -23,7 +25,7 @@ public class _02_forLoop {
 		//	3- Do While Loop
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		 
 
 		//	If you need to run code a specific number of times, use a for loop. In a for loop, the 
 		//	condition is usually a counter which is used to tell how many times the loop should run.
