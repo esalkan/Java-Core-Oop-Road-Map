@@ -16,10 +16,8 @@ public class _04_smallTasks_task_3_ifStatement2 {
 	// Write an if statement that sets the variable fees to 50 if the Boolean variable max is true
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-
-		boolean max = true;
+		boolean max = false;
 		int fee = 20;
 		
 		if (max) {
