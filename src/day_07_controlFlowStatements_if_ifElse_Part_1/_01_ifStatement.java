@@ -37,7 +37,7 @@ public class _01_ifStatement {
 			commisionRate = 1.12;
 			
 			salary = salary* commisionRate * bonus;
-			
+	
 		}
 		
 		System.out.println("Salary : " + salary);
