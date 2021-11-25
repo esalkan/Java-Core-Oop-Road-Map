@@ -39,4 +39,5 @@ public class Person {
 	public char getGender() {
 		return gender;
 	}
+
 }
