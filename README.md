@@ -78,7 +78,7 @@ This repo contains Java Core and Java Oop works.
 <br>
 
 
-## Java Core Exercises
+## Java Exercise Questions
 
 
 
