@@ -1,7 +1,7 @@
 # Java Core & Oop Road Map
 This repo contains Java Core and Java Oop works.
 
-## Java Core - Notes
+## Java Notes
 [Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/core/day_03_variables_dataTypes)
 <br>
 [Arithmetic Operators](https://github.com/esalkan/java-notes/tree/master/src/core/day_04_arithmethicOperators)
