@@ -24,26 +24,26 @@ public class largestAndSmallest {
 
 		System.out.print("Enter Your First Number: ");
 		currentNum = input.nextInt();
-		
+
 		smallestNum = currentNum;
-		
+
 		System.out.print("Enter Your Next Number: ");
 		currentNum = input.nextInt();
 		largestNum = currentNum;
-		
+
 		System.out.print("Do You Want To Enter Another Number : 0-No, 1-Yes ");
 		int choice = input.nextInt();
 
 		while (choice == 1) {
 			System.out.print("Enter Your Next Number: ");
 			currentNum = input.nextInt();
-			
-				if (currentNum > smallestNum) {
-					largestNum = currentNum;
-				} else {
-					smallestNum = currentNum;
-				}
-		
+
+			if (currentNum > smallestNum) {
+				largestNum = currentNum;
+			} else {
+				smallestNum = currentNum;
+			}
+
 			System.out.print("Do You Want To Enter Another Number : 0-No, 1-Yes ");
 			choice = input.nextInt();
 		}

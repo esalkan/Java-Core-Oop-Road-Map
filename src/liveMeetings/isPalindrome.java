@@ -13,9 +13,9 @@ public class isPalindrome {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
+
 		String str = "radr";
-		
+
 		String revRes = "";
 
 		for (int i = str.length() - 1; i >= 0; i--) {
