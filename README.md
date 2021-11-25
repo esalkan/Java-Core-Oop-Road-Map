@@ -1,7 +1,10 @@
 # Java Core & Oop Road Map
 This repo contains Java Core and Java Oop works.
 
-## Java Core - Notes
+## Java Notes
+
+  <summary><b>🔒 Java Core</b></summary>
+
 [Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/core/day_03_variables_dataTypes)
 <br>
 [Arithmetic Operators](https://github.com/esalkan/java-notes/tree/master/src/core/day_04_arithmethicOperators)
@@ -58,9 +61,24 @@ This repo contains Java Core and Java Oop works.
 <br>
 [Wrapper Class, Wrapper Class Methods, Auto-Boxing, Un-Boxing, Var Args, Math](https://github.com/esalkan/java-notes/tree/master/src/core/day_30_wrapperClass)
 <br>
-[Array List](https://github.com/esalkan/java-notes/tree/master/src/core/day_31_ArrayList)
+[ArrayList](https://github.com/esalkan/java-notes/tree/master/src/core/day_31_ArrayList)
+<br>
+[ArrayList Continue](https://github.com/esalkan/java-notes/tree/master/src/core/day_32_ArrayList_Continue)
+<br>
+[Class | Objects | Constructors ](https://github.com/esalkan/java-notes/tree/master/src/core/day_33_Class_Objects_Constructors)
+<br>
+[Constructors | Passing Objects To Methods](https://github.com/esalkan/java-notes/tree/master/src/core/day_34_Constructors_PassingObjectsToMethods)
+<br>
 
-## Java Core Exercises
+
+
+  <summary><b>🔒 Java OOP</b></summary>
+
+  [Encapsulation](https://github.com/esalkan/java-notes/tree/master/src/oop/day_35_Encapsulation)
+<br>
+
+
+## Java Exercise Questions
 
 
 
