@@ -2,9 +2,9 @@
 This repo contains Java Core and Java Oop works.
 
 ## Java Notes
-<details>
+
   <summary><b>🔒 Java Core</b></summary>
-<br>
+
 [Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/core/day_03_variables_dataTypes)
 <br>
 [Arithmetic Operators](https://github.com/esalkan/java-notes/tree/master/src/core/day_04_arithmethicOperators)
@@ -69,14 +69,14 @@ This repo contains Java Core and Java Oop works.
 <br>
 [Constructors | Passing Objects To Methods](https://github.com/esalkan/java-notes/tree/master/src/core/day_34_Constructors_PassingObjectsToMethods)
 <br>
-</details>
 
-<details>
+
+
   <summary><b>🔒 Java OOP</b></summary>
-<br>
+
   [Encapsulation](https://github.com/esalkan/java-notes/tree/master/src/oop/day_35_Encapsulation)
 <br>
-</details>
+
 
 ## Java Core Exercises
 
