@@ -69,11 +69,13 @@ This repo contains Java Core and Java Oop works.
 <br>
 [Constructors | Passing Objects To Methods](https://github.com/esalkan/java-notes/tree/master/src/core/day_34_Constructors_PassingObjectsToMethods)
 </details>
+
 <details>
   <summary><b>🔒 Java OOP</b></summary>
   <br>
 [Encapsulation](https://github.com/esalkan/java-notes/tree/master/src/oop/day_35_Encapsulation)
 </details>
+
 ## Java Core Exercises
 
 
