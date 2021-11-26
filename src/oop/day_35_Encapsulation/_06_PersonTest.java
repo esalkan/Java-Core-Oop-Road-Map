@@ -4,7 +4,7 @@ package oop.day_35_Encapsulation;
  * @author esalkan
  *
  */
-public class PersonTest {
+public class _06_PersonTest {
 
 	/**
 	 * @param args
@@ -19,7 +19,7 @@ public class PersonTest {
 		 * 
 		 * create the getter method retrieve it
 		 */
-		Person alkan = new Person();
+		_05_Person alkan = new _05_Person();
 
 		alkan.setAge(40);
 		alkan.setGender('M');
