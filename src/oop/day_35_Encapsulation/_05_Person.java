@@ -4,7 +4,7 @@ package oop.day_35_Encapsulation;
  * @author esalkan
  *
  */
-public class Person {
+public class _05_Person {
 
 	private String name;
 	private int age;
