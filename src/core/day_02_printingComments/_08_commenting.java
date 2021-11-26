@@ -15,8 +15,10 @@ public class _08_commenting {
 		System.out.println("Hello World");
 
 		/*
-		 * 
+		 *  Multiply Comment Line
 		 */
+		
+		
 	}
 
 }
