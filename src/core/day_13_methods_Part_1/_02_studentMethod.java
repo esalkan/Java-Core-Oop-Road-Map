@@ -13,7 +13,7 @@ public class _02_studentMethod {
 		study();
 		code();
 	}
-
+	
 	public static void sayHello() {
 		System.out.println("Inside sayHello() Method");
 	}
