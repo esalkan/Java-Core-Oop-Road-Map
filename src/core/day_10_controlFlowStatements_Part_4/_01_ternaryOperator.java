@@ -41,5 +41,4 @@ public class _01_ternaryOperator {
 			System.out.println(7);
 		}
 	}
-
 }
