@@ -9,6 +9,7 @@ public class _12_passMultipleArguments {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// showSum(int num1, int num2)
 		showSum(5, 10);
 		showSum(50, 20);
 		showSum(60, 1);
