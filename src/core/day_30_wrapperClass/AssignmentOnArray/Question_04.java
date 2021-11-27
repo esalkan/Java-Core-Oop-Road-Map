@@ -44,15 +44,15 @@ public class Question_04 {
 
 			if (scores[i] >= 50 && scores[i] < 100) {
 
-				halfCentury += scores[i];
+				halfCentury++;
 
 			} else if (scores[i] >= 100 && scores[i] < 200) {
 
-				century += scores[i];
+				century++;
 
 			} else if (scores[i] >= 200) {
 
-				doubleCentury += scores[i];
+				doubleCentury++;
 
 			}
 		}
