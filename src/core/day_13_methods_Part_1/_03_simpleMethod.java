@@ -17,6 +17,7 @@ public class _03_simpleMethod {
 	}
 
 	private static void displayMessage() {
+		
 		System.out.println("Hello from the displayMessage() method...");
 	}
 
