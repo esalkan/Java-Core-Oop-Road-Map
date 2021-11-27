@@ -11,7 +11,7 @@ public class _01_variableDeclaration {
 	 */
 	public static void main(String[] args) {
 		// Declaration
-		byte inches;
+		byte inches; 
 		int speed;
 		short month;
 		float salesCommision;
