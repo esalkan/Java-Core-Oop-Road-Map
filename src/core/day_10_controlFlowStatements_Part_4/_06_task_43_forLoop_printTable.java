@@ -18,8 +18,9 @@ public class _06_task_43_forLoop_printTable {
 		System.out.println("------------------------------");
 
 		for (int i = 1; i <= 10; i++) {
+			i++;
 			System.out.println(i + "\t\t" + i * i);
+
 		}
 	}
-
 }
