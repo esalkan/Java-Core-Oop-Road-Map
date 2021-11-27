@@ -12,7 +12,9 @@ public class _08_nestedIfStatement {
 	public static void main(String[] args) {
 
 		boolean isRushHour = true;
+
 		int carType = 2;
+
 		double price = 0.0;
 
 		if (carType == 1) {
