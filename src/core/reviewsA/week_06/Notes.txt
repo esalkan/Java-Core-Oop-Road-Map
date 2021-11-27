@@ -1,0 +1,38 @@
+String 
+	1. Object
+		2 ways we can create Strings
+		String str = new String("Hello EU7");
+		
+		literal way of creating:
+		String strLit = "Hello EU7";
+		
+		String Constant Pool (string pool):
+		Special memory location in HEAP
+		***It does NOT allow duplicate values****
+		
+		****As a tester if you are going to check the equality of Strings then always use 
+		equals or equalsIgnoreCase methods
+		
+	2. Immutable : not changeable, can not be modified
+	
+	3. String Methods for Manipulation:
+	charAt()
+	isEmpty()
+	indexOf()
+	length()
+	concat()
+	toLowerCase()
+	substring()
+	replace()
+	toUpperCase()
+	equals()
+	equalsIgnoreCase()
+	trim()
+	contains()
+	
+	4. index and the length are two seperate things
+	index starts from ZERO 0 
+	String str = JAVA
+				 0123 index number
+				 
+	* Reverse example 			 
