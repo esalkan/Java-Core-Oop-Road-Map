@@ -16,7 +16,7 @@ public class _01_lab_01_stringTimes {
 	 */
 	public static void main(String[] args) {
 
-		stringTimes("Hi", 10);
+		stringTimes("Java", 3);
 
 	}
 
@@ -29,6 +29,7 @@ public class _01_lab_01_stringTimes {
 			str = str + string;
 
 		}
+		
 		System.out.println(str);
 
 	}
