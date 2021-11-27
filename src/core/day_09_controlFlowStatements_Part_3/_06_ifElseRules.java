@@ -11,10 +11,12 @@ public class _06_ifElseRules {
 	 */
 	public static void main(String[] args) {
 
-		if (true)
+		if (true) {
 			System.out.println("Hello");
+		}
 		else
 			System.out.println("Bye");
+			System.out.println("Nur");
 
 	}
 
