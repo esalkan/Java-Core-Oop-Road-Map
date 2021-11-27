@@ -15,8 +15,8 @@ public class _01_breakContinue {
 
 			if (i == 4) {
 
-				// break;
-				continue;
+				break;
+				// continue;
 
 			}
 
