@@ -26,8 +26,11 @@ public class _09_doWhileLoops {
 		int i = 20;
 
 		do {
+			
 			System.out.println(i);
+			
 			i++;
+			
 		} while (i <= 10);
 	}
 
