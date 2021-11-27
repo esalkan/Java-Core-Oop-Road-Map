@@ -10,7 +10,7 @@ public class _01_unaryOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		// + --> Unary Plus Operator --> Indicates positive value
 		int i1 = +10;
 		int i2 = -100;
