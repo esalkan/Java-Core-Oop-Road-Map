@@ -13,7 +13,7 @@ public class _01_ifStatement {
 
 		int score = 80;
 
-		if (score >= 70) {
+		if (score != 70) {
 			System.out.println("Excellent!");
 			System.out.println("You passed with Grade : A");
 		}
@@ -23,7 +23,7 @@ public class _01_ifStatement {
 		int sales, bonus;
 		double commisionRate, salary;
 
-		sales = 5000;
+		sales = 6000;
 		salary = 10000;
 
 		// We set the limit here
