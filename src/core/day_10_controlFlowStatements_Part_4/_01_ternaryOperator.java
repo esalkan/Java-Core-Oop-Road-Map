@@ -16,9 +16,9 @@ public class _01_ternaryOperator {
 		int score = 88;
 		//
 		// if (score > 60) {
-		// result = "Pass...";
+		// 		result = "Pass...";
 		// } else {
-		// result = "Fail...";
+		// 		result = "Fail...";
 		// }
 
 		// ? and : are ternary operators
@@ -29,6 +29,7 @@ public class _01_ternaryOperator {
 		// Nested If condition
 		int x = 5;
 
+		// Lambda expression
 		System.out.println(x > 2 ? x < 4 ? 10 : 8 : 7);
 
 		if (x > 2) {
