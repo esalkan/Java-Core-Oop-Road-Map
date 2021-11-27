@@ -20,6 +20,9 @@ public class _10_task_51_nestedForLoops {
 
 					// https://www.baeldung.com/java-printstream-printf
 				}
+				
+				
+				
 			}
 		}
 
