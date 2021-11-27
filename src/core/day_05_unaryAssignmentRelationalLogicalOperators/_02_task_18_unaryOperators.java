@@ -10,7 +10,6 @@ public class _02_task_18_unaryOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		// Variable "x" declarated and data type defined and value assigned
 		int x = 2;
 		// Variable "y" declarated and data type defined and "x" assigned
