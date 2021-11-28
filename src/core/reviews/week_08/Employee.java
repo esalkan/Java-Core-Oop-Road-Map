@@ -2,20 +2,21 @@ package core.reviews.week_08;
 
 public class Employee {
 
-	String name;
-	String jobTitle;
-	int id;
-	double salary;
+	public String name, jobTitle;
+	public int ID;
+	public double salary; // instance
 
-	public Employee(String name, String jobTitle, int id, double salary) {
+	public static String companyName = "Microsoft"; // static variable, same copy for all my objects
+
+	public Employee(String name, String jobTitle, int iD, double salary) {
 		this.name = name;
-		this.id = id;
 		this.jobTitle = jobTitle;
+		ID = iD;
 		this.salary = salary;
 	}
 
 	public String toString() {
-		return "Employee [name=" + name + ", id=" + id + ", jobTitle=" + jobTitle + ", salary=" + salary + "]";
+		return "Employee [name=" + name + ", jobTitle=" + jobTitle + ", ID=" + ID + ", salary=" + salary + "]";
 	}
 
 }
