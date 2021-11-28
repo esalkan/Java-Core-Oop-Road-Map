@@ -28,13 +28,9 @@ public class _03_ForEachLoop {
 
 		int[] numbers = { 3, 6, 9 };
 
-		for (int value : numbers) {
-			
-			System.out.println(value);
-			
+		for (int i : numbers) {
+			System.out.println(i);
 		}
-		
-		
 	}
 
 }
