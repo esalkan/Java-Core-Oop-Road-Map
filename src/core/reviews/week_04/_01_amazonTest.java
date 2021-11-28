@@ -1,4 +1,4 @@
-package core.reviews.week_05;
+package core.reviews.week_04;
 
 /**
  * @author esalkan
