@@ -11,7 +11,9 @@ public class _06_googleSearch {
 	public static void main(String[] args) {
 
 		navigateGoogle();
+		
 		searchForShoes();
+		
 		printResults();
 
 	}

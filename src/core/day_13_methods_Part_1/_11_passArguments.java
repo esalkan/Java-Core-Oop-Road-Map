@@ -10,11 +10,13 @@ public class _11_passArguments {
 	 */
 	public static void main(String[] args) {
 		
-		double x = 10.45;
+		// double x = 10.45;
 		
-		// displayValue(10);
+		int a = 10;
 		
-		displayValue((int) x);
+		displayValue(a);
+		
+		// displayValue((int) x);
 		
 		// displayValue(x*4);
 	}

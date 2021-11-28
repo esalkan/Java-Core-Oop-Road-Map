@@ -1,4 +1,4 @@
-package core.day_35_EncapsulationA;
+package core.day_35_Encapsulation;
 
 /**
  * @author esalkan

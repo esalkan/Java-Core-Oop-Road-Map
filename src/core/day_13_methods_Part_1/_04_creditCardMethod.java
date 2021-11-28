@@ -27,12 +27,8 @@ public class _04_creditCardMethod {
 	}
 
 	public static void noQualify() {
-		
-		int a = 1;
-		int b = 5;
-		int result = a + b ;
 
-		System.out.println("I am sorry, you are not qualified for the CC " + result);
+		System.out.println("I am sorry, you are not qualified for the CC " );
 
 	}
 
