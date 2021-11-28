@@ -30,12 +30,19 @@ public class _07_PassArray {
 	}
 
 	public static void getValue(int[] array) {
+		
+		
 		Scanner sc = new Scanner(System.in);
+		
 		System.out.println("Enter a series of " + array.length + " numbers");
+		
 		for (int i = 0; i < array.length; i++) {
+		
 			System.out.println("Enter number " + (i + 1) + " :");
+			
 			array[i] = sc.nextInt();
 		}
+		
 	}
 
 	public static void showArray(int[] array) {
