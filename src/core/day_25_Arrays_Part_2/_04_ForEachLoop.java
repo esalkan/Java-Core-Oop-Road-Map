@@ -69,8 +69,6 @@ public class _04_ForEachLoop {
 		for (String product : products) {
 			System.out.println(product);
 		}
-		
-		
 		System.out.println("\n----- print prices with for loop -----\n");
 
 		for (int i = 0; i < prices.length; i++) {
