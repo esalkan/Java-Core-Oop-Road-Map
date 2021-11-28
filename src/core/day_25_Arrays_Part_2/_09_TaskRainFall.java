@@ -32,7 +32,6 @@ public class _09_TaskRainFall {
 		 * 
 		 * Input Validation: Do not accept negative numbers for the monthly rainfall
 		 * figures.
-		 * 
 		 */
 		double total = 0;
 		double average = 0;
