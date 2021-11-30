@@ -26,18 +26,15 @@ public class _04_Company {
 		// gender coming from Person Class Which is the Parent Class
 		emp1.gender = 'M';
 
-	
-		
 		// Employee Class Methods
 		emp1.work();
 		emp1.toString();
-		
+
 		// Calling Parent Class Methods
 		emp1.eat("Salad");
 		emp1.sleep(8);
 		emp1.walk();
-		
-		
+
 	}
 
 }
