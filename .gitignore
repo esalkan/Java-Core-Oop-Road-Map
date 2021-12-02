@@ -1,7 +1,7 @@
 
 *.class
-*bin/
-*.settings/
+/bin/
+/.settings/
 .DS_Store
 src/liveMeetings/deneme.java
 src/day_29_Arrays_Part_6/AssignmentOnStringMethods/Questions
