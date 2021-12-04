@@ -24,7 +24,7 @@ public class _02_CollectionsUtility {
 		// we can reverse this arrayList
 		Collections.reverse(list);
 		System.out.println("Reversed List : " + list);
-		
+
 		int freqOfChar = Collections.frequency(list, 'a');
 		System.out.println("Frequency is : " + freqOfChar);
 
