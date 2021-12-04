@@ -19,7 +19,7 @@ public class _01_ArrayListPractice {
 		 * user to enter a number And it will ask again?, if the answer NO, then will
 		 * return an ArrayList
 		 */
-		
+
 		System.out.println(listGenerator());
 
 	}
