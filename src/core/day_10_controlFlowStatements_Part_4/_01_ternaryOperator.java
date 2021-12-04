@@ -16,9 +16,9 @@ public class _01_ternaryOperator {
 		int score = 88;
 		//
 		// if (score > 60) {
-		// 		result = "Pass...";
+		// result = "Pass...";
 		// } else {
-		// 		result = "Fail...";
+		// result = "Fail...";
 		// }
 
 		// ? and : are ternary operators
