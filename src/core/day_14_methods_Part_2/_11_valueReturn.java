@@ -9,11 +9,7 @@ public class _11_valueReturn {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
-		
-		
 
 	}
-
 
 }
