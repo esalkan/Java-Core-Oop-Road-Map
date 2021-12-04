@@ -29,7 +29,7 @@ public class _01_lab_01_stringTimes {
 			str = str + string;
 
 		}
-		
+
 		System.out.println(str);
 
 	}
