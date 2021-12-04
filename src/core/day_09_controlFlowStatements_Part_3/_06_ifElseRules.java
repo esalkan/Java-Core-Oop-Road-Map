@@ -13,10 +13,9 @@ public class _06_ifElseRules {
 
 		if (true) {
 			System.out.println("Hello");
-		}
-		else
+		} else
 			System.out.println("Bye");
-			System.out.println("Nur");
+		System.out.println("Nur");
 
 	}
 
