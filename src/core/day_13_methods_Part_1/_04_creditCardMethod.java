@@ -13,7 +13,7 @@ public class _04_creditCardMethod {
 		double salary = 50000;
 
 		int creditRating = 5;
-			//    true      &&   false = false
+		// true && false = false
 		if (salary >= 20000 && creditRating >= 7) {
 
 			qualify();
@@ -28,7 +28,7 @@ public class _04_creditCardMethod {
 
 	public static void noQualify() {
 
-		System.out.println("I am sorry, you are not qualified for the CC " );
+		System.out.println("I am sorry, you are not qualified for the CC ");
 
 	}
 
