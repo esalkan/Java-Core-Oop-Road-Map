@@ -12,14 +12,14 @@ public class _03_simpleMethod {
 	public static void main(String[] args) {
 
 		System.out.println("Hello from main method...");
-		
+
 		displayMessage();
-		
+
 		System.out.println("Back in the main method...");
 	}
 
 	private static void displayMessage() {
-		
+
 		System.out.println("Hello from the displayMessage() method...");
 	}
 
