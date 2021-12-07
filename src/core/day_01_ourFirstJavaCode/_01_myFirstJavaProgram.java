@@ -1,5 +1,4 @@
 package core.day_01_ourFirstJavaCode;
-
 /**
  * @author esalkan
  */
