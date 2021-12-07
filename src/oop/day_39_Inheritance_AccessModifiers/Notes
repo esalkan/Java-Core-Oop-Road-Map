@@ -1,0 +1,196 @@
+Class : Template, blueprint.
+
+        Collection of variables and methods
+
+        public class Vehicle{
+
+            //instance variables 
+            //instance methods
+        }
+
+- - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - -
+
+Types of variables:
+	- Local Variables:  
+			-> A variable defined within a block or method or constructor
+			-> Created when the block in entered or the method is called and destroyed after exiting from block, 
+				or when the call returns from method
+			-> Scope of these variables exists only within the block in which the variable is declared
+			-> Initializition is mandatory
+
+	- Instance Variables: 
+			-> Non-static variables and are declared in a class outside any method, constructor, or block
+			-> Created when an object of the class is created and destroyed  when the object is destroyed
+			-> Unlike local variables, we may use access modifiers. If we do not specify any modifier then 
+				default access specifier will be used
+			-> Initialization is not mandatory.
+			-> Can be accessed only by creating objects
+
+	- Static Variables: 
+			-> Also known as class variables.
+			-> Declared using the static keyword within a class outside any method, constructor or block.
+			-> We can ony have one copy of static variables per class
+			-> Created at the start of the program execution and destroyed automatically when execution ends
+			-> Initialization is not mandatory
+			-> We can access thru class name. className.staticVariable;
+
+- - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - -
+
+Encapsulation : Data hiding
+                private variables, public getter, public setter
+
+
+			    public class Vehicle{
+			        private String name;
+			        private String size;
+			        private int currentVelocity;
+			        private int currentDirection;
+			        
+			        public String getName() {
+			            return name;
+			        }
+			
+			        public String getSize() {
+			            return size;
+			        }
+			
+			        public void setName(String name){
+			            this.name=name;
+			        }
+			
+			        public void setSize(String size){
+			            this.size=size;
+			        }
+			    }
+			    
+- - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - -
+
+Constructor:
+			 -> Special method that initializes a created object.
+             -> new keyword invoked the constructor. 
+             -> Constructors does not have return type.
+             -> Constructors have the same name as the class.
+             -> If we do not define a constructor, compiler creates default constructor.(no argument)
+             -> We can overload constructors like methods (number of parameters,types of parameters,and order of parameters)
+             -> We can call one constructor from another constructor with this() keyword
+
+
+		    public Vehicle(String name, String size) {
+		        this.name = name;
+		        this.size = size;
+		
+		        this.currentVelocity = 0;
+		        this.currentDirection = 0;
+		    }
+
+- - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - -
+Inheritance:
+ 			-> One class inherits the features(fields and methods) of another class.
+            -> The Subclass can add its own fields and methods in addition to the superclass fields and methods.
+            -> The keyword used for inheritance is extends 
+            -> Constructors are not inherited
+
+             public class Car extends Vehicle(){
+
+                    //variables
+                    //methods
+             }
+
+             -> super() keyword is used to call parent class constructor.
+             -> If subclass does not call a superclass constructor, java will automatically call the superclass's 
+             default constructor.
+             -> if parent class only has constructor with parameters, then child constructor MUST make a matching 
+             	super(params) calls
+             -> super() needs to be the first statement in the constructor.
+
+- - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - -
+
+
+Overriding: Declaring a method in subclass which is already present in the parent class
+            - > There must be a IS-A relationship
+            - > Method must have same name and same parameters in parent class
+            - > Access modifiers should be same or more visible
+            - > Return type must be same or covariant type
+            
+            
+            public class Vehicle{
+
+                public void methodA(int a,int b,String x){}
+            }
+
+            public Car extends Vehicle{
+
+                public void methodA(int a,int b,String x){}
+
+            }
+
+
+
+			class Vehicle {
+				public Vehicle move(String direction) {
+					return new Vehicle();
+				}
+			}
+
+			class Van extends Vehicle {
+				public Vehicle move(String direction) {
+					return new Vehicle();
+				}
+			}
+
+
+			class Van extends Vehicle {
+				// Notice the covariant return type Van here, which is subtype of Vehicle
+				public Van move(String direction) {
+					return new Van();
+				}
+			}
+			
+- - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - -
+
+
+this vs super : 
+			-> super is used to call the parent class members
+            -> this is used to call the current class members
+            -> We can use both of them anywhere
+
+- - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - -
+
+this() vs super() : 
+			-> this() is used to call constructor from another overloaded constructor
+            -> super() is used to call a parent constructor
+            -> this() and super() can not be used together in the same constructor
+
+- - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - - o - - - - -
+
+
+Access Modifiers: 
+			- > public, protected, default, private
+			- > variables, constructors, methods can have all 4 access modifiers.
+
+		    private members are accessible:
+		    	- only within the defining class
+				
+		    default members are accessible:
+		    	- within the defining class
+		    	- in another class in the same package as the defining class
+				
+		    protected members are accessible:
+		    	- within the defining class
+		    	- in another class in the same package as the defining class
+		    	- in the derived class defined in any package (through inheritance)
+		    	- It is used to make sure the class variables are accessible only to subclasses
+				
+		    public members are accessible:
+		    	- within the defining class
+		    	- in another class in the same package as the defining class
+		    	- in a class defined in another package
+
+   
+
+
+
+
+
+
+
