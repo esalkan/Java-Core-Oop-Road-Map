@@ -13,6 +13,7 @@ public class question_14 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * 
 		 * Given a string, return true if it ends in "ly".

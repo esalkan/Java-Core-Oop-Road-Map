@@ -1,6 +1,3 @@
-/**
- * 
- */
 package core.day_23_stringClass_lab_randomClass;
 
 /**
@@ -13,6 +10,7 @@ public class question_17 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+
 		/**
 		 * Write a method that accepts a string and returns true if the string is
 		 * palindrome.

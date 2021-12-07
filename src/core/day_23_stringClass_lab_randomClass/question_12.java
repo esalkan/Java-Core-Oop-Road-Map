@@ -13,6 +13,7 @@ public class question_12 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		
 		/**
 		 * Return true if the string "cat" and "dog" appear the same number of times in
 		 * the given string.

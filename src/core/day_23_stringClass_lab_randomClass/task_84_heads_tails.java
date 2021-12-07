@@ -1,6 +1,3 @@
-/**
- * 
- */
 package core.day_23_stringClass_lab_randomClass;
 
 import java.util.Random;
