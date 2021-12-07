@@ -23,6 +23,7 @@ public class _01_myFirstJavaProgram {
 	public static void main(String[] args)/* Main Method */ { // Opening Braces
 
 		System.out.println("Maraba Zalım Dünya!") /* Displays a message on the screen */ ; // Semicolon
+
 	} // Closing Braces
 
 }
