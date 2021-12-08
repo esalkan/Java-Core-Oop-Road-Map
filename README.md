@@ -75,6 +75,11 @@ This repo contains Java Core and Java Oop works.
   <summary><b>🔒 Java OOP</b></summary>
 
   [Encapsulation](https://github.com/esalkan/java-notes/tree/master/src/oop/day_35_Encapsulation)
+  [Static Class Members](https://github.com/esalkan/java-notes/tree/master/src/oop/day_36_StaticClassMembers)
+  [Inheritance Part 01](https://github.com/esalkan/java-notes/tree/master/src/oop/day_37_Inheritance)
+  [Inheritance Part 02](https://github.com/esalkan/java-notes/tree/master/src/oop/day_38_InheritanceContinue)
+  [Inheritance Access Modifiers](https://github.com/esalkan/java-notes/tree/master/src/oop/day_39_Inheritance_AccessModifiers)
+
 <br>
 
 
