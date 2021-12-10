@@ -75,7 +75,6 @@ public class _01_ArrayCreation {
 		 */
 
 		/**
-		 * 
 		 * Keep in Mind It is illegal to include the size of the array in the
 		 * declarations, Following statement will give compilation error.
 		 * 
