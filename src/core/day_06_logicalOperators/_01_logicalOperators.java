@@ -11,8 +11,8 @@ public class _01_logicalOperators {
 	 */
 	public static void main(String[] args) {
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
-		// \\ //\\
-		// \\ Logical Operators //\\
+		// \\ 																	 //\\
+		// \\ 				Logical Operators 									//\\
 		// \\ //\\
 		// \\ OPERATOR DESCRIPTION //\\
 		// \\ & Logical "AND" //\\
@@ -24,21 +24,26 @@ public class _01_logicalOperators {
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
 
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
-		// \\ //\\
-		// \\ Truth table for &&(logical AND) and &(Bitwise Logical AND) //\\
-		// \\ //\\
-		// \\ Expression 1 Expression2 Returned Value //\\
-		// \\ False <--> False = False //\\
-		// \\ False <--> True = False //\\
-		// \\ True <--> False = False //\\
-		// \\ True <--> True = True //\\
-		// \\ //\\
+		// \\ 																//\\
+		// \\ Truth table for &&(logical AND) and &(Bitwise Logical AND) 	//\\
+		// \\ 																//\\
+		// \\ 		Expression 1 Expression2 Returned Value 				//\\
+		// \\ 		False <--> False = False 								//\\
+		// \\ 		False <--> True = False 								//\\
+		// \\ 		True <--> False = False 								//\\
+		// \\ 		True <--> True = True 									//\\
+		// \\ 																//\\
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
 		/*
-		 * Difference between & and && --> && operator supports short-circuit
-		 * evaluations but & operator does not. --> If the first operand to && operator
+		 * Difference between & and && 
+		 * 
+		 * --> && operator supports short-circuit evaluations but & operator does not. 
+		 * 
+		 * --> If the first operand to && operator
 		 * evaluates to false, the result can never be true, hence && does not evaluate
-		 * the second operand. --> But & operator evaluates both the operands before
+		 * the second operand. 
+		 * 
+		 * --> But & operator evaluates both the operands before
 		 * returning an answer.
 		 */
 		//
