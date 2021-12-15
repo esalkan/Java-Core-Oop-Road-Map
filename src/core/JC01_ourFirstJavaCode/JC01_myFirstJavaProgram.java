@@ -1,8 +1,8 @@
-package core.day_01_ourFirstJavaCode;
+package core.JC01_ourFirstJavaCode;
 /**
  * @author esalkan
  */
-public class _01_myFirstJavaProgram {
+public class JC01_myFirstJavaProgram {
 
 	/**
 	 * @param args
