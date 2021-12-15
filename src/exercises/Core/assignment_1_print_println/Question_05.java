@@ -1,0 +1,21 @@
+package exercises.Core.assignment_1_print_println;
+
+/**
+ * @author esalkan
+ */
+public class Question_05 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		System.out.println("* * * * * * *");
+		System.out.println("* *       * *");
+		System.out.println("*   *   *   *");
+		System.out.println("*     *     *");
+		System.out.println("*   *   *   *");
+		System.out.println("* *       * *");
+		System.out.println("* * * * * * *");
+	}
+
+}
