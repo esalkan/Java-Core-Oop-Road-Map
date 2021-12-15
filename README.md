@@ -39,13 +39,13 @@ This repo contains Java Core and Java Oop works.
 <br>
 [String Class - String Manupulation - Part 01](https://github.com/esalkan/java-notes/tree/master/src/core/JC19_stringClass_stringManipulation_Part_01)
 <br>
-[String Class - String Manupulation - Part 02](https://github.com/esalkan/java-notes/tree/master/src/core/JC20_stringClass_stringManupulation_Part_2)
+[String Class - String Manupulation - Part 02](https://github.com/esalkan/java-notes/tree/master/src/core/JC20_stringClass_stringManipulation_Part_02)
 <br>
-[String Class - String Manupulation - Part 02](https://github.com/esalkan/java-notes/tree/master/src/core/JC21_stringManipulation_Part_3)
+[String Class - String Manupulation - Part 02](https://github.com/esalkan/java-notes/tree/master/src/core/JC21_stringClass_stringManipulation_Part_03)
 <br>
-[String Class - Lab. ](https://github.com/esalkan/java-notes/tree/master/src/core/JC22_stringClassContinue_Lab)
+[String Class - Lab. ](https://github.com/esalkan/java-notes/tree/master/src/core/JC22_stringClass_stringManipulation_Part_04)
 <br>
-[String Class - Lab., Random Class](https://github.com/esalkan/java-notes/tree/master/src/core/JC23_stringClass_lab_randomClass)
+[String Class - Lab., Random Class](https://github.com/esalkan/java-notes/tree/master/src/core/JC23_stringClass_stringManipulation_randomClass)
 <br>
 [Arrays - Part 01](https://github.com/esalkan/java-notes/tree/master/src/core/JC24_Arrays_Part_1)
 <br>
