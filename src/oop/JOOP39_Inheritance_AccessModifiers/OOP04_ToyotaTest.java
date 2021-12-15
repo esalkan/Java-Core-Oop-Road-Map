@@ -1,4 +1,4 @@
-package oop.OOP39_Inheritance_AccessModifiers;
+package oop.JOOP39_Inheritance_AccessModifiers;
 
 /**
  * @author esalkan
