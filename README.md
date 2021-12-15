@@ -5,9 +5,9 @@ This repo contains Java Core and Java Oop works.
 
   <summary><b>🔒 Java Core</b></summary>
 
-[Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/core/day_03_variables_dataTypes)
+[Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/core/JC03_variables_dataTypes)
 <br>
-[Arithmetic Operators](https://github.com/esalkan/java-notes/tree/master/src/core/day_04_arithmethicOperators)
+[Arithmetic Operators](https://github.com/esalkan/java-notes/tree/master/src/core/JC04_arithmethicOperators)
 <br>
 [Unary Assignment Relational Logical Operators](https://github.com/esalkan/java-notes/tree/master/src/core/day_05_unaryAssignmentRelationalLogicalOperators)
 <br>
