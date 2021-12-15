@@ -69,7 +69,7 @@ This repo contains Java Core and Java Oop works.
 
 
 
-  <summary><b>🔒 Java OOP</b></summary>
+  <summary><b>🔒 Java OOP</b></summary><br>
   [Class | Objects | Constructors ](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP33_Class_Objects_Constructors)
   <br>
   [Constructors | Passing Objects To Methods](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP34_Constructors_PassingObjectsToMethods)
