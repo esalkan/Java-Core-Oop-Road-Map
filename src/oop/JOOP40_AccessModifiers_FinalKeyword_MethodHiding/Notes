@@ -1,0 +1,65 @@
+	/**
+	 * There are 4 Access Modifiers in JAVA :
+	 * 
+	 * 1. public : it accessable anywhere
+	 * 
+	 * 2. protected
+	 * 
+	 * 3. default
+	 * 
+	 * 4. private
+	 * 
+	 * Top level java class can have two access modifiers : public and default.
+	 * Variables, Constructors and methods can have all four access modifiers.
+	 */
+
+	/**
+	 * This is Top Level Java Class : Top level class should be public or default.
+	 */
+	 
+	 
+	 public class Car {
+
+	}
+
+	/* public */ class A extends Car {
+		/**
+		 * When we extends the class from TOP class : if we use public access modifier
+		 * it is givin the error : The public type A must be defined in its own file
+		 * that child it must have default Access Modifier.
+		 */
+	}
+	
+	
+/**
+ * DEFAULT :
+ * 
+ * When no access modifier is specified for a class, method or data member - it
+ * is said to be having the default access modifier by default.
+ * 
+ * The data members, class or methods which are not declared using any access
+ * modifiers are accessable only within the same package
+ */
+
+/**
+ * PRIVATE :
+ * 
+ * The private access modifier is specified using the keyword private.
+ * 
+ * The methods or data members declared as private are accessible only within
+ * the class in which they are declared.
+ * 
+ * Any other class of same package will not be able to access these members.
+ * 
+ * Top level classes can not be declared as private.
+ */
+
+/**
+ * PROTECTED :
+ * 
+ * The protected access modifier is specified using the keyword protected.
+ * 
+ * The methods or data members declared as protected are accessible within same
+ * package or sub classes in different package.
+ */
+	
