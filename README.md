@@ -66,7 +66,7 @@ This repo contains Java Core and Java Oop works.
 
 
 
-  <summary><b>🔒 Java OOP</b></summary><br>
+## Java OOP 
   
   [Class | Objects | Constructors ](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP33_Class_Objects_Constructors)
   <br>
