@@ -90,19 +90,39 @@ This repo contains Java Core and Java Oop works.
 
 ## Java Exercises - Questions & Answers
   
-  [Questins & Answers 01 : print(), println() (8 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_print_and_println)
+  [print(), println() (8 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_print_and_println)
   <br>
-  [Questins & Answers 02 : Variables (10 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_variables)
+  [Variables (10 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_variables)
   <br>
-  [Questins & Answers 03 : Arithmetic Operators (4 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa03_arithmeticOperators)
+  [Arithmetic Operators (4 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa03_arithmeticOperators)
   <br>
-  [Questins & Answers 04 : Loops (14 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa04_loops)
+  [Loops (14 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa04_loops)
   <br>
-  [Questins & Answers 05 : Nested Loops (6 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa05_nestedLoops)
+  [Nested Loops (6 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa05_nestedLoops)
   <br>
-  [Test Questins & Answers 05 : Test 01 (30 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_test01)
+  [Test 01 (30 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_test01)
   <br>
-  [Tes Questins & Answers 06 : Test 02 (30 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_test02)
+  [Test 02 (30 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_test02)
+  <br>
+  [Lab 01 (8 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_Lab)
+  <br>
+  [Replit Java](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit)
+   <br>
+    [Basics](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/basics)
+  <br>
+    [Variables](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/variables)
+  <br>
+  [Replit Java ()]()
+  <br>
+  [Replit Java ()]()
+  <br>
+  [Replit Java ()]()
+  <br>
+  [Replit Java ()]()
+  <br>
+  [Replit Java ()]()
+  <br>
+  [Replit Java ()]()
 
 
 ## Java 2021 RoadMap
