@@ -468,24 +468,40 @@ This repo contains Java Core and Java Oop works.
   </details>
 
   <details>
-    <summary>Replit Java</summary>
+    <summary>Replit Java (171 Questions)</summary>
   <ol>
     <li>
-      <summary>
-        Basics
-      </summary>
-      <ol>
-        <li>
-          <a href="">deneme</a>
-        </li>
-      </ol>
+      <a href="https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/basics">Basics (14 Questions)</a>
     </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/variables">Variables (10 Questions)</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/statements">Statements (29 Questions)</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/strings">Strings (25 Questions)</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/loops">Loops (17 Questions)</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/arrays">Arrays (14 Questions)</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/methods">Methods (37 Questions)</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/arrayList">ArrayList (19 Questions)</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/oop">OOP (6 Questions)</a>
+    </li>
+
       
   </ol>
   </details>
 
-  <br>
-  [Replit Java (181 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit)
 
 
 
