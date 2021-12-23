@@ -106,9 +106,9 @@ This repo contains Java Core and Java Oop works.
   <br>
   [Lab 01 (8 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_Lab)
   <br>
-  [Replit Java](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit)
+  * [Replit Java](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit)
    <br>
-    [Basics](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/basics)
+    ** [Basics](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/basics)
   <br>
     [Variables](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit/variables)
   <br>
