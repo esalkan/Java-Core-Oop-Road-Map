@@ -88,7 +88,9 @@ This repo contains Java Core and Java Oop works.
 <br>
 
 
-## Java Exercise Questions
+## Java Exercises - Questions & Answers
+  <br>
+  [Print & Println Questins & Answers Exercises](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_print_and_println)
 
 
 
