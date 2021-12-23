@@ -89,10 +89,20 @@ This repo contains Java Core and Java Oop works.
 
 
 ## Java Exercises - Questions & Answers
-  <br>
   
-  [Print & Println Questins & Answers Exercises](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_print_and_println)
-
+  [Questins & Answers 01 : print(), println() (8 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_print_and_println)
+  <br>
+  [Questins & Answers 02 : Variables (10 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_variables)
+  <br>
+  [Questins & Answers 03 : Arithmetic Operators (4 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa03_arithmeticOperators)
+  <br>
+  [Questins & Answers 04 : Loops (14 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa04_loops)
+  <br>
+  [Questins & Answers 05 : Nested Loops (6 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa05_nestedLoops)
+  <br>
+  [Test Questins & Answers 05 : Test 01 (30 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_test01)
+  <br>
+  [Tes Questins & Answers 06 : Test 02 (30 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_test02)
 
 
 ## Java 2021 RoadMap
