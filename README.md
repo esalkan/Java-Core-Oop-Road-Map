@@ -97,7 +97,7 @@ This repo contains Java Core and Java Oop works.
     <li>
       <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_02.java">Question 02</a>
     </li>
-<li>
+    <li>
       <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_03.java">Question 03</a>
     </li>
     <li>
@@ -116,11 +116,44 @@ This repo contains Java Core and Java Oop works.
       <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_08.java">Question 08</a>
     </li>
   </ol>
+  <summary>Variables (10 Questions)</summary>
+  <ol>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_01.java">Question 01</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_02.java">Question 02</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_03.java">Question 03</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_04.java">Question 04</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_05.java">Question 05</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_06.java">Question 06</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_07.java">Question 07</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_08.java">Question 08</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_09.java">Question 09</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_10.java">Question 10</a>
+    </li>
+  </ol>
 </details>
   
-  [print(), println() (8 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_print_and_println)
+  
   <br>
-  [Variables (10 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_variables)
+  [](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_variables)
   <br>
   [Arithmetic Operators (4 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa03_arithmeticOperators)
   <br>
