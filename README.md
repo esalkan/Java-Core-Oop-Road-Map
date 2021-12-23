@@ -152,6 +152,7 @@ This repo contains Java Core and Java Oop works.
     </li>
   </ol>
   </details>
+  
   <details>
     <summary>Arithmetic Operators (4 Questions)</summary>
       <ol>
@@ -220,13 +221,223 @@ This repo contains Java Core and Java Oop works.
   </ol>
   </details>
 
+  <details>
+    <summary>Nested Loops (6 Questions)</summary>
+  <ol>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa05_nestedLoops/Question_1.java">Question 01</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa05_nestedLoops/Question_2.java">Question 02</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa05_nestedLoops/Question_3.java">Question 03</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa05_nestedLoops/Question_4.java">Question 04</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa05_nestedLoops/Question_5.java">Question 05</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa05_nestedLoops/Question_6.java">Question 06</a>
+    </li>
+  </ol>
+  </details>
+  
+  <details>
+    <summary>Test 01 (30 Questions)</summary>
+  <ol>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_01.java">Question 01</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_02.java">Question 02</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_03.java">Question 03</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_04.java">Question 04</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_05.java">Question 05</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_06.java">Question 06</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_07.java">Question 07</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_08.java">Question 08</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_09.java">Question 09</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_10.java">Question 10</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_11.java">Question 11</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_12.java">Question 12</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_13.java">Question 13</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_14.java">Question 14</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_15.java">Question 15</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_16.java">Question 16</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_17.java">Question 17</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_18.java">Question 18</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_19.java">Question 19</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_20.java">Question 20</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_21.java">Question 21</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_22.java">Question 22</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_23.java">Question 23</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_24.java">Question 24</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_25.java">Question 25</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_26.java">Question 26</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_27.java">Question 27</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_28.java">Question 28</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_29.java">Question 29</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_test01/Question_30.java">Question 30</a>
+    </li>
+  </ol>
+  </details>
 
-  <br>
-  [Nested Loops (6 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa05_nestedLoops)
-  <br>
-  [Test 01 (30 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_test01)
-  <br>
-  [Test 02 (30 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_test02)
+  <details>
+    <summary>Test 02 (30 Questions)</summary>
+  <ol>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_01.java">Question 01</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_02.java">Question 02</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_03.java">Question 03</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_04.java">Question 04</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_05.java">Question 05</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_06.java">Question 06</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_07.java">Question 07</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_08.java">Question 08</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_09.java">Question 09</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_10.java">Question 10</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_11.java">Question 11</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_12.java">Question 12</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_13.java">Question 13</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_14.java">Question 14</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_15.java">Question 15</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_16.java">Question 16</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_17.java">Question 17</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_18.java">Question 18</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_19.java">Question 19</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_20.java">Question 20</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_21.java">Question 21</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_22.java">Question 22</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_23.java">Question 23</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_24.java">Question 24</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_25.java">Question 25</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_26.java">Question 26</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_27.java">Question 27</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_28.java">Question 28</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_29.java">Question 29</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_test02/Question_30.java">Question 30</a>
+    </li>
+  </ol>
+  </details>
+
+
   <br>
   [Lab 01 (8 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_Lab)
   <br>
