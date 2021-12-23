@@ -116,7 +116,9 @@ This repo contains Java Core and Java Oop works.
       <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_08.java">Question 08</a>
     </li>
   </ol>
-  <summary>Variables (10 Questions)</summary>
+</details>
+<details>
+   <summary>Variables (10 Questions)</summary>
   <ol>
     <li>
       <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_01.java">Question 01</a>
@@ -149,7 +151,7 @@ This repo contains Java Core and Java Oop works.
       <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa02_variables/Question_10.java">Question 10</a>
     </li>
   </ol>
-</details>
+  </details>
   
   
   <br>
