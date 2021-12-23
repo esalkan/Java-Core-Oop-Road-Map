@@ -437,9 +437,53 @@ This repo contains Java Core and Java Oop works.
   </ol>
   </details>
 
+  <details>
+  <summary>Lab 01 (8 Questions)</summary>
+  <ol>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_Lab/Question_01.java">Question 01</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_Lab/Question_02.java">Question 02</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_Lab/Question_03.java">Question 03</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_Lab/Question_04.java">Question 04</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_Lab/Question_05.java">Question 05</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_Lab/Question_06.java">Question 06</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_Lab/Question_07.java">Question 07</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_Lab/Question_08.java">Question 08</a>
+    </li>
+  </ol>
+  </details>
 
-  <br>
-  [Lab 01 (8 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_Lab)
+  <details>
+    <summary>Replit Java</summary>
+  <ol>
+    <li>
+      <summary>
+        Basics
+      </summary>
+      <ol>
+        <li>
+          <a href="">deneme</a>
+        </li>
+      </ol>
+    </li>
+      
+  </ol>
+  </details>
+
   <br>
   [Replit Java (181 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/replit)
 
