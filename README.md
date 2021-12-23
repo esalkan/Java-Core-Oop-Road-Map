@@ -116,8 +116,8 @@ This repo contains Java Core and Java Oop works.
       <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_08.java">Question 08</a>
     </li>
   </ol>
-</details>
-<details>
+  </details>
+  <details>
    <summary>Variables (10 Questions)</summary>
   <ol>
     <li>
@@ -152,14 +152,75 @@ This repo contains Java Core and Java Oop works.
     </li>
   </ol>
   </details>
-  
-  
-  <br>
-  [](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa02_variables)
-  <br>
-  [Arithmetic Operators (4 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa03_arithmeticOperators)
-  <br>
-  [Loops (14 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa04_loops)
+  <details>
+    <summary>Arithmetic Operators (4 Questions)</summary>
+      <ol>
+   <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa03_arithmeticOperators/Question_01.java">Question 01</a>
+    </li>
+  <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa03_arithmeticOperators/Question_02.java">Question 02</a>
+    </li>
+  <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa03_arithmeticOperators/Question_03.java">Question 03</a>
+    </li>
+  <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa03_arithmeticOperators/Question_04.java">Question 04</a>
+    </li>
+  </ol>
+  </details>
+
+
+  <details>
+    <summary>Loops (14 Questions)</summary>
+      <ol>
+   <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_01.java">Question 01</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_02.java">Question 02</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_03.java">Question 03</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_04.java">Question 04</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_05.java">Question 05</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_06.java">Question 06</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_07.java">Question 07</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_08.java">Question 08</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_09.java">Question 09</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_10.java">Question 10</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_11.java">Question 11</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_12.java">Question 12</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_13.java">Question 13</a>
+    </li>
+        <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa04_loops/Question_14.java">Question 14</a>
+    </li>
+
+  </ol>
+  </details>
+
+
   <br>
   [Nested Loops (6 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa05_nestedLoops)
   <br>
