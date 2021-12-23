@@ -86,6 +86,37 @@ This repo contains Java Core and Java Oop works.
 
 
 ## Java Exercises - Questions & Answers
+
+
+<details>
+  <summary>print(), println() (8 Questions)</summary>
+  <ol>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_01.java">Question 01</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_02.java">Question 02</a>
+    </li>
+<li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_03.java">Question 03</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_04.java">Question 04</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_05.java">Question 05</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_06.java">Question 06</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_07.java">Question 07</a>
+    </li>
+    <li>
+      <a href="https://github.com/esalkan/java-notes/blob/master/src/exercises/questionsANDanswers/qa01_print_and_println/Question_08.java">Question 08</a>
+    </li>
+  </ol>
+</details>
   
   [print(), println() (8 Questions)](https://github.com/esalkan/java-notes/tree/master/src/exercises/questionsANDanswers/qa01_print_and_println)
   <br>
