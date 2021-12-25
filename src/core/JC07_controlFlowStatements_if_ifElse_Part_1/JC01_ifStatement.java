@@ -23,7 +23,7 @@ public class JC01_ifStatement {
 		double commisionRate, salary;
 
 		sales = 6000;
-		salary = 10000;
+		salary = 5;
 
 		// We set the limit here
 		if (sales > 5000) {
