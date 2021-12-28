@@ -1,6 +1,6 @@
 package oop.JOOP42_Interface;
 
-/**
+/*
  * @author esalkan
  *
  */
@@ -19,24 +19,30 @@ package oop.JOOP42_Interface;
  *
  */
 public class Tesla2 extends Vehicle implements Electric, SelfDriving {
-
 	// After implements Interfaces we have to add unimplemented methods
-	
-	@Override
-	public void selfDrive() {
-		System.out.println("Tesla 2 Self driving now...");
-	}
-
 	@Override
 	public void charge() {
-		System.out.println("Tesla 2 is charging now");
+		System.out.println("Tesla 2 is charging at charge() station");
 	}
 
 	@Override
 	public void charge2() {
-		System.out.println("Tesla 2 is charging2 method inside now.");
-		
+		System.out.println("Tesla 2 is charging at charge2() station");
 	}
+
+	@Override
+	public void selfDrive() {
+		System.out.println("Tesla 2 is selfDrive() now");
+	}
+	// If we have default method, if one class implement both interfaces, we have to override the default method
+	@Override
+	public void methodA() {
+		Electric.super.methodA();
+	}
+
+
+	
+
 
 	
 

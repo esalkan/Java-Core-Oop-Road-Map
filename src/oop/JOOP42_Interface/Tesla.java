@@ -1,11 +1,6 @@
 package oop.JOOP42_Interface;
 
-/**
- * @author esalkan
- *
- */
-
-/**
+/*
  * Implementing Multiple Interfaces • Class can extend only one superclass, but
  * java allows a class to implement multiple interfaces.
  * 
@@ -18,6 +13,11 @@ package oop.JOOP42_Interface;
  *
  */
 // Implementing multiple interfaces...
+
+/**
+ * @author esalkan
+ *
+ */
 public class Tesla implements Electric, SelfDriving {
 
 	// We have to impelement firstly unimplemented methods from Parent which is
@@ -36,6 +36,11 @@ public class Tesla implements Electric, SelfDriving {
 	public void charge2() {
 		// TODO Auto-generated method stub
 
+	}
+	// If we have default method, if one class implement both interfaces, we have to override the default method
+	@Override
+	public void methodA() {
+		Electric.super.methodA();
 	}
 
 }
