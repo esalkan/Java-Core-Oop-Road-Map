@@ -14,6 +14,7 @@ public class InterfaceSummary {
             Cookable cook = new Cookable(); // Error
       - We use abstract classes for setting foundation for subclasses. It is normally general idea.
 
+      - Interfaces are used to add a feature to classes by providing abstract methods
      */
 
 }
