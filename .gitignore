@@ -29,3 +29,8 @@ bin/core/reviews/week_07/Week Notes
 bin/core/reviews/week_05/Notes.txt
 bin/core/reviews/week_05/Notes 3.txt
 /bin/
+/java-notes.iml
+/bin/
+/.idea/
+*.project
+*.classpath

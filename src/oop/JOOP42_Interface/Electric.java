@@ -9,6 +9,14 @@ package oop.JOOP42_Interface;
 //	instead of the keyword class
 public interface Electric {
 
+	// Fields in Interface
+	// • An interface can contain field declarations, but all fields in an interface
+	// are treated as final and static.
+	public static final boolean HAS_BATTERIES = true;
+	// This one is totally fine too, BUT...
+	boolean HAS_BATTERIES2 = false; // this is automaticly changed to the public static final even if we are not
+									// write this access modifiers
+
 	// Creating an abstract method
 	// • Methods that are specified in an interface have no bodies.
 	public abstract void charge();

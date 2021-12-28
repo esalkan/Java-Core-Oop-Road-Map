@@ -4,6 +4,8 @@ Interface
 • Most interfaces have a group of related empty methods
 • The class provides the behaviors included in the interface
 
+----------o----------o----------o----------o----------o----------o----------
+
 Creating an Interface
 • An interface looks similar to a class, except the keyword interface is used 
 instead of the keyword class
@@ -33,7 +35,8 @@ keyword.
 			// Code
 		}
 	}
-	
+
+----------o----------o----------o----------o----------o----------o----------
 
 Implementing Multiple Interfaces
 • Class can extend only one superclass, but java allows a class to implement 
@@ -45,6 +48,7 @@ specified by all of them
 	
 	}
 	
+----------o----------o----------o----------o----------o----------o----------
 
 Fields in Interface
 • An interface can contain field declarations, but all fields in an interface 
@@ -53,6 +57,8 @@ are treated as final and static.
 	public interface Interface{
 		public static final int field1=5;		
 	}
+
+----------o----------o----------o----------o----------o----------o----------
 
 Implementing Interface
 • A class can extends another class and implements interface(s) same time.
@@ -63,6 +69,7 @@ come first then implements keyword.
 	
 	}
 
+----------o----------o----------o----------o----------o----------o----------
 
 Default and Static Methods
 • Beginning in Java 8, interfaces can have default and static methods. 
@@ -78,7 +85,7 @@ Default and Static Methods
 			}
 		}
 		
-		
+----------o----------o----------o----------o----------o----------o----------	
 
 • Interfaces can have:
 	• Constant variables 
