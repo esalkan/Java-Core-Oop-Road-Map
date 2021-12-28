@@ -1,0 +1,92 @@
+Interface
+• Contract between a class and outside world
+• Provide set of abstract methods
+• Most interfaces have a group of related empty methods
+• The class provides the behaviors included in the interface
+
+Creating an Interface
+• An interface looks similar to a class, except the keyword interface is used 
+instead of the keyword class
+	
+	public interface Teachable{
+	
+	}
+	
+• Methods that are specified in an interface have no bodies.
+
+ 	public interface Teachable{
+		
+		public abstract void canLean();
+		public abstract void doHomework();
+	}
+
+• When you want a class to implement an interface, you use the implements 
+keyword.
+
+	public interface Displayable{
+		public abstract void display();
+	}
+	
+	public class Person implements Displayable{
+		
+		public void display(){
+			// Code
+		}
+	}
+	
+
+Implementing Multiple Interfaces
+• Class can extend only one superclass, but java allows a class to implement 
+multiple interfaces.
+• When a class implements multiple interfaces, it must provide the methods 
+specified by all of them
+
+	public class MyClass implements Interface1, Interface2, Interface3{
+	
+	}
+	
+
+Fields in Interface
+• An interface can contain field declarations, but all fields in an interface 
+are treated as final and static.
+
+	public interface Interface{
+		public static final int field1=5;		
+	}
+
+Implementing Interface
+• A class can extends another class and implements interface(s) same time.
+• If a class both extend a class and implement an interface, extends should 
+come first then implements keyword.
+
+	public class Student extends Person implements Teachable, Dreamer{
+	
+	}
+
+
+Default and Static Methods
+• Beginning in Java 8, interfaces can have default and static methods. 
+• Default method is an interface method that has a body.
+
+		public interface Teachable{
+			public default void readTopics(){
+				// Code
+			}
+			
+			public static int doResearch(){
+				// Code
+			}
+		}
+		
+		
+
+• Interfaces can have:
+	• Constant variables 
+	• Abstract methods 
+	• Default Methods
+	• Static Methods
+• Interfaces can not have:
+	• Constructor
+	• Blocks
+	• Instance variables or methods
+	
