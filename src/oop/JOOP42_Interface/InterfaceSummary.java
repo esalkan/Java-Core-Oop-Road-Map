@@ -97,7 +97,24 @@ public class InterfaceSummary {
 
         NOTE : Abstract Class can have everything regular class has + Abstract class can have abstract method as well
 
+        - VARIABLES :
+            - Abstract classes can have instance, static and final variables.
+            - Interfaces can oly have "public static final" variables
 
+            Examples :
+                Abstract Class Variables Example:
+                    public abstract class Food{
+                        String foodName;
+                        public static int price;
+                        public final boolean SPICY = true;
+
+                    }
+
+                Interface Variables Example:
+                    public Interface Cookable{
+                        public static final String ACTION = "Cook";
+                        boolean CAN_BE_COOKED = true; // "public static final" is hidden and automatically added
+                    }
      */
 
 }
