@@ -25,13 +25,11 @@ public class Tesla2 extends Vehicle implements Electric, SelfDriving {
 	@Override
 	public void selfDrive() {
 		System.out.println("Tesla 2 Self driving now...");
-		
 	}
 
 	@Override
 	public void charge() {
 		System.out.println("Tesla 2 is charging now");
-		
 	}
 
 	@Override

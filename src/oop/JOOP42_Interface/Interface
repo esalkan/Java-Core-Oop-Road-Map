@@ -11,7 +11,7 @@ Creating an Interface
 instead of the keyword class
 	
 	public interface Teachable{
-	
+
 	}
 	
 • Methods that are specified in an interface have no bodies.
