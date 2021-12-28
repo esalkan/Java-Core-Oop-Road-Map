@@ -115,6 +115,37 @@ public class InterfaceSummary {
                         public static final String ACTION = "Cook";
                         boolean CAN_BE_COOKED = true; // "public static final" is hidden and automatically added
                     }
+
+       - Constructor :
+            - Abstract classes can have constructors.
+            - Interfaces can not have constructors.
+
+            Examples :
+                - Abstract Example;
+                    public abstract class Food{
+                        String name;
+
+                        public Food(){
+                            this.name = "Pizza";
+                        }
+
+                        public Food(String name){
+                            this.name = name;
+                        }
+                    }
+
+            - Interface Example;
+                public Interface Cookable{
+                    // We can not create constructor
+                }
+
+            public class Pizza extends Food{
+
+                // We need the call the constructor explicitly
+                public Pizza(){
+                    super("Pasta");
+                }
+            }
      */
 
 }
