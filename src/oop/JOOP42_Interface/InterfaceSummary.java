@@ -146,6 +146,30 @@ public class InterfaceSummary {
                     super("Pasta");
                 }
             }
+
+       - Access Modifiers :
+            - Abstract classes : can use all access modifiers with variables and methods.
+            - Interfaces : can only use "public" access modifiers
+                - Note : with JAVA-11 private final available too.
+
+            Examples :
+                - Abstract Example :
+                    public abstract class Food{
+
+                        public String name;
+                        protected int quantity;
+                        boolean isSpicy;
+                        private boolean isTasty;
+
+                        // NOTE : Abstract class have blocks.
+                    }
+
+                - Interface Example :
+                    public Interface Cookable{
+                        public static final String ACTION = "Cook";
+
+                        // NOTE :Interfaces doesn't have blocks.
+                    }
      */
 
 }
