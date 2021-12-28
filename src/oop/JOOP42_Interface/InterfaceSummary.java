@@ -170,6 +170,25 @@ public class InterfaceSummary {
 
                         // NOTE :Interfaces doesn't have blocks.
                     }
+
+       - Inheritance :
+            - Abstract classes : can extend a single abstract or non-abstract class and implement interfaces
+            - Interfaces    : can extend multiple interfaces
+                              support multiple Inheritance
+                              can not extend classes
+
+            public abstract class Food{}
+            public Interface Friable{}
+            public Interface Grillable{}
+
+            public Interface Cookable extends Friable, Grillable{} // This is interface - can not extend classes.
+                                                                   // Cookable is interface name here.
+
+            public abstract class Soup extends Food{} // can extend a single abstract or non-abstract class and
+                                                      // implement interfaces
+
+
+            THE END.... :)
      */
 
 }
