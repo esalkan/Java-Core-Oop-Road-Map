@@ -1,9 +1,9 @@
 String browser = "Chrome";
-
+WebDriver driver;
 if(browser.equals("Chrome")){
-    ChromeDriver driver = new ChromeDriver();
+     driver = new ChromeDriver();
 } else if (browser.equals("Firefox")){
-    FirefoxDriver driver = new FirefoxDriver();
+     driver = new FirefoxDriver();
 }
 
 driver...get()
