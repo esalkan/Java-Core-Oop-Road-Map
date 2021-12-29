@@ -73,6 +73,50 @@ FirefoxDriver                           driver      =   new FirefoxDriver();
         MyInterface a = new classA(); // Polymorphic way
         MyInterface b = new classB(); // Polymorphic way
 
+----------o----------o----------o----------o----------o----------
+    Calling method in polymorphism
+        • When we call a method, it will call overridden version from a child class, if we have overridden the method.
+        • If method is not overridden, it will call parent/super class version.
+        • getClass() method helps us to access the object information
+        • getClass().getName() : returns package.className of the object
+        • getClass().getSimpleName() : returns just the class name of the object
+
+    instanceof
+        • instanceof operator can be used to check if the object is certain class.
+            Animal a = new Dog();
+
+            if(a instanceof Dog){
+                System.out.println("it is instanceof Dog");
+            } else {
+                System.out.println("it 'NOT' instanceof Dog");
+            }
+
+    Rules
+        • Reference type can be parent or interface , object can be any extending or implementing child class
+        • Reference type decides what is accessible (If we create object polymorphic way)
+
+    Casting (down-casting)
+        • Instructs the compiler to change the existing type of an object reference to another type
+            public class A{
+                public void mA(){
+
+                }
+            }
+
+            public class B extends A{
+                public void mB(){
+
+                }
+            }
+
+            A obj = new B();
+            obj.mA();   // it is accessible. Reference is A
+
+            B obj2 = (B) obj;   // Casting
+            obj2.mA();
+            obj2.mB();
+
+
 
 
 
