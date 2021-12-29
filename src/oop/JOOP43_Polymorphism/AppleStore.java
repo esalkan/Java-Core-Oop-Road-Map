@@ -25,6 +25,34 @@ public class AppleStore {
         watch.use();
         // watch.wear();    // Compile error; because wear is not @Override
 
+        System.out.println("-----o-----o----- (down-casting) -----o-----o-----");
+        /**
+         * Casting (down-casting)
+         *         • Instructs the compiler to change the existing type of object reference to another type
+         *             public class A{
+         *                 public void mA(){}
+         *             }
+         *
+         *             public class B extends A{
+         *                 public void mB(){}
+         *             }
+         *
+         *             A obj = new B();
+         *             obj.mA();   // it is accessible. Reference is A
+         *
+         *             B obj2 = (B) obj;   // Casting
+         *             obj2.mA();
+         *             obj2.mB();
+         *
+         *        • When we create object polymorphic way and when our child class have some methods inside
+         *          which is not @Override from parent Class/Interface. and when we need to use our child class methods
+         *          We can use (down-casting) and make our parent one level down and let our Reference type use the
+         *          child class methods.
+         */
 
+        Mac newMac = (Mac) mac;
+        newMac.code();
+
+        ((Mac) mac).code(); // Another way to down-casting.
     }
 }
