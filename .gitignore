@@ -24,10 +24,6 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-bin/core/reviews/week_07/Week Notes 3
-bin/core/reviews/week_07/Week Notes
-bin/core/reviews/week_05/Notes.txt
-bin/core/reviews/week_05/Notes 3.txt
 /bin/
 /java-notes.iml
 /.idea/
