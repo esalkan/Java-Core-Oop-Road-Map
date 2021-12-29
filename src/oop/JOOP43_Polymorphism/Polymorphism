@@ -1,0 +1,79 @@
+String browser = "Chrome";
+
+if(browser.equals("Chrome")){
+    ChromeDriver driver = new ChromeDriver();
+} else if (browser.equals("Firefox")){
+    FirefoxDriver driver = new FirefoxDriver();
+}
+
+driver...get()
+driver...click on sign in
+driver...enter username
+driver...enter password
+driver...login
+driver...etc......
+
+poly morphism = many form
+
+----------o----------o----------o----------o----------o----------
+
+Primitive Type     |  Variable Name    |   Value
+int                |       x        =  |     5;
+
+----------o----------o----------o----------o----------o----------
+Poly + Morphism ( Many Forms)
+• Polymorphism is the ability of the object to take on many forms
+• Polymorphism is when reference type is a parent class/interface and object type is child.
+
+         (Reference Type) [ANIMAL] (Parent Class Or Interface)
+                           / | \
+                          /  |  \
+                         /   |   \
+                        /    |    \
+                       /     |     \
+                      /      |      \
+                     /       |       \
+  (Object Types)  [CAT]    [DOG]    [BIRD] (These are Child Classes)
+
+Reference Type                  |   Reference Name  |   Object Type
+ParentClass or Interface                someName    =   new ChildClass();
+Animal (this is class name)             animal      =   new Animal();
+Animal                                  animal      =   new Dog();
+Animal                                  animal      =   new Cat();
+Animal                                  animal      =   new Bird();
+ChromeDriver                            driver      =   new ChromeDriver();
+FirefoxDriver                           driver      =   new FirefoxDriver();
+
+    public class Animal{}
+    public class Dog extends Animal{}
+    public class Cat extends Animal{}
+
+    // These are can not be polymorphism.
+    Animal animal = new Animal();
+    Dog dog = new Dog();
+    Bird bird = new Bird();
+
+    // When implements have relationship. We can do polymorphism.
+    // If there is no any relationship, we cant do any polymorphism.
+    Animal obj = new Dog();     // Here we created an object polymorphic way.
+    Animal obj2 = new Bird();   // We did same here too...
+
+
+    WebDriver driver = new ChromeDriver(); // This is realtime automation polymorphism.
+
+
+    Example :
+        public interface MyInterface{}
+        public class classA implements MyInterface{}
+        public class classB implements MyInterface{}
+
+        classA a = new classA(); // Non-polymorphic way
+        classB b = new classB(); // Non-polymorphic way
+
+        MyInterface a = new classA(); // Polymorphic way
+        MyInterface b = new classB(); // Polymorphic way
+
+
+
+
+
