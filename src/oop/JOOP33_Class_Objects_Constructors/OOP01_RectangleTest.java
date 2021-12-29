@@ -15,8 +15,8 @@ public class OOP01_RectangleTest {
 		OOP02_RectangleClass r1 = new OOP02_RectangleClass();
 
 		// Inside the _02_RectangleClass Java file
-		// There is two wariable is not assigned any value.
-		// Below we assing to this 2 variable some values.
+		// There is two variable is not assigned any value.
+		// Below we assign to this 2 variable some values.
 		r1.length = 5.2;
 		r1.width = 4.8;
 
@@ -32,7 +32,7 @@ public class OOP01_RectangleTest {
 		System.out.println("r1.length : " + r1.length);
 		System.out.println("r2.length : " + r2.length);
 
-		// We call the method named getArea() that modhod calculate
+		// We call the method named getArea() that method calculate
 		// Area of the rectangle
 
 		System.out.println("\n+---- calling getArea() Method from _02_RectangleClass Class File -----+");
