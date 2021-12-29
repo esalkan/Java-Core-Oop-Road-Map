@@ -1,5 +1,5 @@
 # Java Core & Oop Road Map
-This repo contains Java Core and Java Oop works.
+This repo contains Java Core and Java Oop Notes, Exercises and Works... You can fork the repo and add comment or new exercises, questions or assignments too... Feel free and just collobrate... ;)
 
 ## Java Core 
 [Variables & Data Types](https://github.com/esalkan/java-notes/tree/master/src/core/JC03_variables_dataTypes)
