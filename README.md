@@ -81,7 +81,16 @@ This repo contains Java Core and Java Oop works.
   [Inheritance Part 02](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP38_InheritanceContinue)
   <br>
   [Inheritance Access Modifiers](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP39_Inheritance_AccessModifiers)
-
+  <br>
+  [Access Modifiers, Final Keyword, Method Hiding](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP40_AccessModifiers_FinalKeyword_MethodHiding)
+  <br>
+  [Access Modifiers, Final Keyword, Method Hiding](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP40_AccessModifiers_FinalKeyword_MethodHiding_02)
+  <br>
+  [Abstraction](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP41_Abstraction)
+  <br>
+  [Interface](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP42_Interface)
+  <br>
+  [Polymorphism](https://github.com/esalkan/java-notes/tree/master/src/oop/JOOP43_Polymorphism)
 <br>
 
 
