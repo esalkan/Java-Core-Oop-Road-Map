@@ -1,8 +1,8 @@
 package core.JC11_controlFlowStatements_Part_5;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC08_whileLoop {
 

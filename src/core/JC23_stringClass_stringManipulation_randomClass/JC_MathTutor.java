@@ -1,14 +1,12 @@
-/**
- * 
- */
 package core.JC23_stringClass_stringManipulation_randomClass;
 
 import java.util.Random;
 import java.util.Scanner;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC_MathTutor {
 

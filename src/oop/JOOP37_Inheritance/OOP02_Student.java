@@ -1,8 +1,9 @@
 package oop.JOOP37_Inheritance;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 
 // That class extending from Parent Class and it can use the parent class methods and variables

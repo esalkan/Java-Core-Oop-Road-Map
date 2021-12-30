@@ -1,5 +1,9 @@
 package core.reviews.week_08;
-
+/**
+ * @project Java Core & OOP Notes
+ * @author esalkan
+ * @github https://github.com/esalkan/java-notes
+ */
 public class Employee {
 
 	public String name, jobTitle;

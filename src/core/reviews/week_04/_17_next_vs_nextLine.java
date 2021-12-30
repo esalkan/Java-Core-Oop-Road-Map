@@ -3,7 +3,9 @@ package core.reviews.week_04;
 import java.util.Scanner;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class _17_next_vs_nextLine {
 

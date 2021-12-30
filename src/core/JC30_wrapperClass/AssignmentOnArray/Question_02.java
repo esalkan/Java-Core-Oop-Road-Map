@@ -3,8 +3,9 @@ package core.JC30_wrapperClass.AssignmentOnArray;
 import java.util.ArrayList;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class Question_02 {
 

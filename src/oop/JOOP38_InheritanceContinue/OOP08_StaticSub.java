@@ -1,8 +1,9 @@
 package oop.JOOP38_InheritanceContinue;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 
 // _08_StaticSub is in a relationship with _07_StaticSuper

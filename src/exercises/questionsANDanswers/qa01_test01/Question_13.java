@@ -1,7 +1,13 @@
 package exercises.questionsANDanswers.qa01_test01;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
+ *//**
+ * @project Java Core & OOP Notes
+ * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class Question_13 {
 

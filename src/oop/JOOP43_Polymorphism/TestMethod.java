@@ -1,7 +1,10 @@
 package oop.JOOP43_Polymorphism;
 
-import oop.JOOP40_AccessModifiers_FinalKeyword_MethodHiding.Child;
-
+/**
+ * @project Java Core & OOP Notes
+ * @author esalkan
+ * @github https://github.com/esalkan/java-notes
+ */
 public class TestMethod {
     public static void main(String[] args) {
         ChildA ch1 = new ChildA();

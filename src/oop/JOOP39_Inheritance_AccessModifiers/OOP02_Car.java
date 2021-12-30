@@ -1,8 +1,9 @@
 package oop.JOOP39_Inheritance_AccessModifiers;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class OOP02_Car extends OOP01_Vehicle {
 	// Parent Constructor Always Run BEFORE Child Constructor there is a keyword it

@@ -1,5 +1,9 @@
 package core.JC32_ArrayList_Continue;
-
+/**
+ * @project Java Core & OOP Notes
+ * @author esalkan
+ * @github https://github.com/esalkan/java-notes
+ */
 public class JC01_Day_31_Summary {
 	/**
 	 * ArrayList

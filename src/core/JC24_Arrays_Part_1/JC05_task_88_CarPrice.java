@@ -1,14 +1,12 @@
-/**
- * 
- */
 package core.JC24_Arrays_Part_1;
 
 import java.util.Random;
 import java.util.Scanner;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC05_task_88_CarPrice {
 

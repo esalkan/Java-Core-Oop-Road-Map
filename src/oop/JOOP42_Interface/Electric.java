@@ -1,7 +1,9 @@
 package oop.JOOP42_Interface;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 //	Creating an Interface
 //	• An interface looks similar to a class, except the keyword interface is used 

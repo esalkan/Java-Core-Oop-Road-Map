@@ -1,8 +1,9 @@
 package oop.JOOP41_Abstraction;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 // abstract keyword is assign to class this is abstract class
 public abstract class Animal {

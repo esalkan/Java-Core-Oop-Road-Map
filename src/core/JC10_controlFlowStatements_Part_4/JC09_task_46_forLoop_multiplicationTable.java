@@ -1,10 +1,10 @@
 package core.JC10_controlFlowStatements_Part_4;
 
 import java.util.Scanner;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC09_task_46_forLoop_multiplicationTable {
 

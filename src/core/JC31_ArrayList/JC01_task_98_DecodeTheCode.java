@@ -1,8 +1,9 @@
 package core.JC31_ArrayList;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC01_task_98_DecodeTheCode {
 

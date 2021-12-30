@@ -1,13 +1,11 @@
-/**
- * 
- */
 package core.JC25_Arrays_Part_2;
 
 import java.util.Arrays;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC02_task_92_TableArray {
 

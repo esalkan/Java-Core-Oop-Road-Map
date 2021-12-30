@@ -1,8 +1,8 @@
 package core.JC09_controlFlowStatements_Part_3;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC02_daySelector {
 

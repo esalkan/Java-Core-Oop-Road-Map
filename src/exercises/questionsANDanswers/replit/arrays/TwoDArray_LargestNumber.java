@@ -7,8 +7,9 @@ import java.math.*;
 import java.util.regex.*;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class TwoDArray_LargestNumber {
 

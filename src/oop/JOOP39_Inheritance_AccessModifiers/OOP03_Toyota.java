@@ -1,8 +1,9 @@
 package oop.JOOP39_Inheritance_AccessModifiers;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class OOP03_Toyota extends OOP02_Car {
 

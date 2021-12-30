@@ -1,8 +1,9 @@
 package core.JC28_Arrays_Part_5.Lab_4_Cont;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class Question_12 {
 

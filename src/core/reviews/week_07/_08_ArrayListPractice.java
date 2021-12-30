@@ -3,8 +3,9 @@ package core.reviews.week_07;
 import java.util.ArrayList;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class _08_ArrayListPractice {
 

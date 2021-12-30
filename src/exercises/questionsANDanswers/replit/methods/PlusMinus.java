@@ -6,8 +6,9 @@ package exercises.questionsANDanswers.replit.methods;
 import java.util.Scanner;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class PlusMinus {
 

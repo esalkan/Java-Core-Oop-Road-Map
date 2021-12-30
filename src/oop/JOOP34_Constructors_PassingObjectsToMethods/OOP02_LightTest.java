@@ -1,8 +1,9 @@
 package oop.JOOP34_Constructors_PassingObjectsToMethods;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class OOP02_LightTest {
 

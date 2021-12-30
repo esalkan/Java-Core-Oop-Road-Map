@@ -1,5 +1,9 @@
 package oop.JOOP42_Interface;
-
+/**
+ * @project Java Core & OOP Notes
+ * @author esalkan
+ * @github https://github.com/esalkan/java-notes
+ */
 /*
  * Implementing Multiple Interfaces • Class can extend only one superclass, but
  * java allows a class to implement multiple interfaces.
@@ -14,10 +18,7 @@ package oop.JOOP42_Interface;
  */
 // Implementing multiple interfaces...
 
-/**
- * @author esalkan
- *
- */
+
 public class Tesla implements Electric, SelfDriving {
 
 	// We have to impelement firstly unimplemented methods from Parent which is

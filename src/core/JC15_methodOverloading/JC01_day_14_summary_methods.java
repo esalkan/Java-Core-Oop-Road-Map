@@ -1,7 +1,8 @@
 package core.JC15_methodOverloading;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC01_day_14_summary_methods {
 

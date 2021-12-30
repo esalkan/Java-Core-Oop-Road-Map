@@ -1,7 +1,11 @@
 package oop.JOOP40_AccessModifiers_FinalKeyword_MethodHiding_02;
 
 import oop.JOOP40_AccessModifiers_FinalKeyword_MethodHiding.Car;
-
+/**
+ * @project Java Core & OOP Notes
+ * @author esalkan
+ * @github https://github.com/esalkan/java-notes
+ */
 public class Car2 extends Car {
 
 	public Car2() {

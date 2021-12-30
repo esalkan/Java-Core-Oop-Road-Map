@@ -3,8 +3,9 @@ package oop.JOOP40_AccessModifiers_FinalKeyword_MethodHiding;
 import java.util.ArrayList;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class FinalArrayList {
 

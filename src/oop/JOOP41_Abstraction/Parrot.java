@@ -1,8 +1,9 @@
 package oop.JOOP41_Abstraction;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 // RULE ...: If any abstract class "public abstract class Sparrow" extending
 // another abstrat class "extends Animal", this is optional implement(@Override)

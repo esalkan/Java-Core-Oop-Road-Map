@@ -1,11 +1,9 @@
-/**
- * 
- */
 package core.JC24_Arrays_Part_1;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC01_ArrayCreation {
 

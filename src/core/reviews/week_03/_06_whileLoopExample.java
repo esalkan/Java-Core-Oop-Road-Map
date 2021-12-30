@@ -1,7 +1,9 @@
 package core.reviews.week_03;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class _06_whileLoopExample {
 

@@ -1,7 +1,9 @@
 package exercises.questionsANDanswers.replit.loops;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class PrintEvenFrom80T020 {
 

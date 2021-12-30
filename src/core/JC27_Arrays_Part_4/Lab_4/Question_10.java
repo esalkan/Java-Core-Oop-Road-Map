@@ -1,11 +1,9 @@
-/**
- * 
- */
 package core.JC27_Arrays_Part_4.Lab_4;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class Question_10 {
 

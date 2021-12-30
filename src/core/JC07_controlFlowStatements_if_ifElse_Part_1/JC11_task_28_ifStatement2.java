@@ -1,8 +1,8 @@
 package core.JC07_controlFlowStatements_if_ifElse_Part_1;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC11_task_28_ifStatement2 {
 

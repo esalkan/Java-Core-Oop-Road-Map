@@ -1,8 +1,8 @@
 package core.JC05_unaryAssignmentRelationalLogicalOperators;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC03_task_19_unaryOperators {
 

@@ -1,11 +1,9 @@
-/**
- * 
- */
 package core.JC20_stringClass_stringManipulation_Part_02;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC03_task_80_checkString {
 

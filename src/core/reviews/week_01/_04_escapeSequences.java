@@ -1,11 +1,9 @@
-/**
- * 
- */
 package core.reviews.week_01;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class _04_escapeSequences {
 

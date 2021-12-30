@@ -3,8 +3,9 @@ package core.reviews.week_06;
 import java.util.Arrays;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class _10_MultiDimensionalArray {
 

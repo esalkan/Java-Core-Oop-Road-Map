@@ -1,13 +1,11 @@
-/**
- * 
- */
 package core.reviews.week_01;
 
 import java.util.Scanner;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class _03_timer {
 

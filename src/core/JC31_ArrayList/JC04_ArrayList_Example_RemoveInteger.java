@@ -3,8 +3,9 @@ package core.JC31_ArrayList;
 import java.util.ArrayList;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC04_ArrayList_Example_RemoveInteger {
 

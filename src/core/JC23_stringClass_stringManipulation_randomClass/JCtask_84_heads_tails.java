@@ -3,8 +3,9 @@ package core.JC23_stringClass_stringManipulation_randomClass;
 import java.util.Random;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JCtask_84_heads_tails {
 

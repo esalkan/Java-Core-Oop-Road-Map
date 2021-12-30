@@ -1,11 +1,9 @@
-/**
- * 
- */
 package core.JC21_stringClass_stringManipulation_Part_03;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC02_String_toLowerCase {
 

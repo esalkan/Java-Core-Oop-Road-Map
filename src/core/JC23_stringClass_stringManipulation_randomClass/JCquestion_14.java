@@ -1,11 +1,9 @@
-/**
- * 
- */
 package core.JC23_stringClass_stringManipulation_randomClass;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JCquestion_14 {
 

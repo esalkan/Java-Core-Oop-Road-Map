@@ -1,7 +1,9 @@
 package exercises.questionsANDanswers.qa05_nestedLoops;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class Question_5 {
 

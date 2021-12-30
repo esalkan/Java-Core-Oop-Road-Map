@@ -1,9 +1,10 @@
 package core.JC18_readingUserInput;
 
 import java.util.Scanner;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC05_task_72_sumNumbers {
 

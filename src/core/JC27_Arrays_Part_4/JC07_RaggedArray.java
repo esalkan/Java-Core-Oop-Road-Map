@@ -1,13 +1,11 @@
-/**
- * 
- */
 package core.JC27_Arrays_Part_4;
 
 import java.util.Random;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC07_RaggedArray {
 

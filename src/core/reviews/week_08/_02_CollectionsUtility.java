@@ -5,8 +5,9 @@ import java.util.Arrays;
 import java.util.Collections;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class _02_CollectionsUtility {
 

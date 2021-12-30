@@ -1,6 +1,8 @@
 package core.JC13_methods_Part_1;
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC14_task_60_calculator {
 

@@ -1,8 +1,9 @@
 package oop.JOOP42_Interface.abstractionExample;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class TeslaSemi extends ElectricTruck { // This is our first level concreate class.
 

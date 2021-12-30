@@ -3,8 +3,9 @@ package core.JC32_ArrayList_Continue;
 import java.util.ArrayList;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC06_GroceryShoppingList {
 

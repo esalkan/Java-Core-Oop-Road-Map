@@ -1,12 +1,13 @@
 package oop.JOOP40_AccessModifiers_FinalKeyword_MethodHiding;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class Kangroo extends Marsupial{
 
-	// Becarefull Here there is Overriding
+	// Careful Here there is Overriding
 	/*
 	@Override
 	public boolean isBiped() {

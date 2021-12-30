@@ -1,8 +1,9 @@
 package core.reviews.week_05;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class S06_StringCustomMethods {
 

@@ -1,7 +1,9 @@
 package core.reviews.week_04;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class _19_testCase {
 	// P.I.Q.: How Do You write a Test Case?

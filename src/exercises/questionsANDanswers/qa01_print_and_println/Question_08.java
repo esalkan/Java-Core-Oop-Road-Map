@@ -1,7 +1,9 @@
 package exercises.questionsANDanswers.qa01_print_and_println;
 
 /**
- * @author codesofmine
+ * @project Java Core & OOP Notes
+ * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class Question_08 {
 

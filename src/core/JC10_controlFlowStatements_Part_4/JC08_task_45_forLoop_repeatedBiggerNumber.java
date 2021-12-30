@@ -1,8 +1,8 @@
 package core.JC10_controlFlowStatements_Part_4;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC08_task_45_forLoop_repeatedBiggerNumber {
 

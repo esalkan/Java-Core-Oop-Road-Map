@@ -1,7 +1,9 @@
 package core.reviews.week_04;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class _10_salary {
 	// attributes : rate (how much you make an hour) 45 - 75 an hour / 15 dolars

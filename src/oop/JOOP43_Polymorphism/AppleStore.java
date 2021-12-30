@@ -1,5 +1,9 @@
 package oop.JOOP43_Polymorphism;
-
+/**
+ * @project Java Core & OOP Notes
+ * @author esalkan
+ * @github https://github.com/esalkan/java-notes
+ */
 public class AppleStore {
     public static void main(String[] args) throws NoSuchMethodException {
         // From AppleDevice Reference, we created Mac() object. which is extends AppleDevice.

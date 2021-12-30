@@ -1,7 +1,8 @@
 package core.JC03_variables_dataTypes;
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC09_task_09_variablesDataTypes {
 

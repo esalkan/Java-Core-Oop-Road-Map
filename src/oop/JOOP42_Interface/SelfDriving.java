@@ -1,7 +1,8 @@
 package oop.JOOP42_Interface;
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public interface SelfDriving {
     void selfDrive(); // public abstract

@@ -3,8 +3,9 @@ package core.reviews.week_07;
 import java.util.Arrays;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class _02_CharArray2 {
 

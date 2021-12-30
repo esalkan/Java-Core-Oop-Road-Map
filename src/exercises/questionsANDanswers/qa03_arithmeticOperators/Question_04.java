@@ -3,7 +3,9 @@ package exercises.questionsANDanswers.qa03_arithmeticOperators;
 import java.util.Scanner;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class Question_04 {
 

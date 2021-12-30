@@ -1,7 +1,8 @@
 package core.JC17_classObjects_Part_2;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC01_bmw {
 

@@ -1,8 +1,8 @@
 package core.JC08_controlFlowStatements_elseIf_switchCase_Part_2;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC02_task_29_biggerNumber {
 

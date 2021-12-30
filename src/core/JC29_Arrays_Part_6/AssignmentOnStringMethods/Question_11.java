@@ -1,8 +1,9 @@
 package core.JC29_Arrays_Part_6.AssignmentOnStringMethods;
 
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class Question_11 {
 

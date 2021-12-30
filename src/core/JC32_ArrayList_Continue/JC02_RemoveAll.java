@@ -1,11 +1,11 @@
 package core.JC32_ArrayList_Continue;
-
+/**
+ * @project Java Core & OOP Notes
+ * @author esalkan
+ * @github https://github.com/esalkan/java-notes
+ */
 import java.util.ArrayList;
 
-/**
- * @author esalkan
- *
- */
 public class JC02_RemoveAll {
 
 	/**

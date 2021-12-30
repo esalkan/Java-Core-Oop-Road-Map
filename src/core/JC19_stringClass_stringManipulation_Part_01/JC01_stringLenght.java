@@ -1,11 +1,8 @@
-/**
- * 
- */
 package core.JC19_stringClass_stringManipulation_Part_01;
-
 /**
+ * @project Java Core & OOP Notes
  * @author esalkan
- *
+ * @github https://github.com/esalkan/java-notes
  */
 public class JC01_stringLenght {
 
