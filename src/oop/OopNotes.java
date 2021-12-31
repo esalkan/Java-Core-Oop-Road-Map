@@ -1,5 +1,4 @@
 package oop;
-
 /**
  * @project Java Core & OOP Notes
  * @author esalkan
