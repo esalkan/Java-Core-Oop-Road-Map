@@ -1,4 +1,5 @@
 package oop.JOOP42_Interface;
+
 /**
  * @project Java Core & OOP Notes
  * @author esalkan
