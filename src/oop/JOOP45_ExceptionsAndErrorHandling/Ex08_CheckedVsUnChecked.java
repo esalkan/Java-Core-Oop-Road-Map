@@ -4,7 +4,7 @@ package oop.JOOP45_ExceptionsAndErrorHandling;
  * @author esalkan
  * @project java-notes
  */
-public class CheckedVsUnChecked {
+public class Ex08_CheckedVsUnChecked {
     /**
      * @param args
      */

@@ -4,7 +4,7 @@ package oop.JOOP45_ExceptionsAndErrorHandling;
  * @author esalkan
  * @project java-notes
  */
-public class ThrowAndThrows {
+public class Ex10_ThrowAndThrows {
     /**
      * @param args
      */

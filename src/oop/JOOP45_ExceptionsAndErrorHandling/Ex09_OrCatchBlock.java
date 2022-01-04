@@ -4,7 +4,7 @@ package oop.JOOP45_ExceptionsAndErrorHandling;
  * @author esalkan
  * @project java-notes
  */
-public class OrCatchBlock {
+public class Ex09_OrCatchBlock {
 
     static String str;
 
