@@ -134,6 +134,7 @@ Explain the hierarchy of exception handling classes?
 	class Error extends Throwable{}
 	class Exception extends Throwable {}
 	class RuntimeException extends Exception {}
+
 	//Programmer defined classes
     class CheckedException1 extends Exception{}
     class CheckedException2 extends CheckedException1{}
@@ -142,7 +143,7 @@ Explain the hierarchy of exception handling classes?
 
 What is the difference between Error and Exception?
     - Error: is used in situations where there is nothing programmer can do about it
-        Ex: StackOverFlowError,OutOfMemomaryerror
+         Ex: StackOverFlowError,OutOfMemomaryerror
     - Exception : is used when a programmer can handle the exception
 
 What is the difference between CheckedExceptions and UncheckedException?
@@ -192,24 +193,16 @@ Option-2
         }
         
     }
-​
 }catch(Exception e){
-​
-	D 
-​
+	D
 	E
-​
 }finally{
-​
 	F
 }
-​
 K
-​
+
 1 - No error: A B C F K
-​
-2- A has error : nothing 
-​
+2- A has error : nothing
 3- C has a problem: A B D E F K
-​
 4- C and D has error: A B F and execution stops, show error
+
