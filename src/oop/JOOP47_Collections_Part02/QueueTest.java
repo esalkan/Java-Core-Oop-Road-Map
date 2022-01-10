@@ -12,6 +12,15 @@ public class QueueTest {
      * @param args
      */
     public static void main(String[] args) {
+        /**         QUEUE
+         * It is child interface of Collection.
+         *      - Collection'ın alt arayüzüdür.
+         * • If we want to represent a group of individual objects prior to processing then we should go for Queue.
+         *      - İşlemeden önce bir grup bireysel nesneyi temsil etmek istiyorsak, QUEUE(Kuyruk)'a gitmeliyiz.
+         * • A Queue is a First In First Out (FIFO) data structure.
+         *      - Queue(Kuyruk) ta her zaman, İlk Giren İlk Çıkar (FIFO) veri yapısındadır.
+         */
+
         // Polymorphic way creating a Queue
         Queue<String> queue = new LinkedList<String>();
         // add() elements inside the queue which is coming from collections interface.
