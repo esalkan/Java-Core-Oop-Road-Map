@@ -1,0 +1,76 @@
+	Ternary Operator
+You can do everything that ternary operator is doing with if-else statements. But
+not apposite. 
+Ternary operator works only When you want to assign a value to Variable.
+Syntax: DataType variableName = (condition) ? ifTrueAssignThisValuse : ifFalseAssignThisValue ;
+
+	Loops
+		for loop
+	
+		Only gets executed if the condition is true.
+	
+	for (initialization; Condition ; Iteration ) { statement }
+	
+		initialization : starting point
+		
+		Condition : ending point, created based on initialization
+		
+		Iteration: co-related to Condition. MUST be capable enough to make the
+				   condition false
+
+		{ } curly braces are blocks in JAVA
+
+	while loop
+		
+		Repeated If statement
+	
+		while(condition) { statement // multiple times}
+		
+	initialization : starting point ——> Outside while
+
+	Iteration: co-related to Condition. inside your while loop
+
+		do while loop
+	
+	First executes the statement then checks the condition
+	At least runs one time
+	
+	do { statement } while (condition)
+
+		Nested Loop
+	
+	Loop inside another loop
+	when do we need the nested loop? : When you need to repeat another loop		
+		
+		Branching statements
+break
+used for exiting loops and switch statements
+when you need to forcefully exit a loop then you can use break ;
+
+continue
+skip the iteration, jumps to the next iteration
+THERE MUST BE a LOOP
+
+return
+to exit a method or to return a value we can use it
+
+		
+		Methods
+	Access-Modifier
+public (accessible from anywhere or class) , protected, private , default
+	
+	specifier
+static , final , abstract
+
+	return-Type
+void: no return, just doing it's action
+not-void : (String, int ...) returns a value
+
+	methodName(Parameter)
+a data type and a variable, your method needs this parameter or parameters
+in order to complete the action
+		
+		
+		
+		
+		

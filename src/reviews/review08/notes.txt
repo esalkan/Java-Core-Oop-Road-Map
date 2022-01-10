@@ -1,0 +1,129 @@
+ArrayList
+	ordered collection of data (works with index)
+	unlike Arrays, resizable
+	only accepts objects
+	Wrapper class data types 
+	internally it uses Arrays
+
+Warp Up Task: 
+	create a method, listGenerator(), 
+	when I call this method, it will prompt the user to enter a number
+	And it will ask again?, if the answer NO, then will return an ArrayList 		
+
+
+	- Collections Utility (similar to Arrays utility)
+	It is a utility class that can be used with ArrayList Collection
+	useful methods:
+	- sort,
+	- reverse,
+	- frequency,
+	- min,max
+	- replaceAll,
+	- shuffle
+	........
+	
+-----------------------------
+Constructor
+-----------------------
+	methods:
+	Access Modifier Specifier returnType methodName (parameter){
+			statements; -----mandatory
+			}
+			
+Access Modifier: public, private ......default, protected
+Specifier: final, static 
+returnType: data Type
+
+		execution of methods: when you call the method
+		
+		
+	constructors: special method that we use instanciate an object
+		
+		Access Modifier ClassName(){   ------> Default Constructor
+		}	
+	
+		Access Modifier ClassName(some parameters){   ------> Constructors with parameters (with arguments)
+		}	
+
+		execution of constructors : happens when we acreate/instanciate an object with "new" key word
+		**** every class MUST HAVE it.
+		
+***	- Class/Objects***********
+	
+	Class is blueprint -- template
+				* attributes (values that define the object)  -- Variables
+				* actions (what that object is doing)   -- Methods
+				
+	Objects : instance (example) of the classes	
+	
+	Variable Types: (local variable, instance variable : each object has its own copy, 
+	static : every object has same value) 
+	
+	this keyword: In case of using the same name, It References the variable that refers to the current object.
+	
+	this()  keyword: to call other constructors , chaining 
+	has to be at the first line
+	
+================================================
+Employee:
+	attribute : name, ID, jobTitle, salary
+	
+	add a constructor to initialize all the fields (attributes)	 4 parameter constructor		
+	
+	toString()
+	
+===========================================================================	
+item 
+	attributes : name, unitPrice, quantity
+	
+	add a constructor to initiliaze all fields
+	
+	toString()	
+	calCost(): calculates total price: unitPrice*quantity
+
+	
+=========================================================================	
+	
+Encapsulation --- Data Hiding (as a person from Human class, I will hide my weakness from outside world)
+                            
+
+	First step: declare your instance variable private-- not reachable from other classes
+	
+	Second step: create setters and getters methods  
+				 implementing conditions
+	
+	
+	- intro to OOP
+	    * Encapsulation 
+	    * Inheritance
+	    * Abstraction
+	    * Polymorphism (multi-many shapes)
+========================================================================================	    
+	
+	As a Tester when you write test cases: Test Environment (QA,DEV....)(Operating System)(Browser Type)
+	
+	The purpose of the example: to show class relations
+	
+    From TestEnvironment Class is our main blueprint, 
+	and it call and contain Browser Class and OS Class
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+ 

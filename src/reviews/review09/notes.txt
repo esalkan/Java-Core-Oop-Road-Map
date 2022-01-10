@@ -1,0 +1,43 @@
+static methods:
+	Character.isDigit(10)
+	can be called using Class Names, it belongs to the class
+	can be called using object name
+
+static methods vs instance methods
+1) instance methods can be called only using the object name
+2) static methods can ONLY reach static variables or methods
+instance methods can call both static and instance	
+	
+	Instance variables or methods: THese belongs to objects created
+	
+** 3 Friends of Initialization
+1) Static initializer block (runs before everything else, only once when class is loaded by ClassLoader)
+2) Instance initializer block (runs each time object is created, before constructor)
+3) Constructor (initializer block) (runs each time object is created)
+
+Inheritance:
+=============
+* a class can inherit the properties/behavior of another class
+* it is providing us reusability and maintainability
+* it is also a good way to organize our code
+* we use extends key word
+
+public ChildClass extends ParentClass(){}
+
+Inheritance creates "is A" relationship
+
+"has A" relationship 
+
+*** JAVA does NOT support multiple inheritance, class can extend only one another class
+----with abstraction it becomes possible-----
+
+
+
+
+
+
+
+
+
+
+ 

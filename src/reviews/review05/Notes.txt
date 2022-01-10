@@ -1,0 +1,80 @@
+String 
+	1. Object
+		2 ways we can create Strings
+		String str = new String("Hello EU7");
+		
+		literal way of creating:
+		String strLit = "Hello EU7";
+		
+		String Constant Pool (string pool):
+		Special memory location in HEAP
+		***It does NOT allow duplicate values****
+		
+		****As a tester if you are going to check the equality of Strings then always use 
+		equals or equalsIgnoreCase methods
+		
+	2. Immutable : not changeable, can not be modified
+	
+	3. String Methods for Manipulation:
+	
+	charAt(): takes an index as parameter and returns me char
+	
+	isEmpty() : isEmpty() returns boolean 
+	
+	indexOf() : this method takes a String and returns it's index
+	
+	length() : it is applied to our String and returns int
+	
+	concat() : takes strings and concatinates them
+	
+	toLowerCase(): takes string and returns string in lower case
+	toUpperCase() : takes string and returns string in upper case
+	
+	substring method: this one takes index (begin,end)
+		** overloaded substring method which just takes beginning index
+		
+	replace() replaces a string value with the given value--> returns us a new string
+	
+	equals():  checks if the strings are equal--> returns boolean
+	
+	equalsIgnoreCase(): checks if the strings are equal--> returns boolean (Not Case sensetive)
+	
+	trim() : this one takes the empty spaces of from the string at the ends
+	
+	contains(): takes a string , and return a boolean
+	
+	4. index and the length are two seperate things
+	index starts from ZERO 0 
+	String str = JAVA
+				 0123 index number
+				 
+	* Reverse example 	
+	
+	Task 1: String str;  char c;  frequency(String str, char c) --> int number 
+	str = "aabcccd";
+	char c = 'a'   ---> 2
+			 
+	Task 2 : uniqueCharacters(String str) -- > return me unique characters in string format
+			str = "aabcccd";   ---- bd	 
+				 
+	
+	Task 3: removeDuplicate   box result = a b     " aaaa , b, cccc, sss"  contains
+	
+	Task 4: FrequencyOfChar()  str = "aabcccd"; --- > a:2 | b:1 | c:3 | d:1
+	
+	Task 5: String sentence "       "
+			String word
+			
+I am an experienced tester. As a tester I can automate browsers. I can test API and DB
+"I am": is it equal to "test"  NO str.substring(0,4)
+" am ": is it equal to "test"  NO str.substring(1,5)
+"am a": is it equal to "test"  NO str.substring(2,6)
+*
+*
+*
+"test" :  is it equal to "test"  yes 
+for loop which will iterate   str.substring(i,i+4)
+word = test (length of this word is 4)
+	
+	
+	
