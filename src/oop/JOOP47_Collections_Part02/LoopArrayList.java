@@ -54,5 +54,16 @@ public class LoopArrayList {
         nums.removeIf(n -> n < 500);
         nums.forEach(n -> System.out.print(n + " | "));
         // forEach working just for COLLECTIONS not for other structures.
+
+        System.out.println("\n");
+
+        // sort an arrayList
+        System.out.println("Before Sort an arraylist");
+        System.out.println("nums.toString() = " + nums.toString());
+
+        System.out.println("After Sort an arraylist");
+        Collections.sort(nums);
+        System.out.println("nums = " + nums);
+
     }
 }
