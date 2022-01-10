@@ -1,6 +1,6 @@
 package reviews.review04;
 
-import week3.CustomMethod3;
+import reviews.review03.CustomMethod3;
 
 public class ImportExample {
 
