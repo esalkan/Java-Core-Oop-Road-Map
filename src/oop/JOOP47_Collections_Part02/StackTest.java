@@ -14,8 +14,8 @@ public class StackTest {
      */
     public static void main(String[] args) {
         /**                 STACK
-         * - Stack is a subclass of Vector that implements a standard last-in, first out. (LIFO)
-         *
+         * • Stack is a subclass of Vector that implements a standard last-in, first out. (LIFO)
+         *      - Stack(Yığın), standart olarak, son giren ilk çıkar uygulayan bir Vector alt sınıfıdır. (LIFO)
          * LI-FO : Last in first out.
          */
 
