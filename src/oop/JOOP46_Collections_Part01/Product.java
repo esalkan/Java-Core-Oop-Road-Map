@@ -9,29 +9,28 @@ public class Product implements Comparable<Product>{
     private double price;
 
     /**
-     *
-     * @param n Product Name
-     * @param p Product Price
+     * @param name Product Name
+     * @param price Product Price
      */
-    public Product(String n, double p){
-        this.name = n;
-        this.price = p;
+    public Product(String name, double price){
+        this.name = name;
+        this.price = price;
     }
 
     public String getName(){
         return name;
     }
 
-    public void setName(String n){
-        this.name = n;
+    public void setName(String name){
+        this.name = name;
     }
 
     public double getPrice(){
         return price;
     }
 
-    public void setPrice(double p){
-        this.price = p;
+    public void setPrice(double price){
+        this.price = price;
     }
 
     @Override
