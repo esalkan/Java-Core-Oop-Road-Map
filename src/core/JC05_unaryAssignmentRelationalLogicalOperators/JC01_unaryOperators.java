@@ -11,6 +11,7 @@ public class JC01_unaryOperators {
 	 */
 	public static void main(String[] args) {
 		// + --> Unary Plus Operator --> Indicates positive value
+		// + --> Unary Plus Operatörü --> Pozitif değeri gösterir
 		int i1 = +10;
 		int i2 = -100;
 		int i3 = -(i1 + i2);
@@ -24,6 +25,7 @@ public class JC01_unaryOperators {
 		System.out.println("\n+------------------------------o------------------------------+\n");
 
 		// ! --> Logical Complement Operator --> Inverts the value of a boolean
+		// ! --> Mantıksal Tamamlayıcı İşleci --> Bir boole değerini tersine çevirir
 		boolean flag = true;
 		System.out.println("! --> Logical Complement Operator --> Inverts the value of a boolean");
 		System.out.println("boolean flag = true; \nresult is : " + !flag);
@@ -36,10 +38,19 @@ public class JC01_unaryOperators {
 		// decremented by 1 in the memory, and the new value is used in the
 		// expression in which it appears.
 
+		// Ön ve Son arasındaki fark
+		// --> Ön Artırma/Ön Azaltma: Operand bir işlenenin (++expr, --expr) önüne yerleştirildiğinde,
+		// değişken bellekte 1 artırılır veya azaltılır ve yeni değer ifadede kullanıldığında görülür...
+
 		// --> Post-Increment/Post-Decrement: When the operator is placed
 		// after an operand(expr++,expr--), the old value of the variable
 		// will be used in the expression where it appears and then the
 		// variable will be incremented or decremented by 1 in the memory.
+
+		// --> Arttırma Sonrası/Azaltma Sonrası: Operatör yerleştirildiğinde
+		// bir işlenenden sonra(ifade++,ifade--), değişkenin eski değeri
+		// göründüğü ifadede kullanılacak ve ardından
+		// değişken bellekte 1 artırılıp azaltılacaktır.
 
 		// ++ --> Increment Operator --> Increments a value by 1
 		// -- --> Decrement Operator --> Decrements a value by 1

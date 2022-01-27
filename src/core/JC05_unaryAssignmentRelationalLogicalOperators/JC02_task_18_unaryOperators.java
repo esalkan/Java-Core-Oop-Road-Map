@@ -9,9 +9,10 @@ public class JC02_task_18_unaryOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// Variable "x" declarated and data type defined and value assigned
+		// Variable "x" declared and data type defined and value assigned
+		// Değişken "x" oluşturuldu ve veri türü tanımlandı ve değer atandı
 		int x = 2;
-		// Variable "y" declarated and data type defined and "x" assigned
+		// Variable "y" declared and data type defined and "x" assigned
 		// to the "y"
 		int y = x++;
 

@@ -11,42 +11,45 @@ public class JC01_logicalOperators {
 	 */
 	public static void main(String[] args) {
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
-		// \\ 																	 //\\
-		// \\ 				Logical Operators 									//\\
-		// \\ //\\
-		// \\ OPERATOR DESCRIPTION //\\
-		// \\ & Logical "AND" //\\
-		// \\ && Bitwise logical "AND" //\\
-		// \\ | Logical "OR" //\\
-		// \\ || Bitwise Logical Inclusive "OR" //\\
-		// \\ ^ Bitwise Logical Exlusive "OR" //\\
-		// \\ //\\
+		// \\ 																  //\\
+		// \\ 				Logical Operators 							   	  //\\
+		// \\ 																  //\\
+		// \\ 		OPERATOR 			DESCRIPTION							  //\\
+		// \\    	& 					Logical "AND" 					      //\\
+		// \\ 		&& 					Bitwise logical "AND" 	 			  //\\
+		// \\ 		| 					Logical "OR" 						  //\\
+		// \\ 		|| 					Bitwise Logical Inclusive "OR" 		  //\\
+		// \\ 		^ 					Bitwise Logical Exlusive "OR" 		  //\\
+		// \\ 																  //\\
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
 
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
 		// \\ 																//\\
 		// \\ Truth table for &&(logical AND) and &(Bitwise Logical AND) 	//\\
 		// \\ 																//\\
-		// \\ 		Expression 1 Expression2 Returned Value 				//\\
-		// \\ 		False <--> False = False 								//\\
-		// \\ 		False <--> True = False 								//\\
-		// \\ 		True <--> False = False 								//\\
-		// \\ 		True <--> True = True 									//\\
+		// \\ 		Expression 1        Expression2     Returned Value 		//\\
+		// \\ 		False       <-->    False       =  	False 				//\\
+		// \\ 		False 		<--> 	True 		= 	False 				//\\
+		// \\ 		True 		<--> 	False 		= 	False 				//\\
+		// \\ 		True 		<--> 	True 		= 	True 				//\\
 		// \\ 																//\\
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
 		/*
 		 * Difference between & and && 
 		 * 
 		 * --> && operator supports short-circuit evaluations but & operator does not. 
-		 * 
-		 * --> If the first operand to && operator
-		 * evaluates to false, the result can never be true, hence && does not evaluate
-		 * the second operand. 
-		 * 
-		 * --> But & operator evaluates both the operands before
-		 * returning an answer.
+		 * --> && operatörü kısa devre değerlendirmelerini destekler, ancak & operatörü desteklemez.
+		 *
+		 * --> If the first operand to && operator evaluates to false, the result can never be true, hence && does not
+		 * evaluate the second operand.
+		 *
+		 * --> && işlecinin ilk işleneni false olarak değerlendirilirse, sonuç asla doğru olamaz, dolayısıyla &&
+		 * ikinci işleneni değerlendirmez.
+		 *
+		 * --> But & operator evaluates both the operands before returning an answer.
+		 * --> Ancak; & operatörü, bir yanıt döndürmeden önce her iki işleneni de değerlendirir.
 		 */
-		//
+		// Örnekler
 		// Examples
 
 		char c1 = 'A';
@@ -106,15 +109,15 @@ public class JC01_logicalOperators {
 				+ res8 + "\n");
 
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
-		// \\ //\\
-		// \\ Truth table for ||(logical OR) and |(Bitwise Logical OR) //\\
-		// \\ //\\
-		// \\ Expression 1 Expression2 Returned Value //\\
-		// \\ False <--> False = False //\\
-		// \\ False <--> True = True //\\
-		// \\ True <--> False = True //\\
-		// \\ True <--> True = True //\\
-		// \\ //\\
+		// \\ 																	//\\
+		// \\ 		Truth table for ||(logical OR) and |(Bitwise Logical OR) 	//\\
+		// \\ 																	//\\
+		// \\ 		Expression 1 		Expression2 	Returned Value 			//\\
+		// \\ 		False 		<--> 	False 			= False 				//\\
+		// \\ 		False 		<--> 	True 			= True 					//\\
+		// \\ 		True 		<--> 	False 			= True 					//\\
+		// \\ 		True 		<--> 	True 			= True 					//\\
+		// \\ 																	//\\
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
 		/*
 		 * Difference between | and || --> || operator supports short-circuit
@@ -177,25 +180,25 @@ public class JC01_logicalOperators {
 				+ res16 + "\n");
 
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
-		// \\ //\\
-		// \\ Logical NOT Operator "!" //\\
-		// \\ //\\
-		// \\ Expression Returned Value //\\
-		// \\ False True //\\
-		// \\ True False //\\
-		// \\ //\\
+		// \\ 																//\\
+		// \\ 				Logical NOT Operator "!" 						//\\
+		// \\ 				Mantıksal NOT Operatörü "!"						//\\
+		// \\ 			Expression 		Returned Value 						//\\
+		// \\ 				False 		True 								//\\
+		// \\ 				True 		False 								//\\
+		// \\ 																//\\
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
 
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
-		// \\ //\\
-		// \\ Truth table for ^( Bitwise Logical Exclusive OR) //\\
-		// \\ //\\
-		// \\ Expression 1 Expression2 Returned Value //\\
-		// \\ False False False //\\
-		// \\ False True True //\\
-		// \\ True False True //\\
-		// \\ True True False //\\
-		// \\ //\\
+		// \\ 																//\\
+		// \\ 		Truth table for ^( Bitwise Logical Exclusive OR) 		//\\
+		// \\ 																//\\
+		// \\ 		Expression 1 	Expression2 	Returned Value 			//\\
+		// \\ 		False 			False 			False 					//\\
+		// \\ 		False 			True 			True 					//\\
+		// \\ 		True 			False 			True 					//\\
+		// \\ 		True 			True 			False 					//\\
+		// \\ 																//\\
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
 		/*
 		 * ^(bitwise logical exclusive OR) --> The result of a bitwise logical exclusive
@@ -240,37 +243,34 @@ public class JC01_logicalOperators {
 						+ resu20 + "\n");
 
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
-		// \\ //\\
-		// \\ Logical Operator Precedence //\\
-		// \\ //\\
-		// \\ The operators at the top of the table have higher //\\
-		// \\ precedence than the ones below them //\\
-		// \\ //\\
-		// \\ Precedence of logical operators (highest to lowest) //\\
-		// \\ Highest Precedence ! //\\
-		// \\ && //\\
-		// \\ Lowest Precedence || //\\
-		// \\ //\\
+		// \\ 																//\\
+		// \\ 				Logical Operator Precedence 					//\\
+		// \\ 																//\\
+		// \\ 		The operators at the top of the table have higher 		//\\
+		// \\ 		precedence than the ones below them 					//\\
+		// \\ 																//\\
+		// \\ 	Precedence of logical operators (highest to lowest) 		//\\
+		// \\ 	Highest Precedence ! 										//\\
+		// \\ 		&& 														//\\
+		// \\ 	Lowest Precedence || 										//\\
+		// \\ 																//\\
 		// \\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\
 
 		// Precedence of all Operators
-		// Order of Precedence | Operators | Description
-		// 1 | -(unary negation) ! | Unary negation,
-		// logical NOT
-
-		// 2 | */% | Multiplication,
-		// division, modulus
-		// 3 | +- | Addition, subtraction
-		// 4 < > <= >= | Less than,
-		// | Greater than,
-		// | Less than or Equal to,
-		// | Greater than or equal to
-		// 5 | == != | Equal to,
-		// | not equal to
-		// 6 | && | Logical AND
-		// 7 | || | Logical OR
-		// 8 | = += -= *= /= %= | Assignment and
-		// | combined assignments
+		// Order of Precedence 	| Operators 			| Description
+		// 1 logical NOT		| -(unary negation) ! 	| Unary negation,
+		// 2 division, modulus 	| */% 					| Multiplication,
+		// 3 					| +- 					| Addition, subtraction
+		// 4 					| < > <= >= 			| Less than,
+		// 												| Greater than,
+		// 												| Less than or Equal to,
+		// 												| Greater than or equal to
+		// 5 					| == != 				| Equal to,
+		// 						|						| not equal to
+		// 6 					| && 					| Logical AND
+		// 7 					| || 					| Logical OR
+		// 8 					| = += -= *= /= %= 		| Assignment and
+		// 						|						| combined assignments
 
 	}
 

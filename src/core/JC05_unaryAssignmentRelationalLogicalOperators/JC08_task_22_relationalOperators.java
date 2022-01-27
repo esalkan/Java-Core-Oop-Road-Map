@@ -15,7 +15,7 @@ public class JC08_task_22_relationalOperators {
 		 * 
 		 * Declare and Initialize 2 numbers.Program should display if the first number
 		 * is greater than second number. Output should be in the following format:
-		 * “First number number is greater than Second number – True/False”
+		 * “First number is greater than Second number – True/False”
 		 * 
 		 */
 
