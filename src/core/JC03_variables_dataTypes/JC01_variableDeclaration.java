@@ -11,6 +11,7 @@ public class JC01_variableDeclaration {
 	 */
 	public static void main(String[] args) {
 		// Declaration
+		// Değişken tanımlama.
 		byte inches;
 		int speed;
 		short month;
@@ -18,6 +19,7 @@ public class JC01_variableDeclaration {
 		double distance;
 
 		// Assigned
+		// Değişkenlere veri atama
 		inches = 5;
 		speed = 200;
 		month = 2;
@@ -25,7 +27,7 @@ public class JC01_variableDeclaration {
 		distance = 40.2;
 
 		// Declared + Assigned
-
+		// Değişken oluşturma + Veri atama
 		byte inches2 = 5;
 
 		System.out.println("inches type(byte)" + inches);
