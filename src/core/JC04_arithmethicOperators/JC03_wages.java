@@ -10,13 +10,22 @@ public class JC03_wages {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		double regularWage; // The calculate regular wage 0,00
-		double basePay = 25; // The base Pay
-		double regularHours = 40; // The hours worked less overtime
-		double overTimeWages; // Overtime Wages
-		double overTimePay = 37.5; // Overtime Pay Rate
+
+		// Example Question and Anser - Örnek Soru ve Cevap
+
+		double regularWage;			// To calculate regular wage 0,00
+									// Normal ücret hesaplamak için 0,00
+		double basePay = 25;		// The base Pay
+									// Temel Ödeme
+		double regularHours = 40; 	// The hours worked less overtime
+									// Çalışma saatleri için, fazla mesai hariç
+		double overTimeWages; 		// Overtime Wages
+									// Fazla Mesai Ücretleri
+		double overTimePay = 37.5; 	// Overtime Pay Rate
+									// Fazla Mesai Ücreti
 		double overTimeHours = 10;
-		double totalWage; // Total Wage
+		double totalWage; 			// Total Wage
+									// Toplam Ücret
 
 		regularWage = basePay * regularHours;
 		overTimeWages = overTimePay * overTimeHours;
