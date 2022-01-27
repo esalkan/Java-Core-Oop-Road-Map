@@ -10,6 +10,7 @@ public class JC03_task_01_triangle {
 	 */
 	public static void main(String[] args) {
 		// print a rectangle with print method
+		// ekrana * lardan oluşan bir üçgen çıktısı alın.
 		System.out.println("    *");
 		System.out.println("   * * ");
 		System.out.println("  *   *");
