@@ -10,6 +10,8 @@ public class JC07_task_07_variablesDataTypes {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// One line two variable declaration
+		// Tek satırda iki değişken tanımlanması.
 		int i1, i2;
 		float f1;
 		String s1;
