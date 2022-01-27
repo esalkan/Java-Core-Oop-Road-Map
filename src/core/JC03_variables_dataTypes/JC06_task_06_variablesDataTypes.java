@@ -13,11 +13,12 @@ public class JC06_task_06_variablesDataTypes {
 		int flightNum = 89, travelTime, departure = 10, distance;
 
 		System.out.println(flightNum);
-		// System.out.println(travelTime);
 		System.out.println(departure);
-		// System.out.println(distance);
 
+		// System.out.println(travelTime);
+		// System.out.println(distance);
 		// the program will give an error. cause variable decelerated but not assigned
+		// Program hata verecektir. Değişkenler tanımlandı yanlız değer ataması yapılmadı
 	}
 
 }
