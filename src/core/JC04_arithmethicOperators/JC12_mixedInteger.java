@@ -19,10 +19,22 @@ public class JC12_mixedInteger {
 		 * -> The result of an arithmetic operation using only a mixture of byte, short,
 		 * or int values will always be an int
 		 * 
-		 * short firstNumner = 10; short secondNumber = 20; short thirdNumber;
+		 *  short firstNumner = 10; short secondNumber = 20; short thirdNumber;
 		 * 
 		 *  Error thirdNumber = firstNumber + secondNumber;
+		 *
+		 *
+		 *  Karışık Tamsayı İşlemleri -> Aritmetik ifadelerde bayt veya kısa veri türlerinin değerleri
+		 *  kullanıldığında geçici olarak int değerlerine dönüştürülür.
+		 *
+		 * -> Yalnızca bayt, short veya int değerlerinin bir karışımını kullanan bir aritmetik işlemin sonucu her
+		 * zaman int olacaktır.
+		 *
+		 *  short firstNumner = 10; short secondNumber = 20; short thirdNumber;
+		 *
+		 *  Error thirdNumber = firstNumber + secondNumber;
 		 */
+
 		// short firstNumner = 10;
 		// short secondNumber = 20;
 		// short thirdNumber;
@@ -50,8 +62,10 @@ public class JC12_mixedInteger {
 		short secondNumber = 20;
 
 		// short + short is giving error and we save data in integer dataType
+		// short + short  bize hata döndürür. Bu nedenle integer olarak ataması yapılır.
 		int thirdNumber = firstNumber + secondNumber;
 		// or we can cast it and push the compiler compile it as a short dataType
+		// Ya da tür dönüşümü yapılır.
 		short thirdNumber2 = (short) (firstNumber + secondNumber);
 
 		System.out.println("\nshort firstNumber = 10;\n" + "short secondNumber = 20;");
@@ -63,6 +77,7 @@ public class JC12_mixedInteger {
 
 		int b3 = b1 * b2;
 		// or we can cast it
+		// ya da tür dönüşümü yaparız
 		byte b3_1 = (byte) (b1 * b2);
 
 		int num1 = 20;
