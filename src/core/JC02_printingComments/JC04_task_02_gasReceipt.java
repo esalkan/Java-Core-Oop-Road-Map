@@ -10,6 +10,8 @@ public class JC04_task_02_gasReceipt {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// A simple print() exercise
+		// Basit bit print() çalışması
 		System.out.println("+---------------------------+");
 		System.out.println("|                           |");
 		System.out.println("|       MCLEAN STORE        |");
