@@ -10,8 +10,8 @@ public class JC04_discount {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// This program calculates the sale price of an
-		// item that is regularly priced at $59, with a 20% discount on it
+		// This program calculates the sale price of an item that is regularly priced at $59, with a 20% discount on it
+		// Bu program,  fiyatı 59$ olan bir ürünün satış fiyatını %20 indirimle hesaplar.
 
 		int regularPrice = 59;
 		double discount;
