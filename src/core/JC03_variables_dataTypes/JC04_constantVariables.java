@@ -10,6 +10,17 @@ public class JC04_constantVariables {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Constant Variables
+		// Değişmez, sabit değişkenler
+
+		/**
+		 * In program flow constant variables written with capital letters. during the program flow they have
+		 * constand values.
+		 *
+		 * Program akışında değişmez sabit değişkenler büyük haflerle yazılırlar. Program akışında tanımlanan
+		 * değerleri değişmez.
+		 */
+
 		double PI = 3.14;
 		System.out.println(PI);
 		PI = 5;

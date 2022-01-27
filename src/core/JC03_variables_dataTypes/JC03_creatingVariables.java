@@ -10,6 +10,8 @@ public class JC03_creatingVariables {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Declaring variables and Assign the value.
+		// Değişken oluşturma ve veri atama.
 		int price = 5;
 		int quantity = 4;
 
@@ -33,9 +35,10 @@ public class JC03_creatingVariables {
 
 		System.out.println("\n+----------------------------+\n");
 
-		@SuppressWarnings("unused")
-		String s1, s2; // Declared but not assigned
-		String s3 = "Yes", s4 = "No"; // Declared and assigned
+		String s1, s2; 	// Declared but not assigned
+						// Oluşturuldu ama veri ataması yapılmadı.
+		String s3 = "Yes", s4 = "No"; 	// Declared and assigned
+										// Oluşturuldu ve veri ataması yapıldı
 
 		System.out.println("s3 = " + s3);
 		System.out.println("s4 = " + s4);
