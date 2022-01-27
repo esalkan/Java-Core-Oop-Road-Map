@@ -14,6 +14,8 @@ public class JC01_helloWorld {
 		// print() println() methods will print what we give in it ;)
 		System.out.println("Maraba Zalım Dunya! :)");
 		System.out.println("Hello Cruel World! :)");
+		// Java ile ilk mesajımızı yazdıralım
+		// print() ve println() methodları içerisine yolladığımız veriyi ekrana yazdırmamızı sağlar.
 	}
 
 }
