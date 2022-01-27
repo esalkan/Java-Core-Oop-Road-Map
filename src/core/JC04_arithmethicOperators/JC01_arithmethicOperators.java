@@ -10,7 +10,11 @@ public class JC01_arithmethicOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// Addition Operator +
+
+		// ARITHMETIC OPERATORS - ARİTMETİK OPERATÖRLER
+
+		// Addition Operator : +
+		// Toplama Operatörü : +
 		System.out.println("Addition = " + (55 + 5));
 		int chairs = 140;
 
@@ -23,7 +27,8 @@ public class JC01_arithmethicOperators {
 		int total = tables + chairs;
 		System.out.println("Total = " + total);
 
-		// Subtraction -
+		// Subtraction operator : -
+		// Çıkartma operatörü 	: -
 		double balance = 1200.50;
 		double transaction = 56.44;
 		System.out.println("Balance is = " + (balance - transaction));
@@ -44,7 +49,8 @@ public class JC01_arithmethicOperators {
 		linesOfCode = linesOfCode - 2;
 		System.out.println("Lines of Code " + linesOfCode);
 
-		// Multiplication *
+		// Multiplication   : *
+		// Çarpma Operatörü : *
 		System.out.println("22 x 2  = " + (22 * 2));
 
 		int classes = 5;
