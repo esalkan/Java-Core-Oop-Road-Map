@@ -13,8 +13,8 @@ public class MapExample {
      */
     public static void main(String[] args) {
         Map<String, Double> items = new HashMap<>();
-        // Apple, Flower, Water are keys and they are unique
-        // 3.49, 10.99, 0.25 are value and they can be updatable.
+        // Apple, Flower, Water are keys, and they are unique
+        // 3.49, 10.99, 0.25 are value, and they can be updatable.
         items.put("Apple", 3.49);
         items.put("Flower", 10.99);
         items.put("Water", 0.25);
