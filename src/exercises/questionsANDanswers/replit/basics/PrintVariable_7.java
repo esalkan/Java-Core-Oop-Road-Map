@@ -22,7 +22,7 @@ public class PrintVariable_7 {
 		// Ex:
 		// Assume topic1 = "Java" and topic2 = "SQL"
 		// You need to print exactly:
-		// I will learn "Java" and "SQL" at CybertekSchool.
+		// I will learn "Java" and "SQL" at SCHOOL.
 
 		Scanner scan = new Scanner(System.in);
 		String topic1 = scan.nextLine();
@@ -30,7 +30,7 @@ public class PrintVariable_7 {
 
 		// WRITE YOUR CODE BELOW THIS LINE:
 		System.out.println(
-				"I will learn " + "\"" + topic1 + "\"" + " and " + "\"" + topic2 + "\"" + " at CybertekSchool.");
+				"I will learn " + "\"" + topic1 + "\"" + " and " + "\"" + topic2 + "\"" + " at SCHOOL.");
 	}
 
 }
