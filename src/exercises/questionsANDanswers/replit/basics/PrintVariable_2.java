@@ -15,7 +15,7 @@ public class PrintVariable_2 {
 		// Given a String variable message write a statement to display its value
 
 		// do not change
-		String message = "I am a Cybertek school student.";
+		String message = "I am a SdetRoadMap school student.";
 
 		// Write your code here:
 		System.out.println(message);

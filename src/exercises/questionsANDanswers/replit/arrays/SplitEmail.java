@@ -19,13 +19,13 @@ public class SplitEmail {
 		 * 
 		 * Example:
 		 * 
-		 * email -> info@cybertekschool.com
+		 * email -> info@codesofmine.com
 		 * 
 		 * Output:
 		 * 
 		 * Email id: info
 		 * 
-		 * Email domain: cybertekschool.com
+		 * Email domain: codesofmine.com
 		 * 
 		 * If email contains no @ character or multiple @ characters then print invalid
 		 * email:

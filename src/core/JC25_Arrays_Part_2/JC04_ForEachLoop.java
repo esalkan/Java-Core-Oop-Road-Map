@@ -54,7 +54,7 @@ public class JC04_ForEachLoop {
 
 		System.out.println("\n+----------o----------o----------+\n");
 
-		String[] products = { "Apple", "Ibm", "Microsoft", "Oracle", "Cydeo", "Udemy" };
+		String[] products = { "Apple", "Ibm", "Microsoft", "Oracle", "SDET", "Udemy" };
 		double[] prices = { 1000, 132.1, 25.242, 124.523, 6323, 745.5 };
 
 		System.out.println("\n----- print products with for loop  -----\n");

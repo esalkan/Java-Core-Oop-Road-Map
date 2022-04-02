@@ -20,7 +20,7 @@ public class EmployeeInfo {
          */
 
         String name = "Oscar";
-        String companyName = "Cybertek";
+        String companyName = "SdetRoadMap";
         String jobTitle = "SDET";
         String gender = "Male";
         int salary = 100_000;

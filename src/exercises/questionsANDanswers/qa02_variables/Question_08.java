@@ -16,12 +16,12 @@ public class Question_08 {
 		//
 		// Using those variables print the message exactly like below.
 		//
-		// I will learn Java and SQL at CybertekSchool.
+		// I will learn Java and SQL at CodesOfMine.
 
 		String sql = "SQL";
 		String java = "Java";
 
-		System.out.println("I will learn " + java + " and " + sql + " at Cydeo");
+		System.out.println("I will learn " + java + " and " + sql + " at SDET");
 	}
 
 }

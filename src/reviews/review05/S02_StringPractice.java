@@ -4,18 +4,18 @@ public class S02_StringPractice {
 
 	public static void main(String[] args) {
 		
-		String str = "Cydeo";
+		String str = "SDET";
 		
 		str.concat(" School");
 		
 		System.out.println(str);
 		
 		String strNew = str.concat(" School");
-		System.out.println(str);     // Cydeo
-		System.out.println("strNew : "+ strNew);  // Cydeo School
+		System.out.println(str);     // SDET
+		System.out.println("strNew : "+ strNew);  // SDET School
 		
-		str = strNew; // what happens to "Cydeo" object ? --> Garbage collector picks it up
-		// str reference variable points to new object "Cydeo School"
+		str = strNew; // what happens to "SDET" object ? --> Garbage collector picks it up
+		// str reference variable points to new object "SDET School"
 		
 		System.out.println("str : "+ str);
 		

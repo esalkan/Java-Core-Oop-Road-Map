@@ -11,24 +11,24 @@ public class UIAutomationTest {
 	
 	FirefoxDriver driver2 = new FirefoxDriver();
 	
-	driver1.get("http://practice.cybertekschool.com/");
+	driver1.get("http://practice.codesofmine.com/");
 	driver1.findElement("//input[@att='value']");
 	System.out.println(driver1.getTitle());
 	driver1.quit();
 	
 	System.out.println("================================================");
 	
-	driver2.get("http://practice.cybertekschool.com/");
+	driver2.get("http://practice.codesofmine.com/");
 	driver2.findElement("//input[@att='value']");
 	System.out.println(driver2.getTitle());
 	driver2.quit();
 	
 	System.out.println("==============Beauty of Polymorphism=================");	
-		driver.get("http://practice.cybertekschool.com/");
+		driver.get("http://practice.codesofmine.com/");
 		driver.quit();
 		
 		driver = new FirefoxDriver();
-		driver.get("http://practice.cybertekschool.com/");
+		driver.get("http://practice.codesofmine.com/");
 		driver.quit();
 		
 		driver = new ChromeDriver();

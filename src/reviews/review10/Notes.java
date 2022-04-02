@@ -28,7 +28,7 @@ public class Notes {
  teacherId, teach()
  }
  
- class Cybertek{          Cybertek class Has A student, Has A teacher
+ class CodesOfMine{          CodesOfMine class Has A student, Has A teacher
  		Student student1;
  		Teacher teacher1;
  }

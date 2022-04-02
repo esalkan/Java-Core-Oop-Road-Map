@@ -23,7 +23,7 @@ public class ApartmentLeasing_1 {
 		// prices 1 bedroom - 1100 2 bedroom - 1850 3 bedroom - 2550
 		// Example Flow:
 		//
-		// Welcome to Cybertek Apartments!
+		// Welcome to CodesOfmine Apartments!
 		// Number of bedrooms you are interested:
 		// 1
 		// One Bedroom Selected
@@ -33,7 +33,7 @@ public class ApartmentLeasing_1 {
 		// DO NOT TOUCH THESE LINES. TEACHER NEEDS THEM TO TEST YOUR CODE:
 		// Variables are already declared and given
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Welcome to Cybertek Apartments!");
+		System.out.println("Welcome to CodesOfmine Apartments!");
 		System.out.println("Number of bedrooms you are interested:");
 
 		int numberOfBedrooms = scan.nextInt();
