@@ -1,4 +1,4 @@
-package exercises.shorts._29_superKeywordExample;
+package exercises.shorts._29_superKeywordTest;
 
 public class Zoo_SuperKeyword {
     public static void main(String[] args) {

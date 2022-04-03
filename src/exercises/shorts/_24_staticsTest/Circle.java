@@ -1,4 +1,4 @@
-package exercises.shorts._24_staticsExamples;
+package exercises.shorts._24_staticsTest;
 
 public class Circle {
 

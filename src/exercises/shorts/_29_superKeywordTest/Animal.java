@@ -1,4 +1,4 @@
-package exercises.shorts._29_superKeywordExample;
+package exercises.shorts._29_superKeywordTest;
 
 public class Animal {
     // Common specifications for usage in Sub/Child Classes

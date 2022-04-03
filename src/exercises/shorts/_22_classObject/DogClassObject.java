@@ -1,4 +1,4 @@
-package exercises.shorts._22_classObjectExamples;
+package exercises.shorts._22_classObject;
 
 public class DogClassObject {
     public static void main(String[] args) {

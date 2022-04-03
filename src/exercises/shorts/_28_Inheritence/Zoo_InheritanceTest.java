@@ -1,4 +1,4 @@
-package exercises.shorts._28_InheritenceExample;
+package exercises.shorts._28_Inheritence;
 
 public class Zoo_InheritanceTest {
     public static void main(String[] args) {

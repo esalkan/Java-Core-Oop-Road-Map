@@ -1,4 +1,4 @@
-package exercises.shorts._23_constructorsThisKeywordExamples;
+package exercises.shorts._23_constructorsThisKeywordTest;
 
 public class Employee {
 
