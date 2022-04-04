@@ -1,4 +1,4 @@
-package exercises.shorts._34_methodOverriding;
+package exercises.shorts._33_methodOverridingTest;
 
 public class Square extends Shape {
 
