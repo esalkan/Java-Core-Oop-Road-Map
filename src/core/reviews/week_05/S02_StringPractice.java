@@ -28,7 +28,7 @@ public class S02_StringPractice {
 
 		System.out.println("\n----- toUpperCase() -----\n");
 
-		String str2 = "EU7 Batch Java Course";
+		String str2 = "Java Course";
 		str2.toUpperCase();
 
 		System.out.println("str2 : " + str2);
