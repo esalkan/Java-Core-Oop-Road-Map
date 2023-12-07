@@ -18,8 +18,8 @@ public class S02_StringPractice {
 		System.out.println(str);
 
 		String strNew = str.concat(" School");
-		System.out.println(str); // SDET
-		System.out.println(strNew); // SDET School
+		System.out.println(str);
+		System.out.println(strNew);
 
 		str = strNew; // What happens to "SDET" Object ? --> garbage collector picks it up
 		// str reference variable points to new object "SDET School"
