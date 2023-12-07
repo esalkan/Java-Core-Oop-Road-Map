@@ -25,9 +25,9 @@ public class JC05_task_03_printExercise {
 		System.out.println("Hotel");
 		System.out.println("McLeah");
 		System.out.println(" ");
-		System.out.println("This is EU7");
+		System.out.println("This is Java");
 
-		System.out.println("This is " + "EU-7");
+		System.out.println("This is " + "Java");
 		System.out.println("I am from TURKEY");
 
 		System.out.println("I " + "am " + "From " + "TURKEY");
