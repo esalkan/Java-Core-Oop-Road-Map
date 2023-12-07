@@ -48,7 +48,7 @@ public class Primitives {
 
         System.out.println("-------------------------------------------");
 
-        String name = "EU7"; // collection of Chars
+        String name = "Java"; // collection of Chars
 
         String sentence = " is doing GREAT JOB ! ";
 
