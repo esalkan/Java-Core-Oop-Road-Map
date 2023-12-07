@@ -15,7 +15,7 @@ public class StaticMethods {
 	
 	public static void anotherStaticMethod() {
 		System.out.println("I created this method to call another static method");
-		displayMessage("EU7 is hanging on, did not give up yet");
+		displayMessage("Java is hanging on, did not give up yet");
 	}
 	
 	
