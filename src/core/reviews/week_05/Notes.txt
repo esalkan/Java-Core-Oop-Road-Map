@@ -1,10 +1,10 @@
 String 
 	1. Object
 		2 ways we can create Strings
-		String str = new String("Hello EU7");
+		String str = new String("Hello Java");
 		
 		literal way of creating:
-		String strLit = "Hello EU7";
+		String strLit = "Hello Java";
 		
 		String Constant Pool (string pool):
 		Special memory location in HEAP
