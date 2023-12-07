@@ -27,7 +27,7 @@ public class ChromeDriver implements WebDriver{
 
 	@Override
 	public String getTitle() {
-		return "ChromeDriver: EU7 is the Greatest";
+		return "ChromeDriver: Java is the Greatest";
 	}
 	
 	public void uniqueMethodOfChrome() {
