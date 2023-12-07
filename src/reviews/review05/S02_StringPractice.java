@@ -22,7 +22,7 @@ public class S02_StringPractice {
 		
 		System.out.println("----------------------");
 		
-		String str2 = "EU7 Batch Java Course"; // it is created in the string pool memory
+		String str2 = "Java Course"; // it is created in the string pool memory
 		
 		str2.toUpperCase();
 		
