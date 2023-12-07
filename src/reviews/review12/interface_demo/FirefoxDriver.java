@@ -27,6 +27,6 @@ public class FirefoxDriver implements WebDriver{
 
 	@Override
 	public String getTitle() {
-		return "Firefox: EU7 is the Greatest";
+		return "Firefox: is the Greatest";
 	}
 }
