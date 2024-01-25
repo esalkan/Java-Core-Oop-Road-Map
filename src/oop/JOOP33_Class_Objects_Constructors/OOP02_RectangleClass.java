@@ -9,8 +9,8 @@ public class OOP02_RectangleClass {
 
 	// Creating variables.
 	// Their default value is 0.00
-	double length;
-	double width;
+	double length; // default value is 0.00
+	double width;	// default value is 0.00
 
 	// Creating a Method without return without parameter
 	public void getArea() {
