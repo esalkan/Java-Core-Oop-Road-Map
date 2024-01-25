@@ -9,6 +9,9 @@ public class JC02_additionConcat {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+
+		// Addition and Concatenation - Toplama ve Birleştirme
+
 		// Number + Number 	: Addition
 		// Sayı + Sayı 		: Toplama
 		System.out.println("Number + Number : Addition");
@@ -35,5 +38,4 @@ public class JC02_additionConcat {
 		System.out.println("codesofmine" + 2 + 0 + 5);
 		System.out.println(2 + 0 + 5 + "codesofmine" + 2 + 0 + 5);
 	}
-
 }

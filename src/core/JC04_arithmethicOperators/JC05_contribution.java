@@ -5,7 +5,6 @@ package core.JC04_arithmethicOperators;
  * @github https://github.com/esalkan/java-notes
  */
 public class JC05_contribution {
-
 	/**
 	 * @param args
 	 */
@@ -29,7 +28,7 @@ public class JC05_contribution {
 
 		// Display Monthly Payment
 		// Aylık Ödemeyi yazdır
-		System.out.println("Monthly Pay : $" + paymentAmount);
+		System.out.println("Monthly Pay : ₺" + paymentAmount);
 
 		// Calculate and display 5% contribution
 		// %5 katkıyı hesapla ve göster
@@ -43,5 +42,4 @@ public class JC05_contribution {
 		// %10 katkıyı hesapla ve göster.
 		System.out.println("Retirement plan 10% :" + percentage10 + " per month.");
 	}
-
 }

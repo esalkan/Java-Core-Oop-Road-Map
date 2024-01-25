@@ -5,7 +5,6 @@ package core.JC04_arithmethicOperators;
  * @github https://github.com/esalkan/java-notes
  */
 public class JC03_wages {
-
 	/**
 	 * @param args
 	 */
@@ -27,11 +26,16 @@ public class JC03_wages {
 		double totalWage; 			// Total Wage
 									// Toplam Ücret
 
-		regularWage = basePay * regularHours;
-		overTimeWages = overTimePay * overTimeHours;
+		regularWage = basePay * regularHours; // Calculate the regular wage
+		  									  // Normal ücreti hesapla
 
-		totalWage = regularWage + overTimeWages;
-		System.out.println("Wages for this week are $ " + totalWage);
+		overTimeWages = overTimePay * overTimeHours; // Calculate overtime wages
+											 		 // Fazla mesai ücretini hesapla
+
+		totalWage = regularWage + overTimeWages; 	// Calculate total wage
+													 // Toplam ücreti hesapla
+
+		System.out.println("Wages for this week are $ " + totalWage); // Print the results
+																	   // Sonuçları yazdır
 	}
-
 }
