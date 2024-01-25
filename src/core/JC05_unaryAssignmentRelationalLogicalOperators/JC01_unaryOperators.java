@@ -10,12 +10,15 @@ public class JC01_unaryOperators {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		// Unary Operators - Tekli Operatörler
+
 		// + --> Unary Plus Operator --> Indicates positive value
 		// + --> Unary Plus Operatörü --> Pozitif değeri gösterir
 		int i1 = +10;
 		int i2 = -100;
 		int i3 = -(i1 + i2);
 
+		System.out.println("+ --> Unary Plus Operator --> Indicates positive value");
 		System.out.println("Sources values : \n" + "int i1 = +10;\n" + "int i2 = -100;\n" + "int i3 = -(i1+i2);\n");
 
 		System.out.println("i1 = " + i1);
