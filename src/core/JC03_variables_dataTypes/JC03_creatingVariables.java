@@ -5,13 +5,11 @@ package core.JC03_variables_dataTypes;
  * @github https://github.com/esalkan/java-notes
  */
 public class JC03_creatingVariables {
-
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// Declaring variables and Assign the value.
-		// Değişken oluşturma ve veri atama.
+		// Creating Variables and Assigning Values - Değişkenler Oluşturma ve Değer Atama
 		int price = 5;
 		int quantity = 4;
 
@@ -43,5 +41,4 @@ public class JC03_creatingVariables {
 		System.out.println("s3 = " + s3);
 		System.out.println("s4 = " + s4);
 	}
-
 }

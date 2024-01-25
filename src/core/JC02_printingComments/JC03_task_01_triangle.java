@@ -9,13 +9,13 @@ public class JC03_task_01_triangle {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// print a rectangle with print method
-		// ekrana * lardan oluşan bir üçgen çıktısı alın.
+
+		// Let's print a triangle of *'s on the screen.
+		// Ekran üzerinde *'lardan oluşan bir üçgen yazdıralım.
 		System.out.println("    *");
 		System.out.println("   * * ");
 		System.out.println("  *   *");
 		System.out.println(" *     *");
 		System.out.println("*********");
 	}
-
 }

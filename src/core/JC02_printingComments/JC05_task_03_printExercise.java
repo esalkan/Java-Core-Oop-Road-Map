@@ -5,34 +5,28 @@ package core.JC02_printingComments;
  * @github https://github.com/esalkan/java-notes
  */
 public class JC05_task_03_printExercise {
-
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Mike");
-		System.out.println("Smith");
+		// Print Exercise with println() and print() methods
+		// println() ve print() metodları ile yazdırma alıştırması
 
-		System.out.println("England");
-		System.out.println("Germany");
-
+		System.out.println("Mehmet");
+		System.out.println("Samet");
+		System.out.println("Turkiye");
+		System.out.println("Ajerbaycan");
 		System.out.println(" ");
-
 		System.out.print("Hello");
 		System.out.print("All");
 		System.out.println("Friends");
-
 		System.out.println("Hotel");
-		System.out.println("McLeah");
+		System.out.println("Baltürk");
 		System.out.println(" ");
 		System.out.println("This is Java");
-
 		System.out.println("This is " + "Java");
 		System.out.println("I am from TURKEY");
-
 		System.out.println("I " + "am " + "From " + "TURKEY");
-
 		System.out.println(" \" ");
 	}
-
 }
